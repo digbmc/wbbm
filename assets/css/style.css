@@ -1,0 +1,18 @@
+body {
+    font-family: "Barlow Semi Condensed", sans-serif;
+    background-color: black;
+}
+a {
+color: #E7D4F2;
+text-decoration: none;
+}tou
+a:hover {
+    color: #dee787;
+}
+.footer {
+    font-family: sans-serif
+}
+
+h1 {
+    color: white;
+}

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<main>
+    <section class="p-4 container-fluid">
+        <div class="container">
+            {% include navigation.html %}
+        
+        
+        <div class="row align-items-end justify-content-center">
+            <div class="col-11 py-3">
+                <h1 class="display-3 justify-content-center"> {{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+    </section>
+    <section class="container-fluid bg-dark">
+        <div class="container">
+            <div class="row p-5">
+                {{ content }}
+            </div>
+        </div>
+    </section>
+</main>
