@@ -1,12 +1,12 @@
 <nav class="navbar">
-    <a class="navbar-brand" href="/">
-        <img src="/assets/WBBM3_Logo.png" width="100" >
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/WBBM3_Logo.png' | relative_url }}" width="100" >
         Who Built Bryn Mawr?</a>
     <ul class="nav">
-        <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="/about.html">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="/blog.html">Blog</a></li>
-        <li class="nav-item"><a class="nav-link" href="/wbbm.html">Why Build?</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ '/team.html' | relative_url }}">Team</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ '/about.html' | relative_url }}">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ '/blog.html' | relative_url }}">Blog</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ '/wbbm.html' | relative_url }}">Phases</a></li>
     </ul>
     
 </nav>

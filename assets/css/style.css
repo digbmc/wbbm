@@ -5,14 +5,25 @@ body {
 a {
 color: #E7D4F2;
 text-decoration: none;
-}tou
+}
 a:hover {
     color: #dee787;
-}
-.footer {
-    font-family: sans-serif
 }
 
 h1 {
     color: white;
+}
+
+/* .figure-img {
+    max-width: 75%
+
+} */
+
+.post-body img {
+    max-width: 100%;
+}
+
+.post-body figure img {
+    max-width: 75%;
+    text-align: center;
 }

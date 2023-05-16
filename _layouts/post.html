@@ -14,9 +14,9 @@ layout: default
             {% if page.key_image %}
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
-                    <figure class="figure col-8">
+                    <figure class="figure col-9">
                         <img src="{{ page.key_image.url }}" class="figure-img img-fluid" alt="{{ page.key_image.alt }}">
-                        <figcaption class="figure-caption text-right bg-dark">{{ page.key_image.caption }}</figcaption>
+                        <figcaption class="figure-caption text-left bg-dark">{{ page.key_image.caption }}</figcaption>
                     </figure>
                 </div>
             </div>
@@ -24,14 +24,16 @@ layout: default
             <div class="row">
                 <div class="col-12">
                     <h1 class="display-5 text-center"> {{ page.title }}</h1>
+                    <p class="text-center"><strong>{{ page.author }}</strong></p>
+                    <p class="text-center">{{ page.date | date: "%A, %B %d, %Y" }}</p>
                 </div>
             </div>
         </div>
     </section>
     <section class="container-fluid bg-dark">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
+        <div class="container post-body pb-3">
+            <div class="row justify-content-center">
+                <div class="col-9">
                 {{ content }}
                 </div>
             </div>

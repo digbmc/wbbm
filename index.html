@@ -4,12 +4,15 @@ layout: default
 ---
 <main>
     <section class="p-4 container-fluid">
-        {% include navigation.html %}
+        
+<!-- 
+
+        {% include navigation.html %} -->
         <div class="row align-items-end justify-content-center">
-            <div class="col-2">
-                <img class="pl-3" width="100%" alt="Why build Bryn Mawr?" src="/assets/WBBM3_Logo.png">
+            <div class="col-3">
+                <img class="" width="100%" alt="Why build Bryn Mawr?" src="{{ '/assets/WBBM3_Logo.png' | relative_url}}">
             </div>
-            <div class="col-8 py-3">
+            <div class="col-6 py-3">
                 <!-- <h1 style="color:black" class="display-3 pt-3">Why Build Bryn Mawr?</h1> -->
                 <h1 class="display-3">Who Built Bryn Mawr?</h1>
             <!-- <h2 class="">1872-1894</h2> -->
@@ -18,12 +21,17 @@ layout: default
     </section>
     <section class="container-fluid bg-dark">
         <div class="container">
-            <div class="row p-5 ">
+            <div class="row p-3 d-flex justify-content-center">
+                <div class="col-9">
                 <p><a href="https://www.brynmawr.edu/about-college/history/bryn-mawr-histories/who-built-bryn-mawr"><strong>Who Built Bryn Mawr?</strong></a> is an ongoing project that supports research and curatorial opportunities for students interested in changing the way the College understands its history. Over its 135+ years, the College has been sustained by countless individuals — not just the presidents, trustees, and donors memorialized on campus. Who are the people whose contributions have been forgotten, or too long overlooked? How can we tell their stories? How can we commemorate them?</p>
-            <h2 class="py-2">Past Exhibitions</h2>
-            <p><a href="https://wbbm.digitalprojects.brynmawr.edu/why-build/">Why Build Bryn Mawr? A Rough Draft in Stone, 1872-1894 (2022)</a></p>
-            <p><a href="https://digitalprojects.brynmawr.edu/who-built/">1960s Students Confronting Race (2021)</a></p>
-            <p><a href="https://www.canva.com/design/DAEWarnafGI/YkaA5I5amI8MXKfCa6x14Q/view?utm_content=DAEWarnafGI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1">Beginnings: Sally Brown, Uméko Tsuda, Hilda Worthington Smith, and Enid Cook (2020)</a></p>
+                </div>
+                <div class="col-4">
+                   <p><button type="button" class="btn btn-light p-2 mx-2"><a style="color: purple" href="{{ '/blog.html' | relative_url}}">Read our blog</a></button>
+                    <button type="button" class="btn btn-light p-2 mx-2"><a style="color: purple" href="{{ '/wbbm.html' | relative_url}}">Explore past exhibits</a></button>
+                </p>
+                </div>
+                </div>
+                
             </div>
         </div>
     </section>
@@ -34,3 +42,20 @@ layout: default
     </section> -->
 
 </main>
+<footer>
+    <section class="footer">
+        <div class="container">
+            <nav class="navbar">
+                <ul class="nav">
+                    <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Who Built Bryn Mawr?</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ '/team.html' | relative_url }}">Team</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ '/about.html' | relative_url }}">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ '/blog.html' | relative_url }}">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ '/wbbm.html' | relative_url }}">Phases</a></li>
+                </ul>
+                <a href="https://www.brynmawr.edu/">Bryn Mawr College, 2023</a>
+            </nav>
+            
+        </div>
+    </section>
+</footer>
