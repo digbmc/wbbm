@@ -48,10 +48,12 @@ layout: default
             <nav class="navbar">
                 <ul class="nav">
                     <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Who Built Bryn Mawr?</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ '/team.html' | relative_url }}">Team</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ '/about.html' | relative_url }}">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ '/blog.html' | relative_url }}">Blog</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ '/wbbm.html' | relative_url }}">Phases</a></li>
+
+                    {% for item in site.data.menu %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    </li>
+                    {% endfor %}
                 </ul>
                 <a href="https://www.brynmawr.edu/">Bryn Mawr College, 2023</a>
             </nav>

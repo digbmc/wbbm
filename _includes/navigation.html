@@ -3,10 +3,12 @@
         <img src="{{ '/assets/WBBM3_Logo.png' | relative_url }}" width="100" >
         Who Built Bryn Mawr?</a>
     <ul class="nav">
-        <li class="nav-item"><a class="nav-link" href="{{ '/team.html' | relative_url }}">Team</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ '/about.html' | relative_url }}">About</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ '/blog.html' | relative_url }}">Blog</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ '/wbbm.html' | relative_url }}">Phases</a></li>
+        {% for item in site.data.menu %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+
     </ul>
     
 </nav>
