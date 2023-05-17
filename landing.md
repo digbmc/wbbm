@@ -1,5 +1,5 @@
 ---
-title: Phases of Who Built Bryn Mawr?
+title: Who Built Bryn Mawr?
 layout: page
 ---
 

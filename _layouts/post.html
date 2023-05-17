@@ -12,9 +12,9 @@ layout: default
         <div class="container">
             <!-- {% include navigation.html %} -->
             {% if page.key_image %}
-            <div class="row">
-                <div class="col-12 d-flex justify-content-center">
-                    <figure class="figure col-9">
+            <div class="row justify-content-center">
+                <div class="col-12-lg d-flex justify-content-center">
+                    <figure class="figure col-md-9">
                         <img src="{{ page.key_image.url }}" class="figure-img img-fluid" alt="{{ page.key_image.alt }}">
                         <figcaption class="figure-caption text-left bg-dark">{{ page.key_image.caption }}</figcaption>
                     </figure>
@@ -33,7 +33,7 @@ layout: default
     <section class="container-fluid bg-dark">
         <div class="container post-body pb-3">
             <div class="row justify-content-center">
-                <div class="col-9">
+                <div class="col-lg-9">
                 {{ content }}
                 </div>
             </div>
