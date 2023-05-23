@@ -1,0 +1,74 @@
+<!-- get specified media item from site.data.media -->
+{% for item in site.data.media %}
+    {% if item.item_id == include.item_id %}
+        {% assign this-media = item %}
+    {% endif %}
+{% endfor %}
+
+<!-- divs to contain the media item and its metadata -->
+<div id="{{ this-media.item_id }}" class="media-container">
+    {% if this-media.item_type == "image" %}
+        <img src="{{ this-media.item_location }}" alt="{{ this-media.description }}">
+        {% comment %}<div class="image-caption">{{ this-media.description }}</div>{% endcomment %}
+    {% endif %}
+    <div class="metadata-container">
+        <!-- builds a table for the metadata associated with this media item -->
+        <table>
+            {% if this-media.title %}
+            <tr>
+                <th>Title</th>
+                <td>{{ this-media.title }}</td>
+            </tr>
+            {% endif %}
+            {% if this-media.creator %}
+            <tr>
+                <th>Creator</th>
+                <td>{{ this-media.creator }}</td>
+            </tr>
+            {% endif %}
+            {% if this-media.date %}
+            <tr>
+                <th>Date</th>
+                <td>{{ this-media.date }}</td>
+            </tr>
+            {% endif %}
+            {% if this-media.description %}
+            <tr>
+                <th>Description</th>
+                <td>{{ this-media.description }}</td>
+            </tr>
+            {% endif %}
+            {% if this-media.source %}
+            <tr>
+                <th>Source</th>
+                <td>{{ this-media.source }}</td>
+            </tr>
+            {% endif %}
+        </table>
+        {% comment %}
+        {% if this-media.title %}<p class="media-title">Title: {{ this-media.title }}</p>{% endif %}
+        {% if this-media.creator %}<p class="media-title">Creator: {{ this-media.creator }}</p>{% endif %}
+        {% endcomment %}
+    </div>
+</div>
+
+<!-- apply styles according to specified alignment -->
+{% if include.align %}
+<style>
+    #{{ this-media.item_id }} {
+    {% if include.align == "left" %}
+        float: left;
+        margin-right: 0.5rem;
+        width: 50%;
+    {% elsif include.align == "right" %}
+        float: right;
+        margin-left: 0.5rem;
+        width: 50%;
+    {% elsif include.align == "center" %}
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    {% endif %}
+    }
+</style>
+{% endif %}

@@ -1,11 +1,14 @@
 body {
     font-family: "Barlow Semi Condensed", sans-serif;
     background-color: black;
+    font-size: 1.25rem;
 }
+
 a {
 color: #E7D4F2;
 text-decoration: none;
 }
+
 a:hover {
     color: #dee787;
 }
@@ -34,4 +37,36 @@ h1 {
 
 .filter-grey {
     filter: invert(100%);
+}
+
+/* media items */
+.media-container {
+    margin-bottom: 1rem
+}
+
+.media-container img {
+    width: 100%;
+}
+
+.media-container .image-caption {
+    font-size: 1rem;
+    color: #ADB2B8;
+    background-color: black;
+    padding: 0.25rem;
+}
+
+.media-container .metadata-container {
+    font-size: 1rem;
+    color: #ADB2B8;
+    background-color: black;
+    padding: 0.25rem;
+    width: 100%;
+}
+
+.media-container .metadata-container th:first-child, .media-container .metadata-container td:first-child {
+    padding-right: 2rem;
+}
+
+.media-container .metadata-container td {
+    color: white;
 }
