@@ -64,3 +64,14 @@ In your blog post, add the following code to the text content of the post wherev
 Be sure to change the `item_id` to the id associated with the media item you wish to call. You can also adjust the alignment of the item by changing `align="right"` to `align="left"` or `align="center"`.
 
 ### To change the menu items
+
+To change the pages listed in the menu or navigation bar, edit the menu.yml file in the site's _data directory. 
+
+To add an item to the menu, add an item to the list in this file. Here is the format for a new list item:
+```
+- title: 
+  url: 
+```
+The `title` should be the name of the target page as you want it to appear in the menu bar. The `url` should be the path to the page's file in the site repository. In most cases the url will consist of a forward slash (/), the name of the target page's file in the repository (minus its file extension), and the file extension .html. For example, the url for the Blog page, which builds from the file `blog.md`, is `/blog.html` and the url for the About page, which builds from the file `about.md` is `/about.html`.
+
+To remove an item from the menu, delete the corresponding list item in menu.yml.
