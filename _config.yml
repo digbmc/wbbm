@@ -5,7 +5,7 @@ collections:
     output: true
     sort_by: date
 
-titile: Who Built Bryn Mawr?
+title: Who Built Bryn Mawr?
 
 url: https://wbbm.digitalprojects.brynmawr.edu
 baseurl: /dev-2023/
