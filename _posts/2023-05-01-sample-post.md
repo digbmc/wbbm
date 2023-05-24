@@ -11,6 +11,8 @@ key_image:
 
 When the commissionaire had gone, Holmes took up the stone and held it against the light. "It's a bonny thing," said he. "Just see how it glints and sparkles. Of course it is a nucleus and focus of crime. Every good stone is. They are the devil's pet baits. In the larger and older jewels every facet may stand for a bloody deed. This stone is not yet twenty years old. It was found in the banks of the Amoy River in southern China and is remarkable in having every characteristic of the carbuncle, save that it is blue in shade instead of ruby red. In spite of its youth, it has already a sinister history. There have been two murders, a vitriol-throwing, a suicide, and several robberies brought about for the sake of this forty-grain weight of crystallised charcoal. Who would think that so pretty a toy would be a purveyor to the gallows and the prison? I'll lock it up in my strong box now and drop a line to the Countess to say that we have it."
 
+{% include media.html item_id="media_004" align="right" %}
+
 "Do you think that this man Horner is innocent?"
 
 "I cannot tell."
@@ -23,8 +25,6 @@ When the commissionaire had gone, Holmes took up the stone and held it against t
 
 "Nothing."
 
-![more endpapers](https://alicetmcgrath.com/images/Marbled1.jpeg)
-
 "In that case I shall continue my professional round. But I shall come back in the evening at the hour you have mentioned, for I should like to see the solution of so tangled a business."
 
 "Very glad to see you. I dine at seven. There is a woodcock, I believe. By the way, in view of recent occurrences, perhaps I ought to ask Mrs. Hudson to examine its crop."
@@ -35,10 +35,7 @@ I had been delayed at a case, and it was a little after half-past six when I fou
 
 "Yes, sir, that is undoubtedly my hat."
 
-<figure class="figure">
-    <img src="https://alicetmcgrath.com/images/Marbled1.jpeg">
-    <figcaption class="figure-caption text-right">Marbled endpapers</figcaption>
-</figure>
+{% include media.html item_id="media_002" align="left" %}
 
 He was a large man with rounded shoulders, a massive head, and a broad, intelligent face, sloping down to a pointed beard of grizzled brown. A touch of red in nose and cheeks, with a slight tremor of his extended hand, recalled Holmes' surmise as to his habits. His rusty black frock-coat was buttoned right up in front, with the collar turned up, and his lank wrists protruded from his sleeves without a sign of cuff or shirt. He spoke in a slow staccato fashion, choosing his words with care, and gave the impression generally of a man of learning and letters who had had ill-usage at the hands of fortune.
 

@@ -6,6 +6,7 @@
   date:
   description: A photograph of Captain Janeway the axolotl.
   source:
+
 - item_id: media_002
   item_type: image # image, video
   item_location: https://wbbm.digitalprojects.brynmawr.edu/why-build/wp-content/uploads/2022/09/Bryn_Mawr_College_Campus_Map_1885.jpeg # path or src/url
@@ -14,6 +15,7 @@
   date: 1885
   description: A hand-drawn map of Bryn Mawr College.
   source:
+
 - item_id: media_003
   item_type: image # image, video
   item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9D%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96_%D0%BC%D0%B8%D1%82%D1%96_%D0%B6%D0%B8%D1%82%D1%82%D1%8F.jpg/1599px-%D0%9D%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96_%D0%BC%D0%B8%D1%82%D1%96_%D0%B6%D0%B8%D1%82%D1%82%D1%8F.jpg?20200705072301 # path or src/url
@@ -22,3 +24,12 @@
   date: 31 May 2018
   description: Rhododendron flowers in the Carpathian Mountains, Carpathian National Nature Park, Ukraine.
   source: Wikimedia Commons
+
+- item_id: media_004
+  item_type: image
+  item_location: https://tile.loc.gov/storage-services/service/pnp/ppmsca/51500/51533r.jpg
+  title: Brünhilde
+  creator: Weidhaas, Adolph Edward, photographer 
+  description: Photograph shows side view of a cat wearing a winged helmet and breastplate armor in the role of the valkyrie Brünnhilde from the opera Der Ring des Niebelungen. 
+  date: [1936]
+  source: <a href="https://www.loc.gov/resource/ppmsca.51533/">Library of Congress digital collection.</a>
