@@ -7,5 +7,5 @@ collections:
 
 title: Who Built Bryn Mawr?
 
-url: https://wbbm.digitalprojects.brynmawr.edu
-baseurl: /dev-2023/
+url: http://digbmc.github.io # https://wbbm.digitalprojects.brynmawr.edu
+baseurl: /wbbm # /dev-2023

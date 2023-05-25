@@ -49,7 +49,7 @@ The `item_id` should be a unique identifier for the item, as it will be used to 
 
 If the media item you are adding is an image, be sure that `item_type` is set to `image`. (Other types of media items, such as videos, are not currently supported, but the `item_type` attribute will allow future support for other media formats, if needed.)
 
-The `item_location` should be the path or url for the media item, depending on where the file is stored. If the media item is from an online source, use the file’s url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/dev-2023/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
+The `item_location` should be the path or url for the media item, depending on where the file is stored. If the media item is from an online source, use the file’s url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/wbbm/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
 
 The title, creator, date, description, and source attributes store the metadata for your media item. Be sure to fill them out with the corresponding information for your item, if available.
 

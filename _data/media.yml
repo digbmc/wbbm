@@ -1,6 +1,6 @@
 - item_id: media_001
   item_type: image # image, video
-  item_location: /dev-2023/assets/images/janeway.jpg # path or src/url
+  item_location: /wbbm/assets/images/janeway.jpg # path or src/url
   title: Captain Janeway
   creator:
   date:
