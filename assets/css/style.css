@@ -39,9 +39,79 @@ h1 {
     filter: invert(100%);
 }
 
-/* media items */
+/* ----- Landing Page ----- */
+
+/* header */
+
+.py-3 {
+    padding-bottom: 0 !important;
+}
+
+h1.display-3 {
+    vertical-align: bottom;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 480px) {
+    h1.display-3 {
+        font-size: 1.25em;
+    }
+}
+
+/* buttons */
+
+.button-container {
+    text-align: center;
+
+    .btn {
+        margin: 0.25rem 0 0 0.25rem !important;
+    }
+}
+
+/* footer */
+
+.bmc-link {
+    padding: 0.5rem 1rem;
+}
+
+@media screen and (max-width: 530px) {
+    .bmc-link {
+        display: block;
+        margin-left: auto;
+    }
+}
+
+/* ----- Media Items ----- */
+
 .media-container {
     margin-bottom: 1rem
+}
+
+.align-left {
+    float: left;
+    margin-right: 0.5rem;
+    width: 50%;
+}
+
+.align-right {
+    float: right;
+    margin-left: 0.5rem;
+    width: 50%;
+}
+
+.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 480px) {
+    .align-left, .align-right {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
 }
 
 .media-container img {
