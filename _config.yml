@@ -4,6 +4,7 @@ collections:
   posts:
     output: true
     sort_by: date
+    permalink: /blog/:categories/:year/:month/:day/:title/
 
 title: Who Built Bryn Mawr?
 

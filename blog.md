@@ -1,6 +1,7 @@
 ---
 title: Blog
 layout: page
+permalink: /blog/
 ---
 
 {% include post-list.html %}
