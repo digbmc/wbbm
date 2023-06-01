@@ -1,0 +1,16 @@
+---
+---
+
+/* Fonts */
+$main-font: "Barlow Semi Condensed", sans-serif;
+$regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+
+
+/* Color */
+
+$text-color: white;
+$heading-color: white;
+$link-color: #FFE95E; /* purple: #CFA6E7 / teal: #5bc4bf */
+$link-color-hover: #fff29f;
+
+@import "wbbm";

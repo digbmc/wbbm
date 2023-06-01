@@ -1,11 +1,8 @@
-- title: About
-  url: /about/
-
-- title: Team
-  url: /team/
-
-- title: Blog
-  url: /blog/
-
-- title: Phases
-  url: /wbbm/
+- phase: P4
+  navigation:
+    - title: About
+      url: /2023-2026/about/
+    - title: Blog
+      url: /2023-2026/blog/
+    - title: Team
+      url: /2023-2026/team/

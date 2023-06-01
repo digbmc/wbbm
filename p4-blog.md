@@ -1,7 +1,8 @@
 ---
 title: Blog
 layout: page
-permalink: /blog/
+phase: P4
+permalink: /2023-2026/blog/
 ---
 
 {% include post-list.html %}

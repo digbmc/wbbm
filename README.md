@@ -72,6 +72,6 @@ To add an item to the menu, add an item to the list in this file. Here is the fo
 - title: 
   url: 
 ```
-The `title` should be the name of the target page as you want it to appear in the menu bar. The `url` should match the target page's permalink. For example, the url for the Blog page is `/blog/`, which matches the permalink set in the front matter of the blog.md file. Similarly, the url for the About page is `/about/`, because that the permalink set in the front matter of the about.md file.
+The `title` should be the name of the target page as you want it to appear in the menu bar. The `url` should match the target page's permalink. For example, the url for the current phase's Blog page is `/2023-2026/blog/`, which matches the permalink set in the front matter of the p4-blog.md file. Similarly, the url for the current phase's About page is `/2023-2026/about/`, because that the permalink set in the front matter of the p4-about.md file.
 
 To remove an item from the menu, delete the corresponding list item in menu.yml.

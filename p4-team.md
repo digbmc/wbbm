@@ -1,7 +1,7 @@
 ---
 title: Team
 layout: page
-permalink: /team/
+permalink: /2023-2026/team/
 ---
 
 ## 2023

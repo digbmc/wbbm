@@ -1,7 +1,8 @@
 ---
 title: About
 layout: page
-permalink: /about/
+phase: P4
+permalink: /2023-2026/about/
 ---
 
 The pair walked on again for a while in silence; and then “Enfield,” said Mr. Utterson, “that’s a good rule of yours.”

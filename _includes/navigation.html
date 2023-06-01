@@ -1,12 +1,19 @@
 <nav class="navbar">
-    <a class="navbar-brand" href="{{ '/' | relative_url }}">
+    <!--<a class="navbar-brand" href="{{ '/' | relative_url }}">
         <img class="filter-grey" src="{{ '/assets/images/wbbm-logo-black.svg' | relative_url}}" width="100" >
-        Who Built Bryn Mawr?</a>
+        Who Built Bryn Mawr?</a>-->
+    <a class="navbar-brand" href="{{ '/2023-2026/' | relative_url }}">
+        <img src="{{ '/assets/images/WBBM-P4.png' | relative_url}}" width="100" >
+        Who Built Bryn Mawr? 2023-2026</a>
     <ul class="nav">
         {% for item in site.data.menu %}
-        <li class="nav-item">
-            <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        </li>
+            {% if item.phase == page.phase %}
+                {% for i in item.navigation %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ i.url | relative_url }}">{{ i.title }}</a>
+                </li>
+                {% endfor %}
+            {% endif %}
         {% endfor %}
 
     </ul>

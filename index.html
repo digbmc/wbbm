@@ -1,62 +1,37 @@
 ---
-title: Home
-layout: default
+title: Who Built Bryn Mawr?
+layout: home
 ---
-<main>
-    <section class="p-4 container-fluid">
-        
-<!-- 
-
-        {% include navigation.html %} -->
-        <div class="row align-items-end justify-content-center">
-            <div class="col-3">
-                <img class="filter-grey" width="90%" alt="Why build Bryn Mawr?" src="{{ '/assets/images/wbbm-logo-black.svg' | relative_url}}">
-            </div>
-            <div class="col-6 py-3">
-                <!-- <h1 style="color:black" class="display-3 pt-3">Why Build Bryn Mawr?</h1> -->
-                <h1 class="display-3">Who Built Bryn Mawr?</h1>
-            <!-- <h2 class="">1872-1894</h2> -->
-            </div>
+<!--<section class="container-fluid col-9 home-header">
+    <div class="row align-items-center">
+        <div class="clearfix">
+            <a class="col-4 col-md-3 float-start site-logo" href="{{ '/' | relative_url }}"><img class="filter-grey" src="{{ '/assets/images/wbbm-logo-black.svg' | relative_url}}"></a>
+            <p><a href="https://www.brynmawr.edu/about-college/history/bryn-mawr-histories/who-built-bryn-mawr"><strong>Who Built Bryn Mawr?</strong></a> is an ongoing project that supports research and curatorial opportunities for students interested in changing the way the College understands its history. Over its 135+ years, the College has been sustained by countless individuals — not just the presidents, trustees, and donors memorialized on campus. Who are the people whose contributions have been forgotten, or too long overlooked? How can we tell their stories? How can we commemorate them?</p>
         </div>
-    </section>
-    <section class="container-fluid bg-dark">
-        <div class="container">
-            <div class="row p-3 d-flex justify-content-center">
-                <div class="col-md-9">
+    </div>
+</section>-->
+<section class="container-fluid p-3">
+    <div class="row">
+        <div class="col-9 m-auto">
+            <p><a href="https://www.brynmawr.edu/about-college/history/bryn-mawr-histories/who-built-bryn-mawr"><strong>Who Built Bryn Mawr?</strong></a> is an ongoing project that supports research and curatorial opportunities for students interested in changing the way the College understands its history. Over its 135+ years, the College has been sustained by countless individuals — not just the presidents, trustees, and donors memorialized on campus. Who are the people whose contributions have been forgotten, or too long overlooked? How can we tell their stories? How can we commemorate them?</p>
+        </div>
+       <!-- <div class="col-12 col-md-9 col-lg-4 m-auto">
+            <img class="img-fluid" alt="Who built Bryn Mawr?: An invitation to revise, rewrite, and rediscover the way the college tells the stories of its past" src="{{ '/assets/images/WBBM-P1-arch.png' | relative_url}}">
+        </div>
+        <div class="w-100 d-lg-none"></div>-->
+        <div class="col-9 mx-auto">
+            {% include phase-grid.html %}
+        </div>
+    </div>
+</section>
+<!--
+<section class="container-fluid bg-dark">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9" style="padding: 2rem 0;">
                 <p><a href="https://www.brynmawr.edu/about-college/history/bryn-mawr-histories/who-built-bryn-mawr"><strong>Who Built Bryn Mawr?</strong></a> is an ongoing project that supports research and curatorial opportunities for students interested in changing the way the College understands its history. Over its 135+ years, the College has been sustained by countless individuals — not just the presidents, trustees, and donors memorialized on campus. Who are the people whose contributions have been forgotten, or too long overlooked? How can we tell their stories? How can we commemorate them?</p>
-                </div>
-                <div class="col-lg-4 link-container">
-                    <a class="link-button" href="{{ '/blog/' | relative_url}}">Read our blog</a>
-                    <a class="link-button" href="{{ '/wbbm/' | relative_url}}">Explore past exhibits</a>
-                </div>
-                </div>
-                
             </div>
         </div>
-    </section>
-    <!-- <section class="footer p-2">
-        <div class="container">
-        <a href="https://www.brynmawr.edu/">Bryn Mawr College</a>, 2022
-        </div>
-    </section> -->
-
-</main>
-<footer>
-    <section class="footer">
-        <div class="container">
-            <nav class="navbar">
-                <ul class="nav">
-                    <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Who Built Bryn Mawr?</a></li>
-
-                    {% for item in site.data.menu %}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-                <a class="bmc-link" href="https://www.brynmawr.edu/">Bryn Mawr College, 2023</a>
-            </nav>
-            
-        </div>
-    </section>
-</footer>
+    </div>
+</section>
+-->

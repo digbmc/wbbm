@@ -1,6 +1,7 @@
 ---
-title: Welcome to our 2023 Blog!
 layout: post
+phase: P4
+title: Welcome to our 2023 Blog!
 author: Jane Doe
 description: In which I welcome you to our blog.
 key_image:
