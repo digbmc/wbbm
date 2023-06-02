@@ -2,7 +2,7 @@
 title: WBBM 2023-2026
 layout: page
 phase: P4
-permalink: /2023-2026/
+permalink: /2023-2026/ # permalink for phase landing page must be set in front matter
 ---
 
 <section class="container">
