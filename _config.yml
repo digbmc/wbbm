@@ -1,12 +1,17 @@
 
 
+title: Who Built Bryn Mawr?
+
+url: http://digbmc.github.io # https://wbbm.digitalprojects.brynmawr.edu
+baseurl: /wbbm # /dev-2023
+
+permalink: pretty
+
+sass:
+    sass_dir: _sass
+
 collections:
   posts:
     output: true
     sort_by: date
     permalink: /blog/:categories/:year/:month/:day/:title/
-
-title: Who Built Bryn Mawr?
-
-url: http://digbmc.github.io # https://wbbm.digitalprojects.brynmawr.edu
-baseurl: /wbbm # /dev-2023
