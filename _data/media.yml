@@ -6,6 +6,7 @@
   date:
   description: A photograph of Captain Janeway the axolotl.
   source:
+  accession_number:
 
 - item_id: media_002
   item_type: image # image, video
@@ -15,6 +16,7 @@
   date: 1885
   description: A hand-drawn map of Bryn Mawr College.
   source:
+  accession_number:
 
 - item_id: media_003
   item_type: image # image, video
@@ -24,6 +26,7 @@
   date: 31 May 2018
   description: Rhododendron flowers in the Carpathian Mountains, Carpathian National Nature Park, Ukraine.
   source: Wikimedia Commons
+  accession_number:
 
 - item_id: media_004
   item_type: image
@@ -33,3 +36,4 @@
   description: Photograph shows side view of a cat wearing a winged helmet and breastplate armor in the role of the valkyrie Brünnhilde from the opera Der Ring des Niebelungen. 
   date: [1936]
   source: <a href="https://www.loc.gov/resource/ppmsca.51533/">Library of Congress digital collection.</a>
+  accession_number:

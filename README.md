@@ -53,7 +53,13 @@ In some cases, you may need to override the permalink automatically generated fo
 
 ### To add media to the site's collection
 
-To add media items, such as images, to the site’s media collection, you will have to edit the media.yml file found in the site’s _data directory. To add an item to the list of media in this file, you can copy the following code and paste it at the bottom of the media.yml file: 
+To add images to the site, you will either need to upload the image file to the repository or, if it is already on another website, you can use the image's url.
+
+To upload an image to the site, you will need to add the image to the "images" folder, which is located inside the "assets" folder. You can either do this by uploading a file to your remote branch in GitHub, or by adding it to the /assets/images folder in your local branch and committing and pushing your changes to your remote branch. Make sure your new image has a unique filename that contains no spaces (use dashes or underscores instead) and ends in the file extension .jpg, .jpeg, or .png. 
+
+Also, it is good to be mindful of the file size of your images. Images that are too large will make the site take longer to load and increase the site's carbon footprint. To avoid this, image file sizes should be around 200 KB or less. If an image you would like to use has a large file size, you can use the image compression tool [Squoosh](https://squoosh.app/) to reduce the file size by decreasing the size of the image in pixels and/or compressing the image. Often, you can reduce the file size of large images without noticeably reducing the quality of the image at the size it will be displayed on the website.
+
+Once you have added the file to the repository or found the image's url, you should add the image and any relevant metadata to the site's media collection. To add media items, such as images, to the site’s media collection, you will have to edit the media.yml file found in the site’s _data directory. To add an item to the list of media in this file, you can copy the following code and paste it at the bottom of the media.yml file: 
 ```yaml
 - item_id: 
   item_type: image
@@ -63,16 +69,19 @@ To add media items, such as images, to the site’s media collection, you will h
   date:
   description:
   source:
+  accession_number:
 ```
 Then, you will need to fill out the missing attributes for your new media item.
 
-The `item_id` should be a unique identifier for the item, as it will be used to “call” this item and its metadata when you add it to a blog post or another page on the site. 
+The `item_id` should be a unique identifier for the item, as it will be used to “call” this item and its metadata when you add it to a blog post or another page on the site. Ideally, if you have added the image to the /assets/images folder, the `item_id` should be identical to the image's filename (minus the file extension).
 
 If the media item you are adding is an image, be sure that `item_type` is set to `image`. (Other types of media items, such as videos, are not currently supported, but the `item_type` attribute will allow future support for other media formats, if needed.)
 
-The `item_location` should be the path or url for the media item, depending on where the file is stored. If the media item is from an online source, use the file’s url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/wbbm/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
+The `item_location` should be the path or url for the media item, depending on where the file is stored. If the image is from an online source, use the image's url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/wbbm/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
 
-The title, creator, date, description, and source attributes store the metadata for your media item. Be sure to fill them out with the corresponding information for your item, if available.
+The title, creator, date, description, source, and accession_number attributes store the metadata for your media item. Be sure to fill them out with the corresponding information for your item, if available. If you do not have the information for all of these attributes (for example, if you do not know the creator of the item or the item does not have an accession number), you can safely leave these attributes empty, or fill them in as "Unknown".
+
+Note: Currently, the "description" attribute is also used to add alt text to the images on the site, so be sure to add a description that can function as alt text.
 
 ### To add media items to a blog post or other page
 
