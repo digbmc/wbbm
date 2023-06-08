@@ -45,6 +45,8 @@ phase: P4
 ```
 You can copy this front matter into your new file and update the values as needed. The `layout` must be set to `page`. The identifier for the current phase (2023-2026) is `P4`. All pages and posts associated with the current phase should have `phase: P4` in their YAML front matter.
 
+#### Permalinks
+
 The permalink for the new page will depend on the location of its file in the site repository. If the file is in the root directory, the page's permalink will be `/filename/`, where "filename" is the name of the file minus its file extension. If the file is in another folder, the permalink will be `/folder/filename/`, where "folder" is the name of the folder that houses the file. For example, the permalink for the current phase's "About" page, which is generated from the about.md file in the "2023-2026" folder, is `/2023-2026/about/`.
 
 You will need the permalink to add the new page to the site's navigation bar and to create other links to the page. Instructions for editing the nav bar can be found below.
@@ -112,7 +114,7 @@ The menu.yml file is written in YAML and consists of a list that looks something
 ```
 Each item in this list has two keys: `phase` and `navigation`. The value of the `phase` key should be set to the identifier for the phase that the nav bar will be used for. The value of the `navigation` key is the list of items you want to appear in the nav bar. Each of these list items has two keys: `title` and `url`.
 
-The value for `title` should be the name of the target page as you want it to appear in the menu bar. The `url` should match the target page's permalink. For example, the url for the current phase's Blog page is `/2023-2026/blog/`, which matches the permalink set in the front matter of the p4-blog.md file. Similarly, the url for the current phase's About page is `/2023-2026/about/`, because that the permalink set in the front matter of the p4-about.md file.
+The value for `title` should be the name of the target page as you want it to appear in the menu bar. The `url` should match the target page's permalink. Instructions for figuring out what the page's permalink is can be found in the ["Permalinks"](#permalinks) section above.
 
 To create a nav bar for a new phase, copy the code block above and update the values.
 
