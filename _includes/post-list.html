@@ -1,6 +1,6 @@
 
 <div class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts | where: "published" %}
     {% if post.phase == page.phase or page.phase == "all" %}
     <hr>
         <div class="row py-2">
