@@ -50,7 +50,7 @@
 
 - item_id: media_006
   item_type: image
-  item_location:  /wbbm/assets/images/media_006.tif # path or src/url
+  item_location:  /wbbm/assets/images/media_006.jpg # path or src/url
   title: Fung Kei Liu at Canton Christian College
   creator: Yihan Liu, photographer
   description: photo
@@ -100,7 +100,7 @@
 
 - item_id: media_011
   item_type: image
-  item_location:  /wbbm/assets/images/media_011.tif # path or src/url
+  item_location:  /wbbm/assets/images/media_011.jpg # path or src/url
   title: Fung Kei Liu, 1922 yearbook
   creator: Yihan Liu, photographer
   description: photo
