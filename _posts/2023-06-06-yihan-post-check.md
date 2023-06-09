@@ -13,7 +13,7 @@ Bryn Mawr alumnae in China and Japan wrote to each other to tell their accomplis
 
 The members of the Chinese scholarship committee considered students from Canton Christian College, the North China Union College for Women, and St. Hilda’s. Candidates included the daughter of a wealthy merchant, the sister of a Chinese poet, and so on. The committee finally chose Fung Kei Liu from Canton Christian College as the first Bryn Mawr Chinese scholar. [^1]
 {% include media.html item_id="media_006" align="left" %}
-{% include media.html item_id="media_008" align="right" %}
+{% include media.html item_id="media_011" align="right" %}
 
 Fung Kei Liu was born in Canton, China. Her father, Tak Shan Liu, was a Baptist minister and a medical doctor.  He graduated from the Hong Kong College of Medicine for Chinese, where he met and became friends with Yat Sen Sun, the first provisional president of the Republic of China and the founder of the Nationalist Party of China. Fung Kei Liu was the third of ten children. Of the seven daughters, four had become principals of schools. Fung Kei Liu’s two older sisters both received education master’s degrees from Columbia University. After being chosen as the first Chinese scholar of Bryn Mawr College, Fung Kei Liu studied first at Shipley School and then graduated from Bryn Mawr College in 1922. She returned to China upon graduation and founded Yuet Wah School in Macau, because she aspired to see a school “which is not for propaganda, for business, nor positions, but for giving the children true education”. [^2]
 {% include media.html item_id="media_007" align="center" %}
