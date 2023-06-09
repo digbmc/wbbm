@@ -7,7 +7,7 @@ key_image:
     utl: https://www.brynmawr.edu/sites/default/files/styles/contact/public/migrated-files/field/intro-image/Taylor%20Hall_drone%20shot%20without%20wordmark.jpg?h=19f14c2c&itok=sheosmst
     alt: 
     caption: Taylor Hall
-public: false 
+public: true 
 ---
 
 Have you ever stopped to think about the bell in Taylor Hall? No, not the big one that everyone was ringing at the end of semester. I’m talking about the bell on the first floor when you walk down the hall towards admin offices. If you’ve never noticed it before, don’t worry I didn’t even realize it existed until this summer.
