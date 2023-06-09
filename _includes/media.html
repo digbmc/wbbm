@@ -44,6 +44,12 @@
                 <td>{{ this-media.source }}</td>
             </tr>
             {% endif %}
+            {% if this-media.accession_number %}
+            <tr>
+                <th>Accession Number</th>
+                <td>{{ this-media.accession_number }}</td>
+            </tr>
+            {% endif %}
         </table>
         {% comment %}
         {% if this-media.title %}<p class="media-title">Title: {{ this-media.title }}</p>{% endif %}
