@@ -5,7 +5,7 @@ layout: post
 author: Grace Foresman
 description: discussion of the history of the Japanese temple bell in Taylor Hall 
 key_image:
-    utl: https://www.brynmawr.edu/sites/default/files/styles/contact/public/migrated-files/field/intro-image/Taylor%20Hall_drone%20shot%20without%20wordmark.jpg?h=19f14c2c&itok=sheosmst
+    url: https://www.brynmawr.edu/sites/default/files/styles/contact/public/migrated-files/field/intro-image/Taylor%20Hall_drone%20shot%20without%20wordmark.jpg?h=19f14c2c&itok=sheosmst
     alt: 
     caption: Taylor Hall
 public: true 
