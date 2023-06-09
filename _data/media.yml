@@ -50,8 +50,8 @@
 
 - item_id: media_006
   item_type: image
-  item_location:  /wbbm/assets/images/media_006.jpg # path or src/url
-  title: Fung Kei Liu's photo1
+  item_location:  /wbbm/assets/images/media_006.tif # path or src/url
+  title: Fung Kei Liu at Canton Christian College
   creator: Yihan Liu, photographer
   description: photo
   date: 9 June 2023
@@ -62,6 +62,16 @@
   item_type: image
   item_location:  /wbbm/assets/images/media_007.jpg # path or src/url
   title: Yuet Wah school
+  creator: Yihan Liu, photographer
+  description: photo
+  date: 9 June 2023
+  source: Yihan Liu
+  accession_number: 
+
+- item_id: media_008
+  item_type: image
+  item_location:  /wbbm/assets/images/media_008.tif # path or src/url
+  title: Fung Kei Liu, 1922 yearbook
   creator: Yihan Liu, photographer
   description: photo
   date: 9 June 2023
