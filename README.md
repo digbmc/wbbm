@@ -24,7 +24,7 @@ key_image: # do not write anything in this line
     url: 
     alt: 
     caption:
-published: true 
+public: true 
 ---
 
 ```
@@ -32,7 +32,7 @@ After you have copied this code into your new file, fill out all of the missing 
 
 Once you have filled out the information in the header, add the text content of your blog post after the three dashes (---) that close the header. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
-If your post is still a draft or not ready to be made public, change `published: true` to `published: false`. Once you push your changes to your remote branch, open a pull request to main in GitHub, and the pull request is merged, you will still be able to navigate to your blog post by typing its url into your browser's address bar, but the post will not appear on the list of posts on the site.
+If your post is still a draft or not ready to be made public, change `public: true` to `public: false`. Once you push your changes to your remote branch, open a pull request to main in GitHub, and the pull request is merged, you will still be able to navigate to your blog post by typing its url into your browser's address bar, but the post will not appear on the list of posts on the site.
 
 The url for a blog post consists of the site's base url (currently https://digbmc.github.io/wbbm/) plus /blog/YYYY/MM/DD/name/, where the date and name come from the post's file name. For example, the blog post that generates from the 2023-05-01-sample-post.md file has the url https://digbmc.github.io/wbbm/blog/2023/05/01/sample-post/.
 
