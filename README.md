@@ -38,7 +38,7 @@ The url for a blog post consists of the site's base url (currently https://digbm
 
 ### To add a page
 
-To create a new page, you will have to create a new file in the site repository. For a page associated with the main WBBM site, create the new file in the site's root directory. For a page associated with a specific phase, create a new file in the corresponding folder. For now, the the folder for the current phase is called "2023-2026".
+To create a new page, you will have to create a new file in the site repository. For a page associated with the main WBBM site, create the new file in the site's root directory. For a page associated with a specific phase, create a new file in the corresponding folder. For now, the folder for the current phase is called "2023-2026".
 
 The file should have YAML front matter similar to the following, which is from the current phase's "About" page:
 ```yaml
