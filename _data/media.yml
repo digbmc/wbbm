@@ -15,7 +15,7 @@
   creator:
   date: 1885
   description: A hand-drawn map of Bryn Mawr College.
-  source:
+  source: Bryn Mawr College Special Collections
   accession_number:
 
 - item_id: media_003
@@ -37,3 +37,13 @@
   date: [1936]
   source: <a href="https://www.loc.gov/resource/ppmsca.51533/">Library of Congress digital collection.</a>
   accession_number:
+
+- item_id: media_005
+  item_type: image
+  item_location:  /wbbm/assets/images/media_005.jpg # path or src/url
+  title: Elsie Hodge Memorial Bench
+  creator: Marion Hamilton, photographer
+  description: Bench
+  date: 2 June 2023
+  source: Marion Hamilton
+  accession_number: 
