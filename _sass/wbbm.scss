@@ -119,8 +119,12 @@ h1 {
     }
 }
 
-.media-container img {
+.media-container img, iframe {
     width: 100%;
+}
+
+.media-container.yt-video iframe {
+    aspect-ratio: 16 / 9;
 }
 
 .media-container .image-caption {

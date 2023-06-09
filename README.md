@@ -69,7 +69,7 @@ Also, it is good to be mindful of the file size of your images. Images that are 
 Once you have added the file to the repository or found the image's url, you should add the image and any relevant metadata to the site's media collection. To add media items, such as images, to the site’s media collection, you will have to edit the media.yml file found in the site’s _data directory. To add an item to the list of media in this file, you can copy the following code and paste it at the bottom of the media.yml file: 
 ```yaml
 - item_id: 
-  item_type: image
+  item_type: # image or yt-video
   item_location: # path or src/url
   title:
   creator:
@@ -80,12 +80,33 @@ Once you have added the file to the repository or found the image's url, you sho
 ```
 Then, you will need to fill out the missing attributes for your new media item.
 
+#### item_id
+
 The `item_id` should be a unique identifier for the item, as it will be used to “call” this item and its metadata when you add it to a blog post or another page on the site. Ideally, if you have added the image to the /assets/images folder, the `item_id` should be identical to the image's filename (minus the file extension).
 
-If the media item you are adding is an image, be sure that `item_type` is set to `image`. (Other types of media items, such as videos, are not currently supported, but the `item_type` attribute will allow future support for other media formats, if needed.)
+#### item_type
+
+If the media item you are adding is an image, be sure that `item_type` is set to `image`. If your media item is a YouTube video, set `item_type` to `yt-video`.
+
+#### item_location
+
+The instructions for the `item_location` are different depending on whether your new media item is an image or a YouTube video.
+
+##### For images
 
 The `item_location` should be the path or url for the media item, depending on where the file is stored. If the image is from an online source, use the image's url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/wbbm/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
 
+##### For YouTube videos
+
+If your media item is a YouTube video, the `item_location` should be the video's embed code. To get the embed code, click the share button under the video on YouTube and select "embed" (it should be the first circle). When you select embed, a pop-up will appear. Scroll down in the pop-up and make sure that the box to "Enable privacy-enhanced mode" is checked. Then, copy the embed code to your clipboard and paste it next to `item-location`. It should look something like this:
+```yaml
+item_location: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NlvRvsDUkdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+You MUST then delete the `width="560" height="315"` part of the embed code above. It will then look like this:
+```yaml
+item_location: <iframe src="https://www.youtube-nocookie.com/embed/NlvRvsDUkdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+#### Other attributes
 The title, creator, date, description, source, and accession_number attributes store the metadata for your media item. Be sure to fill them out with the corresponding information for your item, if available. If you do not have the information for all of these attributes (for example, if you do not know the creator of the item or the item does not have an accession number), you can safely leave these attributes empty, or fill them in as "Unknown".
 
 Note: Currently, the "description" attribute is also used to add alt text to the images on the site, so be sure to add a description that can function as alt text.
