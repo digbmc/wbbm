@@ -1,5 +1,6 @@
 ---
 title: Week 2 - The First Gift to Bryn Mawr
+phase: P4
 layout: post
 author: Grace Foresman
 description: discussion of the history of the Japanese temple bell in Taylor Hall 
