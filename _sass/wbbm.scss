@@ -95,13 +95,13 @@ h1 {
 .align-left {
     float: left;
     margin-right: 0.5rem;
-    width: 50%;
+    width: 48%;
 }
 
 .align-right {
     float: right;
     margin-left: 0.5rem;
-    width: 50%;
+    width: 48%;
 }
 
 .align-center {
@@ -119,8 +119,12 @@ h1 {
     }
 }
 
-.media-container img {
+.media-container img, iframe {
     width: 100%;
+}
+
+.media-container.yt-video iframe {
+    aspect-ratio: 16 / 9;
 }
 
 .media-container .image-caption {

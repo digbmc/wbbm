@@ -8,7 +8,7 @@ permalink: /2023-2026/ # permalink for phase landing page must be set in front m
 <section class="container">
     <div class="row">
         <div class="col-4 m-auto">
-            <img class="img-fluid" alt="Who built Bryn Mawr?" src="{{ '/assets/images/WBBM-P4.png' | relative_url}}">
+            <img class="img-fluid" alt="Who built Bryn Mawr?" src="{{ '/assets/images/logos/WBBM-P4.png' | relative_url}}">
         </div>
         <div class="col-8 m-auto">
             <p>This is the landing page for the 2023-2026 iteration of WBBM. This text will be replaced with an official description of the project.</p>
