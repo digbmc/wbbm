@@ -50,7 +50,7 @@
 
 - item_id: media_006
   item_type: image
-  item_location:  /wbbm/assets/images/media_006.tif # path or src/url
+  item_location:  /wbbm/assets/images/media_006.jpg # path or src/url
   title: Fung Kei Liu at Canton Christian College
   creator: Yihan Liu, photographer
   description: photo
@@ -79,13 +79,13 @@
   accession_number: 
 
 - item_id: media_009
-  item_type: video
-  item_location: https://www.youtube.com/watch?v=NlvRvsDUkdM&ab_channel=duncantakeru 
+  item_type: yt-video
+  item_location: <iframe src="https://www.youtube-nocookie.com/embed/NlvRvsDUkdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   title: Ringing the bell at Chion-in Temple
   creator: duncantakeru
   description: video of monks ringing a bonsho bell
   date: 4 Jan 2012
-  source: youtube
+  source: YouTube
   accession_number: 
   
 - item_id: media_010
@@ -100,7 +100,7 @@
 
 - item_id: media_011
   item_type: image
-  item_location:  /wbbm/assets/images/media_011.tif # path or src/url
+  item_location:  /wbbm/assets/images/media_011.jpg # path or src/url
   title: Fung Kei Liu, 1922 yearbook
   creator: Yihan Liu, photographer
   description: photo

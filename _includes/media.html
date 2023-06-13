@@ -6,10 +6,12 @@
 {% endfor %}
 
 <!-- divs to contain the media item and its metadata -->
-<div id="{{ this-media.item_id }}" class="media-container {% if include.align == "left" %}align-left {% elsif include.align == "right" %}align-right {% elsif include.align == "center" %}align-center {% endif %}">
+<div id="{{ this-media.item_id }}" class="media-container {% if include.align == "left" %}align-left {% elsif include.align == "right" %}align-right {% elsif include.align == "center" %}align-center {% endif %}{% if this-media.item_type == "yt-video" %}yt-video{% endif %}">
     {% if this-media.item_type == "image" %}
         <img src="{{ this-media.item_location }}" alt="{{ this-media.description }}">
         {% comment %}<div class="image-caption">{{ this-media.description }}</div>{% endcomment %}
+    {% elsif this-media.item_type == "yt-video" %}
+        {{ this-media.item_location }}
     {% endif %}
     <div class="metadata-container">
         <!-- builds a table for the metadata associated with this media item -->
