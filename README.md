@@ -94,7 +94,7 @@ The instructions for the `item_location` are different depending on whether your
 
 ##### For images
 
-The `item_location` should be the path or url for the media item, depending on where the file is stored. If the image is from an online source, use the image's url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/wbbm/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
+The `item_location` should be the path or url for the media item, depending on where the file is stored. If the image is from an online source, use the image's url. If your image is stored in the images folder (located in the assets folder) in the site repository, then you will need to add the path to the image, which should look like this `/assets/images/filename.jpg`, where “filename.jpg” is the name of your media file.
 
 ##### For YouTube videos
 
