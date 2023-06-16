@@ -107,3 +107,33 @@
   date: 9 June 2023
   source: Yihan Liu
   accession_number: 
+
+- item_id: media_012
+  item_type: image
+  item_location: https://triarte.brynmawr.edu/Media/Previews/F.164_BMC_spin.png
+  title: Egyptian Faience Ushabti (Funerary Sculpture)
+  creator: unknown
+  description: funeral sculpture from Egypt that used to be in the Deanery
+  date: 1 January 1935
+  source: Tri-Arte online collection
+  accession_number: F.164
+
+- item_id: media_013
+  item_type: image
+  item_location: https://triarte.brynmawr.edu/Media/Previews/W.314_BMC_pr_2.png
+  title: Fu-dog Figurine
+  creator: unknown
+  description: a bronze Fu-dog (guardian lion) of Chinese or Japanese origin
+  date: 1 january 1935
+  source: Tri-Arte online collection
+  accession_number: W.314
+
+- item_id: media_014
+  item_type: image
+  item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg/440px-Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg
+  title: The Rising Tide of Color by Lothrop Stoddard
+  creator: Lothrop Stoddard
+  description: first edition cover, 1920
+  date: April 1920
+  source: Wikipedia
+  accession_number: 
