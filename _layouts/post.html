@@ -12,7 +12,7 @@ layout: default
         <div class="container">
             {% if page.key_image %}
             <div class="row justify-content-center">
-                <div class="col-12-lg d-flex justify-content-center">
+                <div class="col-10-lg d-flex justify-content-center">
                     <figure class="figure col-md-9">
                         <img src="{{ page.key_image.url }}" class="figure-img img-fluid" alt="{{ page.key_image.alt }}">
                         <figcaption class="figure-caption text-left bg-dark">{{ page.key_image.caption }}</figcaption>
@@ -21,7 +21,7 @@ layout: default
             </div>
             {% endif %}
             <div class="row">
-                <div class="col-12">
+                <div class="col-10 m-auto">
                     <h1 class="display-5 text-center"> {{ page.title }}</h1>
                     <p class="text-center"><strong>{{ page.author }}</strong></p>
                     <p class="text-center">{{ page.date | date: "%A, %B %d, %Y" }}</p>
@@ -32,7 +32,7 @@ layout: default
     <section class="container-fluid bg-dark">
         <div class="container post-body pb-3">
             <div class="row justify-content-center">
-                <div class="col-lg-9">
+                <div class="col-10">
                 {{ content }}
                 </div>
             </div>
@@ -42,7 +42,7 @@ layout: default
 <footer>
     <section class="footer container p-3">
         <div class="row justify-content-between">
-            <div class="col text-start"><a href="/wbbm/">Who Built Bryn Mawr?</a></div>
+            <div class="col text-start"><a href="{{ site.baseurl }}">Who Built Bryn Mawr?</a></div>
             <div class="w-100 d-block d-md-none"></div>
             <div class="col text-start text-md-end"><a href="https://www.brynmawr.edu/">Bryn Mawr College</a>, 2023</div>
         </div>

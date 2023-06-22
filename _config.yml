@@ -15,3 +15,6 @@ collections:
     output: true
     sort_by: date
     permalink: /blog/:categories/:year/:month/:day/:title/
+
+exclude:
+ - README.md
