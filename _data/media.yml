@@ -42,8 +42,8 @@
   item_type: image
   item_location: /assets/images/media_005.jpg # path or src/url
   title: Elsie Hodge Memorial Bench
-  creator: Marion Hamilton, photographer
-  description: A gray, concrete bench between Denbigh and Guild Halls. The inscription on the bench is In Memoriam Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900.
+  creator: Marion Hamilton, photographerIn Memoriam El
+  description: A gray, concrete bench between Denbigh and Guild Halls. The inscription on the bench is sie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900.
   date: 2 June 2023
   source: Marion Hamilton
   accession_number: 
@@ -137,3 +137,67 @@
   date: April 1920
   source: Wikipedia
   accession_number: 
+
+- item_id: media_017
+  item_type: image
+  item_location: /assets/images/media_017.jpeg
+  title: Elsie Campbell Sinclair Hodge Bench
+  creator: Yihan Liu
+  date: 6 June 2023
+  description: photo of the Elsie Sinclair Hodge Bench. The inscription on the bench is sie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900.
+  source: Yihan Liu
+  accession_number:
+
+- item_id: media_018
+  item_type: image
+  item_location: /assets/images/media_018.jpg
+  title: Elsie Sinclair Hodge
+  creator: unknown
+  date: 1897
+  description: A formal photo of Elsie Sinclair Hodge right after graduation. 
+  source: Bryn Mawr Special Collections
+  accession_number:
+
+- item_id: media_019
+  item_type: image
+  item_location: /assets/images/media_019.jpg
+  title: The Seattle Post-Intelligencer, July 22 1900
+  creator: The Seattle Post-Intelligencer
+  date: 22 July 1900
+  description: a scanned copy of one page from the Seattle Post newspaper. The page shows a story detailing the Hodge's death in Baoding, China along with a large sketch of all the foreign missionaries killed in Baoding including Elsie.  
+  source: Newspapers.com
+  accession_number:
+
+- item_id: media_020
+  item_type: image
+  item_location: /assets/images/media_020.jpg
+  title: The Boston Globe, July 31 1900
+  creator: The Boston Globe
+  date: 31 July 1900
+  description: a scanned copy of one page from the Boston Globe newspaper. The page shows a sketch of Elsie Sinclair Hodge dressed in a cap in gown, likely taken right after her graduation. 
+  source: Newspapers.com
+  accession_number:
+
+- item_id: media_021
+  item_type: image
+  item_location: /assets/images/media_021.jpg
+  title: The Evening Gazette, September 13 1900
+  creator: The Evening Gazette
+  date: 13 September 1900
+  description: a scanned copy of one page from the Evening Gazette. 
+  source: Newspapers.com
+  accession_number:
+
+- item_id: media_022
+  item_type: image
+  item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Keep_this_Horror_From_Your_Home._Invest_10_Percent_in_War_Bonds_Back_Up_our_Battleskies%5E_-_NARA_-_534105.tif/lossy-page1-756px-Keep_this_Horror_From_Your_Home._Invest_10_Percent_in_War_Bonds_Back_Up_our_Battleskies%5E_-_NARA_-_534105.tif.jpg?20110821224953
+  title: Keep the Horror from Your Home
+  creator: unknown
+  date: 1942 
+  description: An anti-japanese WWII propaganda photo shows a cartoonish version of a Japanese man holding a white woman. The poster reads Keep this horror from our homes. 
+  source: Wikimedia commons
+  accession_number:
+
+
+
+
