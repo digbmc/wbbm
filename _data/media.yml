@@ -198,6 +198,32 @@
   source: Wikimedia commons
   accession_number:
 
+- item_id: media_024
+  item_type: image
+  item_location: /assets/images/media_024.jpg
+  title: Taft Garden 
+  creator: unknown
+  date: unknown
+  description: an image of a Taft garden. In foreground a fountain with four angles can be seen. Behind are steps which have two Chinese stone lions sitting on either side of the stone wall. 
+  source: Bryn Mawr special collections
+  accession_number: PAB_deanery_011_01
 
-
-
+- item_id: media_025
+  item_type: image
+  item_location: /assets/images/media_025.jpg
+  title: Chinese stone guardian lion front view
+  creator: unknown
+  date: unknown
+  description: forward view of Chinese stone guardian lion with a small cub under the right paw.
+  source: Bryn Mawr special collections
+  accession_number: PAB_deanery_245_01
+  
+- item_id: media_025
+  item_type: image
+  item_location: /assets/image/media_026.jpg
+  title: Chinese stone guardian lion back view
+  creator: unknown
+  date: unknown
+  description: back side view of Chinese stone guardian lion. 
+  source: Bryn Mawr special collections
+  accession_number: PAB_deanery_244_01
