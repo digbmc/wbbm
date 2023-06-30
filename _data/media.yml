@@ -218,12 +218,42 @@
   source: Bryn Mawr special collections
   accession_number: PAB_deanery_245_01
   
-- item_id: media_025
+- item_id: media_026
   item_type: image
-  item_location: /assets/image/media_026.jpg
+  item_location: /assets/images/media_026.jpg
   title: Chinese stone guardian lion back view
   creator: unknown
   date: unknown
   description: back side view of Chinese stone guardian lion. 
   source: Bryn Mawr special collections
   accession_number: PAB_deanery_244_01
+
+- item_id: media_027
+  item_type: image
+  item_location: /assets/images/media_027.jpg
+  title: Chinthe statue Burmese Guardian Lion
+  creator: unknown, Burmese
+  date: 19th - 20th century
+  description: a highly stylized statue of a sitting lion made of wood and glass from Myanmar
+  source: Philadelphia Museum of Art
+  accession_number: 2003-222-2
+
+- item_id: media_028
+  item_type: image
+  item_location: /assets/images/media_028.jpg
+  title: Deanery Stone Guardian lions annotated
+  creator: Grace Foresman
+  date: 6 June 2023
+  description: photo of stone guardian lions on steps of Deanery guardian with a red circle around both lions. Left lion labeled male and right lion labeled female. 
+  source: Bryn Mawr special collections 
+  accession_number: 
+  
+- item_id: media_029
+  item_type: image
+  item_location: https://collectionapi.metmuseum.org/api/collection/v1/iiif/53190/2070924/main-image
+  title: Japanese Guardian lion Komainu 
+  creator: unknown
+  date: mid 13th century
+  description: a highly stylized statue of a sitting lion made of cypress from Japan. 
+  source: the Metropolitan Museum of Art
+  accession_number: 2015.300.257a,b
