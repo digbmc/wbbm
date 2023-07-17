@@ -257,3 +257,33 @@
   description: a highly stylized statue of a sitting lion made of cypress from Japan. 
   source: the Metropolitan Museum of Art
   accession_number: 2015.300.257a,b
+
+- item_id: media_30
+  item_type: image
+  item_location: /assets/images/media_030.jpg
+  title: A. A. Vantine & Company's Wonderbook "Oh, Fair Japan"
+  creator: A. A. Vantine & Company
+  date: c. 1920s
+  description: a poem written about a romanticized view of Japan. Around the poem are sketches of "Asian" objects, and a label that says "two views of Japan"
+  source: Internet Archive
+  accession_number:
+
+- item_id: media_031
+  item_type: image
+  item_location: /assets/images/media_031.jpg
+  title: A. A. Vantine & Comany's Wonderbook "Oh, Fair(?) Japan"
+  creator: A. A. Vantine & Company
+  date: c. 1920s
+  description: a poem written about Japan that is very stereotypical. Around the poem text are sketches of Japanese flowers, and an inscription that reads "two views of Japan"
+  source: Internet Archive
+  accession_number:
+
+- item_id: media_032
+  item_type: image
+  item_location: https://uploads6.wikiart.org/images/jean-leon-gerome/the-hookah-lighter.jpg!Large.jpg
+  title: The Hookah Lighter 
+  creator: Jean_Leon Gerome 
+  date: c. 1898
+  description: A painting depicting five naked women bathing in an "oriental" style bath, likely to replicate a harem. The woman in the middle sits by the side of the pool using a hookah. 
+  source: WikiArt
+  accession_number: 
