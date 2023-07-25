@@ -5,7 +5,7 @@ title: Who was Elsie Campbell Sinclair Hodge?
 author: Grace Foresman
 description: discussing the life and legacy of Elsie Campbell Sinclair Hodge
 key_image:
-    url: /assets/images/media_017.jpeg
+    url: /wbbm/assets/images/media_017.jpeg
     alt: photo of the Elsie Sinclair Hodge bench on campus
     caption: The Elsie Sinclair Hodge bench that is between Guild and Dalton
 public: true 
