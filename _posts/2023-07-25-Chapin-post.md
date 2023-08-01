@@ -1,5 +1,5 @@
 ---
-title: Chinese scholarship and the first Chinese student at Bryn Mawr College 
+title: Chapin's collection 
 layout: post
 phase: P4 # P4 is the indicator for the 2023-2026 phase
 author: Yihan Liu
