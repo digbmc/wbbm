@@ -24,7 +24,7 @@ During the Han dynasty (206 BCE - 220 CE), China began to open up to trade into 
 {% include media.html item_id="media_027" align="right" %}
 {% include media.html item_id="media_029" align="left" %}
 
-{% include media.html item_id="media_25" align="right" %}
+{% include media.html item_id="media_025" align="right" %}
 
 If you’ve ever been to China — or  even Chinatown in Philly, you’ve probably noticed that some businesses have two guardian lions outside the entrance. This is intentional. guardian lions typically come in pairs, with a male and female lion. The gender can be easily determined as the male lion has an embroidered ball under his paw, while the female lion has a cub under her paw. In both lions, if you look closely, there should be a pearl ball trapped behind their teeth. When facing the guardian lions, the male lion should be on the right and the female lion should be on the left. The placement is partly due to the idea of yin (female - left) and yang (male - right), which refers to the idea of balance in the world. That’s also why the guardian lions also come in pairs, to have balance. In addition, the stone lions typically face outwards — as guards — if they are placed by an entryway, at least from my own experiences. 
 
