@@ -43,7 +43,7 @@
   item_location: /assets/images/media_005.jpg # path or src/url
   title: Elsie Hodge Memorial Bench
   creator: Marion Hamilton, photographer 
-  description: A gray, concrete bench between Denbigh and Guild Halls. The inscription on the bench is In Memoriam Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900.
+  description: A gray, concrete bench between Denbigh and Guild Halls. The inscription on the bench is In Memoriam Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900
   date: 2 June 2023
   source: Marion Hamilton
   accession_number: 
@@ -51,9 +51,9 @@
 - item_id: media_006
   item_type: image
   item_location: /assets/images/media_006.jpg # path or src/url
-  title: Fung Kei Liu at Canton Christian College
+  title: Liu Fung Kei at Canton Christian College
   creator: Yihan Liu, photographer
-  description: photo
+  description: A photo of Liu Fung Kei and another woman standing on stairs in front of a gate at Canton Christian College
   date: 9 June 2023
   source: Yihan Liu
   accession_number: 
@@ -63,7 +63,7 @@
   item_location: /assets/images/media_007.jpg # path or src/url
   title: Yuet Wah school
   creator: Yihan Liu, photographer
-  description: photo
+  description: A landscape photo of the Yuet Wah School
   date: 9 June 2023
   source: Yihan Liu
   accession_number: 
@@ -71,11 +71,11 @@
 - item_id: media_008
   item_type: image
   item_location: /assets/images/media_008.png 
-  title: Mary Morris Obit
-  creator: philadelphia inquirer
-  description: obituary 
+  title: Mary Morris' Obituary
+  creator: The Philadelphia Inquirer
+  description: Obituary in The Philadelpia Inquirer for Mary Morris, founder of the Japanese Scholarship at Bryn Mawr College
   date: 
-  source: philadelphia inquirer
+  source: The Philadelphia Inquirer
   accession_number: 
 
 - item_id: media_009
@@ -83,8 +83,8 @@
   item_location: <iframe src="https://www.youtube-nocookie.com/embed/NlvRvsDUkdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   title: Ringing the bell at Chion-in Temple
   creator: duncantakeru
-  description: video of monks ringing a bonsho bell
-  date: 4 Jan 2012
+  description: Video of monks ringing a bonsho bell at the Chion-in Temple in Japan
+  date: 4 January 2012
   source: YouTube
   accession_number: 
   
@@ -93,18 +93,18 @@
   item_location: https://ichef.bbci.co.uk/images/ic/1200x675/p01grdfw.jpg 
   title: Buddhist Temple Bells
   creator: BBC Radio
-  description: monk ringing a bonsho bell
-  date: 14 july 2014
+  description: A monk ringing a bonsho bell
+  date: 14 July 2014
   source: BBC news
   accession_number:
 
 - item_id: media_011
   item_type: image
   item_location: /assets/images/media_011.jpg # path or src/url
-  title: Fung Kei Liu, 1922 yearbook
+  title: Liu Fung Kei, 1922 yearbook
   creator: Yihan Liu, photographer
-  description: photo
-  date: 9 June 2023
+  description: Liu Fung Kei's (1922) yearbook photo. She stands outside on Bryn Mawr's campus
+  date:
   source: Yihan Liu
   accession_number: 
 
@@ -113,7 +113,7 @@
   item_location: https://triarte.brynmawr.edu/Media/Previews/F.164_BMC_spin.png
   title: Egyptian Faience Ushabti (Funerary Sculpture)
   creator: unknown
-  description: funeral sculpture from Egypt that used to be in the Deanery
+  description: Funeral sculpture from Egypt that used to be in the Deanery. The statue is a mummy depicted standing and is made of faience (glazed quartz)
   date: 1 January 1935
   source: Tri-Arte online collection
   accession_number: F.164
@@ -123,8 +123,8 @@
   item_location: https://triarte.brynmawr.edu/Media/Previews/W.314_BMC_pr_2.png
   title: Fu-dog Figurine
   creator: unknown
-  description: a bronze Fu-dog (guardian lion) of Chinese or Japanese origin
-  date: 1 january 1935
+  description: A bronze Fu-dog (guardian lion) of Chinese or Japanese origin. The statue is facing forward with its mouth open. 
+  date: 1 January 1935
   source: Tri-Arte online collection
   accession_number: W.314
 
@@ -133,7 +133,7 @@
   item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg/440px-Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg
   title: The Rising Tide of Color by Lothrop Stoddard
   creator: Lothrop Stoddard
-  description: first edition cover, 1920
+  description: Image of the cover of "The Rising Tide of Color" by Lothrop Stoddard. It is black and red with silhouettes of stereotypical/racist images of BIPOC people marching across the globe
   date: April 1920
   source: Wikipedia
   accession_number: 
@@ -144,7 +144,7 @@
   title: Elsie Campbell Sinclair Hodge Bench
   creator: Yihan Liu
   date: 6 June 2023
-  description: photo of the Elsie Sinclair Hodge Bench. The inscription on the bench is sie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900.
+  description: Photo of the Elsie Sinclair Hodge Bench. The inscription on the bench reads "Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900"
   source: Yihan Liu
   accession_number:
 
@@ -154,7 +154,7 @@
   title: Elsie Sinclair Hodge
   creator: unknown
   date: 1897
-  description: A formal photo of Elsie Sinclair Hodge right after graduation. 
+  description: A formal photo of Elsie Sinclair Hodge right after graduation
   source: Bryn Mawr Special Collections
   accession_number:
 
@@ -164,7 +164,7 @@
   title: The Seattle Post-Intelligencer, July 22 1900
   creator: The Seattle Post-Intelligencer
   date: 22 July 1900
-  description: a scanned copy of one page from the Seattle Post newspaper. The page shows a story detailing the Hodge's death in Baoding, China along with a large sketch of all the foreign missionaries killed in Baoding including Elsie.  
+  description: A scanned copy of one page from the Seattle Post newspaper. The page shows a story detailing the Hodge's death in Baoding, China along with a large sketch of all the foreign missionaries killed in Baoding, including Elsie
   source: Newspapers.com
   accession_number:
 
@@ -174,7 +174,7 @@
   title: The Boston Globe, July 31 1900
   creator: The Boston Globe
   date: 31 July 1900
-  description: a scanned copy of one page from the Boston Globe newspaper. The page shows a sketch of Elsie Sinclair Hodge dressed in a cap in gown, likely taken right after her graduation. 
+  description: A scanned copy of one page from the Boston Globe newspaper. The page shows a sketch of Elsie Sinclair Hodge dressed in a cap in gown, likely taken right after her graduation. 
   source: Newspapers.com
   accession_number:
 
@@ -184,7 +184,7 @@
   title: The Evening Gazette, September 13 1900
   creator: The Evening Gazette
   date: 13 September 1900
-  description: a scanned copy of one page from the Evening Gazette. 
+  description: A scanned copy of one page from the Evening Gazette. Two sections are highlighted in yellow, which pretain to the death of Elsie Sinclair Hodge
   source: Newspapers.com
   accession_number:
 
@@ -194,7 +194,7 @@
   title: Keep the Horror from Your Home
   creator: unknown
   date: 1942 
-  description: An anti-japanese WWII propaganda photo shows a cartoonish version of a Japanese man holding a white woman. The poster reads Keep this horror from our homes. 
+  description: An anti-japanese WWII propaganda photo shows a cartoonish version of a Japanese man holding a white woman. The poster reads "Keep this horror from our homes" 
   source: Wikimedia commons
   accession_number:
 
@@ -204,7 +204,7 @@
   title: Taft Garden 
   creator: unknown
   date: unknown
-  description: an image of a Taft garden. In foreground a fountain with four angles can be seen. Behind are steps which have two Chinese stone lions sitting on either side of the stone wall. 
+  description: An image of a Taft garden. In foreground a fountain with four angles can be seen. Behind are steps which have two Chinese stone lions sitting on either side of the stone wall
   source: Bryn Mawr special collections
   accession_number: PAB_deanery_011_01
 
@@ -214,9 +214,9 @@
   title: Chinese stone guardian lion front view
   creator: unknown
   date: unknown
-  description: forward view of Chinese stone guardian lion with a small cub under the right paw.
-  source: Bryn Mawr special collections
-  accession_number: PAB_deanery_245_01
+  description: Front view of a Chinese stone guardian lion with a small cub under the right paw.The guardian lion was in Taft Garden at Bryn Mawr College
+  source: Bryn Mawr Special Collections
+  accession_number: PAB_Deanery_245_01
   
 - item_id: media_026
   item_type: image
@@ -224,9 +224,9 @@
   title: Chinese stone guardian lion back view
   creator: unknown
   date: unknown
-  description: back side view of Chinese stone guardian lion. 
-  source: Bryn Mawr special collections
-  accession_number: PAB_deanery_244_01
+  description: Back side view of a Chinese stone guardian lion from Taft Garden at Bryn Mawr College
+  source: Bryn Mawr Special Collections
+  accession_number: PAB_Deanery_244_01
 
 - item_id: media_027
   item_type: image
@@ -234,47 +234,47 @@
   title: Chinthe statue Burmese Guardian Lion
   creator: unknown, Burmese
   date: 19th - 20th century
-  description: a highly stylized statue of a sitting lion made of wood and glass from Myanmar
+  description: A highly stylized statue of a sitting lion made of wood and glass from Myanmar
   source: Philadelphia Museum of Art
   accession_number: 2003-222-2
 
 - item_id: media_028
   item_type: image
   item_location: /assets/images/media_028.jpg
-  title: Deanery Stone Guardian lions annotated
+  title: Deanery Stone Guardian Lions Annotated
   creator: Grace Foresman
   date: 6 June 2023
-  description: photo of stone guardian lions on steps of Deanery guardian with a red circle around both lions. Left lion labeled male and right lion labeled female. 
+  description: Photo of stone guardian lions on steps of Deanery guardian with a red circle around both lions. Left lion labeled male and right lion labeled female 
   source: Bryn Mawr special collections 
   accession_number: 
   
 - item_id: media_029
   item_type: image
   item_location: https://collectionapi.metmuseum.org/api/collection/v1/iiif/53190/2070924/main-image
-  title: Japanese Guardian lion Komainu 
+  title: Japanese Guardian Lion Komainu 
   creator: unknown
   date: mid 13th century
-  description: a highly stylized statue of a sitting lion made of cypress from Japan. 
+  description: A highly stylized statue of a sitting lion from Japan made of cypress
   source: the Metropolitan Museum of Art
   accession_number: 2015.300.257a,b
 
 - item_id: media_30
   item_type: image
   item_location: /assets/images/media_030.jpg
-  title: A. A. Vantine & Company's Wonderbook 'Oh, Fair Japan'
+  title: A. A. Vantine & Company's Wonderbook 'Oh, Fair (?) Japan'
   creator: A. A. Vantine & Company
   date: c. 1920s
-  description: a poem written about a romanticized view of Japan. Around the poem are sketches of Asian objects, and a label that says 'two views of Japan'
+  description: A poem written about a romanticized view of Japan. Around the poem are sketches of Asian objects, and a label that says 'two views of Japan'
   source: Internet Archive
   accession_number:
 
 - item_id: media_031
   item_type: image
   item_location: /assets/images/media_031.jpg
-  title: A. A. Vantine & Comany's Wonderbook 'Oh, Fair(?) Japan'
+  title: A. A. Vantine & Company's Wonderbook 'Oh, Fair (?) Japan'
   creator: A. A. Vantine & Company
   date: c. 1920s
-  description: a poem written about Japan that is very stereotypical. Around the poem text are sketches of Japanese flowers, and an inscription that reads 'two views of Japan'
+  description: A poem written about Japan that is very stereotypical. Around the text there are sketches of Japanese flowers and an inscription that reads 'two views of Japan'
   source: Internet Archive
   accession_number:
 
@@ -282,8 +282,8 @@
   item_type: image
   item_location: https://uploads6.wikiart.org/images/jean-leon-gerome/the-hookah-lighter.jpg!Large.jpg
   title: The Hookah Lighter 
-  creator: Jean_Leon Gerome 
+  creator: Jean Leon Gerome 
   date: c. 1898
-  description: A painting depicting five naked women bathing in an oriental style bath, likely to replicate a harem. The woman in the middle sits by the side of the pool using a hookah. 
+  description: A painting depicting five naked women bathing in an 'oriental' style bath, likely to replicate a harem. The woman in the middle sits by the side of the pool using a hookah
   source: WikiArt
   accession_number: 
