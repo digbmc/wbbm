@@ -155,3 +155,13 @@
   description: nothing
   source: Archive 12H Chapin, Bryn Mawr College 
   accession_number: 
+
+- item_id: media_033
+  item_type: image
+  item_location: /assets/images/media_033.jpg # path or src/url
+  title:Michi Kawai's photo
+  creator: unknown
+  description: nothing
+  source: Bryn Mawr College Special Collection
+  accession_number: 
+  
