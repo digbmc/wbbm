@@ -150,7 +150,7 @@
 - item_id: media_016
   item_type: image
   item_location: /assets/images/media_016.jpg # path or src/url
-  title:Helen Chapin's diary
+  title: Helen Chapin's diary
   creator: unknown
   description:
   source: Archive 12H Chapin, Bryn Mawr College 
