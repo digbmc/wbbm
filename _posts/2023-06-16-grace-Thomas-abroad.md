@@ -4,10 +4,10 @@ phase: P4
 layout: post
 author: Grace Foresman
 description: discussing Thomas's travels across Asia and North Africa 
-key_image:
-    url: http://cartweb.geography.ua.edu/lizardtech/iserv/getimage?cat=World&item=World1899d.sid&cp=0.5,0.5&lev=5&wid=500&hei=400&props=img(Name,Description)&bg=ffffff&
-    alt: a photo of a world map from 1899
-    caption: The Century Company, 1899; from The Century Atlas of the World
+#key_image:
+#    url: http://cartweb.geography.ua.edu/lizardtech/iserv/getimage?cat=World&item=World1899d.sid&cp=0.5,0.5&lev=5&wid=500&hei=400&props=img(Name,Description)&bg=ffffff&
+#    alt: a photo of a world map from 1899
+#    caption: The Century Company, 1899; from The Century Atlas of the World
 public: true 
 --- 
 Content Warning:  racist language  
