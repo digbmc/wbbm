@@ -77,6 +77,7 @@ Once you have added the file to the repository or found the image's url, you sho
   description:
   source:
   accession_number:
+  transcription: # true or false
 ```
 Then, you will need to fill out the missing attributes for your new media item.
 
@@ -106,6 +107,18 @@ You MUST then delete the `width="560" height="315"` part of the embed code above
 ```yaml
 item_location: <iframe src="https://www.youtube-nocookie.com/embed/NlvRvsDUkdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+#### transcription
+
+If your media item is an image that contains a lot of text (more than can reasonably go in the description or alt text for the image), you will likely need to provide a transcription of the text. To do so, make sure the transcription value in media.yml is set to true for the item. Then, create a new Markdown file in the _transcriptions folder. The file name should match the `item_id` and have .md at the end (e.g. "media_008.md"). The front matter for this file should look something like this:
+```yaml
+---
+layout: transcription
+phase: P4
+item_id: media_008
+---
+```
+Feel free to copy and paste this front matter into your new file and change the information in it as necessary. The text that follows the front matter should be the transcription itself in Markdown.
+
 #### Other attributes
 The title, creator, date, description, source, and accession_number attributes store the metadata for your media item. Be sure to fill them out with the corresponding information for your item, if available. If you do not have the information for all of these attributes (for example, if you do not know the creator of the item or the item does not have an accession number), you can safely leave these attributes empty, or fill them in as "Unknown".
 
