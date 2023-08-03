@@ -77,6 +77,7 @@
   date: 
   source: The Philadelphia Inquirer
   accession_number: 
+  transcription: true
 
 - item_id: media_009
   item_type: yt-video
@@ -138,6 +139,24 @@
   source: Wikipedia
   accession_number: 
 
+- item_id: media_015
+  item_type: image
+  item_location: /assets/images/media_015.jpg # path or src/url
+  title: Helen Chapin's business card, with her Chinese name at the center
+  creator: unknown
+  description: The pronunciation of Chapin's Chinese name is similar 
+  source: Archive 12H Chapin, Bryn Mawr College 
+  accession_number: 
+
+- item_id: media_016
+  item_type: image
+  item_location: /assets/images/media_016.jpg # path or src/url
+  title: Helen Chapin's diary
+  creator: unknown
+  description:
+  source: Archive 12H Chapin, Bryn Mawr College 
+  accession_number: 
+  
 - item_id: media_017
   item_type: image
   item_location: /assets/images/media_017.jpeg
@@ -286,4 +305,13 @@
   date: c. 1898
   description: A painting depicting five naked women bathing in an 'oriental' style bath, likely to replicate a harem. The woman in the middle sits by the side of the pool using a hookah
   source: WikiArt
+  accession_number: 
+
+- item_id: media_033
+  item_type: image
+  item_location: /assets/images/media_033.jpg # path or src/url
+  title: Michi Kawai's photo
+  creator: unknown
+  description:
+  source: Bryn Mawr College Special Collection
   accession_number: 

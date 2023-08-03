@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<!-- get specified media item from site.data.media -->
+{% for item in site.data.media %}
+    {% if item.item_id == page.item_id %}
+        {% assign this-media = item %}
+    {% endif %}
+{% endfor %}
+
+<header class="px-3 container">
+    <div class="container">
+    {% include navigation.html %}
+    </div>
+</header>
+<main>
+    <section class="p-3 container-fluid bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="display-5 text-center">{{ this-media.title }}</h1>
+                </div>
+            </div>
+            {% if this-media.item_type == "image" %}
+            <div class="row">
+                <div class="col-12 d-flex justify-content-center">
+                    <figure class="figure col-8 text-center">
+                        <img src="{{ this-media.item_location | relative_url }}" class="figure-img img-fluid" alt="{{ this-media.description }}">
+                        <figcaption class="figure-caption text-right bg-dark">{{ this-media.description }}</figcaption>
+                    </figure>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </section>
+    <section class="container-fluid bg-dark">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                <h2>Transcription</h2>
+                {{ content }}
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<footer>
+    <section class="footer container p-3">
+        <div class="row justify-content-between">
+            <div class="col text-start"><a href="{{ site.baseurl }}">Who Built Bryn Mawr?</a></div>
+            <div class="w-100 d-block d-md-none"></div>
+            <div class="col text-start text-md-end"><a href="https://www.brynmawr.edu/">Bryn Mawr College</a>, 2023</div>
+        </div>
+    </section>
+</footer>
