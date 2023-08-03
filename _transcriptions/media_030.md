@@ -12,7 +12,7 @@ Where lotus blossoms fringe thy paths
 And perfume every breeze.
 
 "Where lilies bend their fragrant heads
-To kiss they plashing streasm,
+To kiss thy plashing streams,
 and dark-skinned musme, almond-eyed,
 Wake long forgotten dreams.
 
