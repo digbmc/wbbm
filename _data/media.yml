@@ -87,7 +87,8 @@
   description: Video of monks ringing a bonsho bell at the Chion-in Temple in Japan
   date: 4 January 2012
   source: YouTube
-  accession_number: 
+  accession_number:
+  transcription: true
   
 - item_id: media_010
   item_type: image
@@ -196,6 +197,7 @@
   description: A scanned copy of one page from the Boston Globe newspaper. The page shows a sketch of Elsie Sinclair Hodge dressed in a cap in gown, likely taken right after her graduation. 
   source: Newspapers.com
   accession_number:
+  transcription: true
 
 - item_id: media_021
   item_type: image
@@ -206,6 +208,7 @@
   description: A scanned copy of one page from the Evening Gazette. Two sections are highlighted in yellow, which pretain to the death of Elsie Sinclair Hodge
   source: Newspapers.com
   accession_number:
+  transcription: true
 
 - item_id: media_022
   item_type: image
@@ -286,6 +289,7 @@
   description: A poem written about a romanticized view of Japan. Around the poem are sketches of Asian objects, and a label that says 'two views of Japan'
   source: Internet Archive
   accession_number:
+  transcription: true
 
 - item_id: media_031
   item_type: image
@@ -296,6 +300,7 @@
   description: A poem written about Japan that is very stereotypical. Around the text there are sketches of Japanese flowers and an inscription that reads 'two views of Japan'
   source: Internet Archive
   accession_number:
+  transcription: true
 
 - item_id: media_032
   item_type: image
