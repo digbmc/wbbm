@@ -1,7 +1,7 @@
 ---
 layout: post
 phase: P4
-title: Why Japan and China? Quaker Missionaries in Japan
+title: Why Japan and China? Quaker Missionaries in East Asia
 author: Marion Hamilton
 description: Why were the first BIPOC students at Bryn Mawr Japanese and Chinese? It is a complicated, multifaceted question, but part of the answer lies in Quaker Christian's desire to proselytize to Japan and China.
 public: true
