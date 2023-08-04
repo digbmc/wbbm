@@ -3,7 +3,7 @@ title: What Does Oriental Mean?
 phase: P4
 layout: post
 author: Grace Foresman
-description: Discussing the origins of the word oriental and how it was used historically 
+description: The word oriental has a long and complicated history, intertwined with colonialism, imperialism, and a deep prejudice against Asian, Middle Easter, and North African cultures. I hope to shed light on the origins of oriental, as it has been recently discussed in the news after Obama signed a bill prohibiting its use in Federal laws.
 key_image:
     url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1800_Wilkinson_Map_of_the_4_Eastern_Churches_rectified.jpg/600px-1800_Wilkinson_Map_of_the_4_Eastern_Churches_rectified.jpg
     alt: Photo of an old map showing Europe, part of the Middle East and part of North Africa, which these regions were once referred to as the Orient. 
@@ -92,9 +92,9 @@ After Obama signed the bill removing the usage of *oriental* in federal laws and
 
 I will not conclude this blog by saying yes of course you can use this word, here’s an Asian stamp of approval. Nor will I say you must never say *oriental* again. Instead, understand that though “words are just words,” certain words carry more baggage than others. *Oriental* represents the long and difficult history of  the West’s negative views and prejudice towards Asia, the Middle East, and North Africa, the legacy of which  remains imbedded in today’s world. I am fully aware that simply erasing the word from our vocab will not magically fix everything. Yet, to call someone *oriental* is to insist on some level that we are somehow exotic, worthy of gawking at but not speaking to. That we are only our beautiful dresses, vases, and furniture, and the rest of our cultures and histories are irrelevant. Perhaps there are not easily solutions to this issue and we must take the time to examine our own biases and understand where they came from and why the exist. 
 
----
 
-Further reading and sources: 
+
+## Further reading and sources
 
 [President Obama signs bill eliminating ‘oriental’ from federal law](https://meng.house.gov/media-center/in-the-news/president-obama-signs-bill-eliminating-oriental-from-federal-law)
 

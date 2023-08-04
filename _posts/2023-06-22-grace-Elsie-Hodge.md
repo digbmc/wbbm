@@ -3,7 +3,7 @@ layout: post
 phase: P4 
 title: Who was Elsie Campbell Sinclair Hodge?
 author: Grace Foresman
-description: discussing the life and legacy of Elsie Campbell Sinclair Hodge
+description: Elsie Campbell Hodge was a Bryn Mawr alum who became a Christian missionary after graduating. Her and her husband were killed in the Boxer Rebellion shortly after arriving in Baoding, China. Back in the US, the Hodges were considered martyrs and used to perpetuate prejudice against Chinese Americans. 
 key_image:
     url: /wbbm/assets/images/media_017.jpeg
     alt: photo of the Elsie Sinclair Hodge bench on campus
@@ -52,9 +52,9 @@ While I am certainly not dismissing the very real tragedies that happened becaus
 
 The Elsie Hodge whose letters I read was a young woman that deeply cared for her family and friends. She delighted in keeping contact with them even when she was half way across the world. Perhaps, as she lived in China, she personally became more fond of it, but in her letters, she showed little enthusiasm for missionary work or for the country itself. Simply put, it appears Elsie Hodge was a young woman who got swept up in a family and a mission much larger than herself.  It became abundantly clear, reading her letters, that Elsie would not have desired the level of fame that she received after her death. In fact, the only thing she truly seemed to want was to be with her family again. In writing this post, I hope to honor her life in a more realistic sense. Perhaps not a martyr, but a Mawrter nonetheless.
 
----
 
-Further reading and sources:
+
+## Further reading and sources
 
 [John Chau: Do missionaries help or harm?](https://www.bbc.com/news/world-46336355)  - modern missionary work
 

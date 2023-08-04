@@ -5,10 +5,11 @@ phase: P4 # P4 is the indicator for the 2023-2026 phase
 author: Yihan Liu
 description: Liu Fung Kei was the first Chinese student to attend Bryn Mawr under the Chinese Scholarship. Who was she, and what did she do before and after Bryn Mawr?
 key_image: # do not write anything in this line
-    url: /wbbm/assets/images/media_034.png
+    url: /wbbm/assets/images/media_036.png
     alt: 
     caption: Letter from Liu Fung Kei to Catherine Cadbury 
 ---
+
 Bryn Mawr alumnae in China and Japan wrote to each other to tell their accomplishments, prospects, and difficulties every year. Among the letters from Japan, Japanese alumnae seemed to provide material for evaluating the practical outcome of American training. But as one turned to the letters from China for possible comparisons, no letters were from Chinese alumnae. Spearheaded by Professor Lucy Donnelly, who was also a Bryn Mawr alumna, the Chinese scholarship was founded as “The study of Chinese art and literature is becoming more and more a part of our education. Acquaintance and friendship with modern Chinese girls should give more reality to the study of their ancient arts and should add greatly to the variety and interest of campus life. The enterprise of securing a Chinese scholarship is not merely a doing of duty. It should have something of the color of adventure, of reaching out into new regions of interest.”
 
 The members of the Chinese scholarship committee considered students from Canton Christian College, the North China Union College for Women, and St. Hilda’s. Candidates included the daughter of a wealthy merchant, the sister of a Chinese poet, and so on. The committee finally chose Liu Fung Kei from Canton Christian College as the first Bryn Mawr Chinese scholar. [^1]
