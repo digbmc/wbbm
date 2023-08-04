@@ -381,3 +381,43 @@
   description: Ink on paper drawing of Quaker men, women, and children standing outside a meetinghouse in Germany
   source: Wikimedia Commons
   accession_number:
+
+- item_id: media_040
+  item_type: image
+  item_location: /assets/images/media_040.png
+  title: Detail Image of Screen 1
+  creator: Yihan Liu
+  date:
+  description: Detail photo of the screen highlighting the name of the workshop that made it, HIPQUA
+  source: August 4 2023
+  accession_number:
+
+- item_id: media_041
+  item_type: image
+  item_location: /assets/images/media_041.png
+  title: Detail Image of Screen 2
+  creator: Yihan Liu
+  date: August 4 2023
+  description: Detail photo of the screen highlighting the ritual tools which represent the eight immortals in Daoism. Five tools are circled
+  source: 
+  accession_number:
+
+- item_id: media_042
+  item_type: image
+  item_location: /assets/images/media_042.png
+  title: Detail Image of Screen 3
+  creator: Yihan Liu
+  date: August 4 2023
+  description: Detail photo of the screen highlighting the bats and butterflies. Two butterflies, a bat, and a flower are circled. 
+  source: 
+  accession_number:
+
+- item_id: media_043
+  item_type: image
+  item_location: /assets/images/media_043.png
+  title: Screen in the Fong Reading Room, Carpenter Library
+  creator: Hip Qua Workshop (screen), Yihan Liu (photographer)
+  date: August 4 2023
+  description: Photo of the Chinese screen displayed in the Fong Reading Room in Carpenter Library. The screen is black with gold painting
+  source: 
+  accession_number:
