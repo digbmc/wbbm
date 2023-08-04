@@ -3,7 +3,7 @@ title: M. Carey Thomas Goes Abroad
 phase: P4
 layout: post
 author: Grace Foresman
-description: discussing Thomas's travels across Asia and North Africa 
+description: It is well known that Thomas held many prejudice beliefs against non-Western people and cultures; however, I aim to directly discuss her strong support of Eugenics and great disdain for Asian people despite working with Tsuda Umeko to create the Japanese Scholarship program at Bryn Mawr. 
 key_image:
     url: /wbbm/assets/images/media_034.jpg
     alt: Scan of a page from M. Carey Thomas' letters to her family from her trip to Japan 
