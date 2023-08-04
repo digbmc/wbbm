@@ -5,9 +5,9 @@ phase: P4 # P4 is the indicator for the 2023-2026 phase
 author: Yihan Liu
 description: Learn how the Japanese Scholarship was founded and a bit about the first students to receive it. 
 key_image:
-    url: https://triarte.brynmawr.edu/Media/images/Chapin_Helen_China.jpg
-    alt: Black and white photo of Helen Burwell Chapin with her bike. Landscape of trees and cut down logs in the background.
-    caption: Black and white photo of Helen Chapin with her bike, taken during her time in China where she was known to have primarily traveled by cycling. 
+    url: /assets/images/media_038.png
+    alt: Black and white photo of Hoshino Ai standing on the steps of Taylor Hall with other students. All students are dressed in white, and the photo appears to be candid, with students talking and looking away from the camera. Hoshino Ai is alone with a neutral expression, at the top of the image.
+    caption: Hoshino Ai (1912) on the steps of Taylor Hall
 ---
 Content Warning: This blog post quotes M. Carey Thomas’s racist descriptions of the Japanese.
 
