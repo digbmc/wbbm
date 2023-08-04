@@ -14,7 +14,7 @@
   title: Bryn Mawr Campus Map, 1885
   creator:
   date: 1885
-  description: A hand-drawn map of Bryn Mawr College.
+  description: A hand-drawn map of Bryn Mawr College in 1885
   source: Bryn Mawr College Special Collections
   accession_number:
 
@@ -87,7 +87,7 @@
   description: Video of monks ringing a bonsho bell at the Chion-in Temple in Japan
   date: 4 January 2012
   source: YouTube
-  accession_number:
+  accession_number: 
   transcription: true
   
 - item_id: media_010
@@ -216,7 +216,7 @@
   title: Keep the Horror from Your Home
   creator: unknown
   date: 1942 
-  description: An anti-japanese WWII propaganda photo shows a cartoonish version of a Japanese man holding a white woman. The poster reads, Keep this horror from our homes.
+  description: An anti-japanese WWII propaganda photo shows a cartoonish version of a Japanese man holding a white woman. The poster reads 'Keep this horror from your home, invest 10% in war bonds, back up our battleskies'
   source: Wikimedia commons
   accession_number:
 
@@ -317,6 +317,7 @@
   item_location: /assets/images/media_033.jpg # path or src/url
   title: Michi Kawai's photo
   creator: unknown
+  date:
   description:
   source: Bryn Mawr College Special Collection
   accession_number: 
@@ -326,6 +327,27 @@
   item_location: /assets/images/media_034.jpg
   title: M. Carey Thomas' Trip to Japan
   creator: M. Carey Thomas
+  date:
   description: Thomas writes to her family describing her deep disdain and hatred towards Japanese people. 
   source: Bryn Mawr Special Collections, M. Carey Thomas Personal Papers reel 33
   accession_number: 
+
+- item_id: media_035
+  item_type: image
+  item_location: https://triarte.brynmawr.edu/Media/images/Chapin_Helen_China.jpg
+  title: Photograph of Helen Chapin in China with her bike
+  creator: unknown
+  date:
+  description: Black and white photograph of Helen Chapin with her bike during her travel across China
+  source: Bryn Mawr Special Collections
+  accession_number:
+
+- item_id: media_036
+  item_type: image
+  item_location: /assets/images/media_036.png
+  title: Letter from Liu Fung Kei to Catherine Cadbury
+  creator: Liu Fung Kei
+  date:
+  description: The beginning of a letter from Liu Fung Kei written to Catherine Cadbury on January 23, 1928
+  source: Haverford College & Quaker Special Collections
+  accession_number: MC1192_29_5_LetterLiuFungKei19280123

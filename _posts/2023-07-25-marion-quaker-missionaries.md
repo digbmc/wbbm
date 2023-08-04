@@ -1,9 +1,9 @@
 ---
 layout: post
 phase: P4
-title: 
+title: Why Japan and China? Quaker Missionaries in Japan
 author: Marion Hamilton
-description: Who Built Bryn Mawr? 2023 started on May 30th, here's a short summary of what we did in our first week!
+description: Why were the first BIPOC students at Bryn Mawr Japanese and Chinese? It is a complicated, multifaceted question, but part of the answer lies in Quaker Christian's desire to proselytize to Japan and China.
 public: true
 ---
 The first BIPOC students at Bryn Mawr were Japanese and Chinese students. There were Japanese and Chinese Scholarship funds established relatively early in the college’s history. One question that often comes up is, quite simply, why were a small number of Chinese and Japanese students accepted at Bryn Mawr while other BIPOC students were excluded?  

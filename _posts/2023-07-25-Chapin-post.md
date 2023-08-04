@@ -1,9 +1,13 @@
 ---
-title: Chapin's collection 
+title: Chapin's Collection 
 layout: post
 phase: P4 # P4 is the indicator for the 2023-2026 phase
 author: Yihan Liu
-description: 
+description: Helen Burwell Chapin donated numerous Chinese, Japanese, Korean, and Indian artifacts to the college, and she traveled in East Asia for much of her life. Who was she? Why did she donate these items? Where did she get them?
+key_image:
+    url: https://triarte.brynmawr.edu/Media/images/Chapin_Helen_China.jpg
+    alt: Black and white photo of Helen Burwell Chapin with her bike. Landscape of trees and cut down logs in the background.
+    caption: Black and white photo of Helen Chapin with her bike, taken during her time in China where she was known to have primarily traveled by cycling. 
 ---
 During the spring semesters of 2000 and 2001, eighteen students wrote essays on the translation and motifs of scrolls they chose from the Helen Burwell Chapin Collection. In the fall of 2001, Juwen Zhang, a lecturer in Chinese, asked if there were any objects he could use for his course, East Asian Studies 220: Chinese Folklores. 
 
@@ -15,6 +19,7 @@ In 1929, Chapin set out for Asia again, this time as a research fellow at Swarth
 Chapin returned to the United States in 1932 and worked temporarily as the head of the Japanese Collection at Columbia University. She failed to find a position as a professor because of the Great Depression, so she worked as a freelance writer and a researcher for Uptown Close, as well as the Japanese Society of New York. In 1934, she went to Mills College in California to study and teach. She earned her master’s degree in 1935, and worked as a librarian at the art library of the college. During this period, she published her own magazine, several articles in the Journal of the American Oriental Society and Poetry World, reviews of religion and arts, translation of Chinese poems, and her original verses.  
 
 In 1940, she received her doctorate in philosophy. She became a research analyst in Chinese and Japanese for the Department of Justice two years later. In 1946, she was engaged as the arts and monuments specialist for the United States Army in Korea, and therefore was able to revisit the Korean Buddhist temples and relics which she had first been enchanted with. After she returned to America in 1948, she planned to write a book on Korean art, but had to suspend her work because of illness. She passed away in 1950, at the age of 58.[^2]  
+
 Bryn Mawr College received her donation of artifacts shortly before Chapin’s death. Her collection reflected her personal experiences in Asia and her interests in Buddhism, poetry, and paintings. The collection included 350 volumes of Chinese and Japanese books, 100 Korean volumes, original Buddhist manuscripts dating from the fifteenth century, books from the Ming dynasty (1368-1644), objects of stone, embroideries, lacquers, paintings, and so on. Bryn Mawr College has twice deaccessioned artifacts from her collection, while the rest of the items remained packed away in storage until a few consultants in Asian Studies were invited to work on the collection in 1989. 
 
 Chapin’s experiences were rare for her time. It was uncommon for a woman to travel to and stay in Asia for extended periods of time for non-missionary purposes. Chapin usually got around by bike while in China, because she was in many areas before motor roads and railroads were built. Her experiences of pedaling from Hangzhou to Shanghai (about 107 miles) and sleeping in yurts and Buddhist temples have been used as proof of her having rich, first-hand knowledge of “the Orient.” But, considering that Japan’s invasion of Manchuria started during her second trip to China, and that her first visit to Korea was during Japan’s colonial rule, would she still be provided all the privileges she received during her stay in East Asia, or even be able to complete her travels safely at all if she was not a white American?  

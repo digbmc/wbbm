@@ -1,9 +1,13 @@
 ---
-title: Japanese Scholarship and first Japanese students at Bryn Mawr College
+title: The Japanese Scholarship and The First Japanese Students at Bryn Mawr College
 layout: post
 phase: P4 # P4 is the indicator for the 2023-2026 phase
 author: Yihan Liu
-description: 
+description: Learn how the Japanese Scholarship was founded and a bit about the first students to receive it. 
+key_image:
+    url: https://triarte.brynmawr.edu/Media/images/Chapin_Helen_China.jpg
+    alt: Black and white photo of Helen Burwell Chapin with her bike. Landscape of trees and cut down logs in the background.
+    caption: Black and white photo of Helen Chapin with her bike, taken during her time in China where she was known to have primarily traveled by cycling. 
 ---
 Content Warning: This blog post quotes M. Carey Thomas’s racist descriptions of the Japanese.
 
