@@ -4,10 +4,10 @@ phase: P4
 layout: post
 author: Grace Foresman
 description: discussing Thomas's travels across Asia and North Africa 
-#key_image:
-#    url: http://cartweb.geography.ua.edu/lizardtech/iserv/getimage?cat=World&item=World1899d.sid&cp=0.5,0.5&lev=5&wid=500&hei=400&props=img(Name,Description)&bg=ffffff&
-#    alt: a photo of a world map from 1899
-#    caption: The Century Company, 1899; from The Century Atlas of the World
+key_image:
+    url: /wbbm/assets/images/media_034.jpg
+    alt: Scan of a page from M. Carey Thomas' letters to her family from her trip to Japan 
+    caption: M. Carey Thomas writes about her deep disdain and hatred towards Japanese people and their culture. 
 public: true 
 --- 
 Content Warning:  racist language  
