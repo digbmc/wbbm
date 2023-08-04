@@ -3,7 +3,7 @@ layout: post
 phase: P4 
 title: The Missing Stone Lions in Taft Garden
 author: Grace Foresman
-description: A short history of two Chinese guardian lion statues that used to be in Taft Garden.
+description: Up until the 1970s, Bryn Mawr's Taft garden used to have two Chinese stone guardian lions, which sat on the stone stairs leading into the garden. 
 key_image: 
     url: https://images.unsplash.com/photo-1614555383820-941c466f1b52?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2448&q=80
     alt: A photo of a Chinese bronze guardian lion from the Forbidden City.
