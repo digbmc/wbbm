@@ -352,7 +352,7 @@
   source: Haverford College & Quaker Special Collections
   accession_number: MC1192_29_5_LetterLiuFungKei19280123
 
-  - item_id: media_037
+- item_id: media_037
   item_type: image
   item_location: /assets/images/media_037.jpg
   title: WBBM Interns and Post-Bac Advisor
@@ -362,7 +362,7 @@
   source: Allison Mills
   accession_number: 
 
-  - item_id: media_038
+- item_id: media_038
   item_type: image
   item_location: /assets/images/media_038.png
   title: Hoshino Ai and Classmates
@@ -371,3 +371,13 @@
   description: Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class
   source: Bryn Mawr Special Collections
   accession_number: PAE_CPOS_022_01
+
+- item_id: media_039
+  item_type: image
+  item_location: https://upload.wikimedia.org/wikipedia/commons/0/05/German_quaker_in_friedensthal.jpg
+  title: German Quakers in Friedensthal
+  creator: unknown
+  date:
+  description: Ink on paper drawing of Quaker men, women, and children standing outside a meetinghouse in Germany
+  source: Wikimedia Commons
+  accession_number:
