@@ -112,11 +112,11 @@
 
 - item_id: media_012
   item_type: image
-  item_location: https://triarte.brynmawr.edu/Media/Previews/F.164_BMC_spin.png
+  item_location: /assets/images/media_012.png
   title: Egyptian Faience Ushabti (Funerary Sculpture)
   creator: unknown
   description: Funeral sculpture from Egypt that used to be in the Deanery. The statue is a mummy depicted standing and is made of faience (glazed quartz)
-  date: 1 January 1935
+  date: 664 BCE - 525 BCE
   source: Tri-Arte online collection
   accession_number: F.164
 
@@ -135,7 +135,7 @@
   item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg/440px-Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg
   title: The Rising Tide of Color by Lothrop Stoddard
   creator: Lothrop Stoddard
-  description: Image of the cover of "The Rising Tide of Color" by Lothrop Stoddard. It is black and red with silhouettes of stereotypical/racist images of BIPOC people marching across the globe
+  description: Image of the cover of The Rising Tide of Color by Lothrop Stoddard. It is black and red with silhouettes of stereotypical/racist images of BIPOC people marching across the globe
   date: April 1920
   source: Wikipedia
   accession_number: 
