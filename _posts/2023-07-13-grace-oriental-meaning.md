@@ -92,9 +92,9 @@ After Obama signed the bill removing the usage of *oriental* in federal laws and
 
 I will not conclude this blog by saying yes of course you can use this word, here’s an Asian stamp of approval. Nor will I say you must never say *oriental* again. Instead, understand that though “words are just words,” certain words carry more baggage than others. *Oriental* represents the long and difficult history of  the West’s negative views and prejudice towards Asia, the Middle East, and North Africa, the legacy of which  remains imbedded in today’s world. I am fully aware that simply erasing the word from our vocab will not magically fix everything. Yet, to call someone *oriental* is to insist on some level that we are somehow exotic, worthy of gawking at but not speaking to. That we are only our beautiful dresses, vases, and furniture, and the rest of our cultures and histories are irrelevant. Perhaps there are not easily solutions to this issue and we must take the time to examine our own biases and understand where they came from and why the exist. 
 
----
 
-Further reading and sources: 
+
+## Further reading and sources
 
 [President Obama signs bill eliminating ‘oriental’ from federal law](https://meng.house.gov/media-center/in-the-news/president-obama-signs-bill-eliminating-oriental-from-federal-law)
 

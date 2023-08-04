@@ -34,24 +34,24 @@ Thomas travelled far and wide around the world. Yet her perspectives never chang
 
 I bring all this up as a way to contextualize the rest of our summer research. Even as Thomas is filling her Deanery with furniture and art from across the world,  she actively despised the people who are creating these objects. To reconcile Thomas’ difficult views with the fact we still prominently display some of the Deanery objects (much of which is Asian) is important in understanding Orientalism both historically and in its modern-day form. As the summer continues, I hope to investigate Thomas’s relationship further with Asia and dig into her collecting habits.
 
----
 
-Further reading
 
-https://specialcollections.blogs.brynmawr.edu/2014/09/05/reconnecting-with-the-bryn-mawr-deanery/ 
+## Further reading and sources
 
-https://perspectives.ushmm.org/item/lothrop-stoddard-in-a-eugenics-court 
+[Reconnecting With the Deanery](https://specialcollections.blogs.brynmawr.edu/2014/09/05/reconnecting-with-the-bryn-mawr-deanery/)
 
-https://journals.sagepub.com/doi/abs/10.1177/000271622109300110 (TW: strong racist language)
+[Lothrop Stoddard: "In the Eugenics Court"](https://perspectives.ushmm.org/item/lothrop-stoddard-in-a-eugenics-court) 
+
+[The Japanese Questions by Lothrop Stoddard](https://journals.sagepub.com/doi/abs/10.1177/000271622109300110) content warning: strong racist language
 
 M. Carey Thomas Papers, Microfilm, Reel 33 
 
-https://tripod.brynmawr.edu/discovery/fulldisplay?context=L&vid=01TRI_INST:BMC&search_scope=BMC_Catalog&tab=LibraryCatalog&docid=alma991012805729704921 
+[The Rising Tide of Color by Lothrop Stoddard](https://tripod.brynmawr.edu/discovery/fulldisplay?context=L&vid=01TRI_INST:BMC&search_scope=BMC_Catalog&tab=LibraryCatalog&docid=alma991012805729704921) 
 
-http://afe.easia.columbia.edu/special/japan_1750_meiji.htm 
+[Meiji Restoration Period and Modernization](http://afe.easia.columbia.edu/special/japan_1750_meiji.htm) 
 
-https://www.metmuseum.org/toah/ht/11/eaj.html
+[Japan, 1900 A. - present](Dhttps://www.metmuseum.org/toah/ht/11/eaj.html)
 
-https://blog.apaonline.org/2021/06/21/tourism-colonialism-and-disease/ 
+[Tourism, Colonialism, and Disease](https://blog.apaonline.org/2021/06/21/tourism-colonialism-and-disease/)
 
-https://www.theguardian.com/commentisfree/2014/apr/08/people-beautiful-colonial-tourism-travel s
+[The People are so Beautiful That's enough of the colonial tourism](https://www.theguardian.com/commentisfree/2014/apr/08/people-beautiful-colonial-tourism-travel)
