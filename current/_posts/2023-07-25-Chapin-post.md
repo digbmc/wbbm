@@ -1,7 +1,8 @@
 ---
 title: Chapin's Collection 
 layout: post
-phase: P4 # P4 is the indicator for the 2023-2026 phase
+tag: Disoriented
+phase: P4 # P4 is the indicator for the current phase
 author: Yihan Liu
 description: Helen Burwell Chapin donated numerous Chinese, Japanese, Korean, and Indian artifacts to the college, and she traveled in East Asia for much of her life. Who was she? Why did she donate these items? Where did she get them?
 key_image:

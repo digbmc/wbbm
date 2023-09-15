@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: Disoriented
 phase: P4
 title: Why Japan and China? Quaker Missionaries in East Asia
 author: Marion Hamilton

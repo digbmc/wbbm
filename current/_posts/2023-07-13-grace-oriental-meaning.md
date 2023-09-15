@@ -2,6 +2,7 @@
 title: What Does Oriental Mean?
 phase: P4
 layout: post
+tag: Disoriented
 author: Grace Foresman
 description: The word oriental has a long and complicated history, intertwined with colonialism, imperialism, and a deep prejudice against Asian, Middle Easter, and North African cultures. I hope to shed light on the origins of oriental, as it has been recently discussed in the news after Obama signed a bill prohibiting its use in Federal laws.
 key_image:

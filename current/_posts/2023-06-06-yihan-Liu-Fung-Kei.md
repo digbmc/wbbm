@@ -1,7 +1,8 @@
 ---
 title: The Chinese Scholarship and the First Scholarship Recipient (Liu Fung Kei)
 layout: post
-phase: P4 # P4 is the indicator for the 2023-2026 phase
+tag: Disoriented
+phase: P4 # P4 is the indicator for the current phase
 author: Yihan Liu
 description: Liu Fung Kei was the first Chinese student to attend Bryn Mawr under the Chinese Scholarship. Who was she, and what did she do before and after Bryn Mawr?
 key_image: # do not write anything in this line

@@ -2,6 +2,7 @@
 title: The First Gift to Bryn Mawr
 phase: P4
 layout: post
+tag: Disoriented
 author: Grace Foresman
 description: Discussing the history history of the Japanese temple bell in Taylor Hall, which was reportedly the first major gift given to Bryn  Mawr college. 
 key_image:

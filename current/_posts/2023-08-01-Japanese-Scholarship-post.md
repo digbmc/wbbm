@@ -1,11 +1,12 @@
 ---
 title: The Japanese Scholarship and The First Japanese Students at Bryn Mawr College
 layout: post
-phase: P4 # P4 is the indicator for the 2023-2026 phase
+tag: Disoriented
+phase: P4 # P4 is the indicator for the current phase
 author: Yihan Liu
 description: Learn how the Japanese Scholarship was founded and a bit about the first students to receive it. 
 key_image:
-    url: /assets/images/media_038.png
+    url: /wbbm/assets/images/media_038.png
     alt: Black and white photo of Hoshino Ai standing on the steps of Taylor Hall with other students. All students are dressed in white, and the photo appears to be candid, with students talking and looking away from the camera. Hoshino Ai is alone with a neutral expression, at the top of the image.
     caption: Hoshino Ai (1912) on the steps of Taylor Hall
 ---
