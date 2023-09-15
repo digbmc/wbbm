@@ -14,7 +14,9 @@ collections:
   posts:
     output: true
     sort_by: date
-    permalink: /blog/:categories/:year/:month/:day/:title/
+    permalink: /:categories/blog/:year/:month/:day/:title/
+  transcriptions:
+    output: true
 
 exclude:
  - README.md

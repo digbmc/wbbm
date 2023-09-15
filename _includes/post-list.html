@@ -1,20 +1,33 @@
+<!-------------------------------------------------------------------
+    Posts are sorted by tag, then by date! New tags must be added
+    to _data/tag-order.yml in the order in which they should appear
+    on the site.
+--------------------------------------------------------------------->
 
 <div class="post-list">
-    {% for post in site.posts | where: "public" %}
-    {% if post.phase == page.phase or page.phase == "all" %}
-    <hr>
-        <div class="row py-2">
-            {% if post.key_image %}
-                <div class="col-md-3 col-sm-6">
-                <img src="{{ post.key_image.url }}" class="img-thumbnail" >
-                </div>
-            {% endif %}
-            <div class="col-md-9">
-            <h3><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h3>
-            <p class=""><strong>{{ post.author }}</strong> -- {{ post.date | date: "%b %d, %Y" }}</p>
-            <p>{{ post.description }}</p>
-            </div>
-        <div>
-    {% endif %}
+    {% for i in site.data.tag-order %}
+    {% for tag in site.tags %}
+        {% if tag[0] == i.name %}
+            <h2 id="{{ tag[0] }}"><em>{{ tag[0] }}</em></h2>
+            {% for post in tag[1] | where: "public" %}
+                {% if post.phase == page.phase or page.phase == "all" %}
+                    <div class="row py-2">
+                        {% if post.key_image %}
+                            <div class="col-md-3 col-sm-6">
+                            <img src="{{ post.key_image.url }}" class="img-thumbnail" >
+                            </div>
+                        {% endif %}
+                        <div class="col-md-9">
+                        <h3><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h3>
+                        <p class=""><strong>{{ post.author }}</strong> -- {{ post.date | date: "%b %d, %Y" }}</p>
+                        <p>{{ post.description }}</p>
+                        </div>
+                    <div>
+                {% endif %}
+            {% unless forloop.last %}<hr>{% endunless %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+    {% unless forloop.last %}<hr>{% endunless %}
     {% endfor %}
 </div>

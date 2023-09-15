@@ -52,6 +52,13 @@
                 <td>{{ this-media.accession_number }}</td>
             </tr>
             {% endif %}
+            {% if this-media.transcription %}
+            <tr>
+                <th>Transcription</th>
+                {% capture transcription_loc %}/transcriptions/{{ this-media.item_id }}/{% endcapture %}
+                <td><a href="{{ transcription_loc | relative_url }}">{{ this-media.item_id }}</a></td>
+            </tr>
+            {% endif %}
         </table>
         {% comment %}
         {% if this-media.title %}<p class="media-title">Title: {{ this-media.title }}</p>{% endif %}

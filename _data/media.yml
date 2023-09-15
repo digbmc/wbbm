@@ -14,7 +14,7 @@
   title: Bryn Mawr Campus Map, 1885
   creator:
   date: 1885
-  description: A hand-drawn map of Bryn Mawr College.
+  description: A hand-drawn map of Bryn Mawr College in 1885
   source: Bryn Mawr College Special Collections
   accession_number:
 
@@ -42,8 +42,8 @@
   item_type: image
   item_location: /assets/images/media_005.jpg # path or src/url
   title: Elsie Hodge Memorial Bench
-  creator: Marion Hamilton, photographer
-  description: A gray, concrete bench between Denbigh and Guild Halls. The inscription on the bench is In Memoriam Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900.
+  creator: Marion Hamilton, photographer 
+  description: A gray, concrete bench between Denbigh and Guild Halls. The inscription on the bench is In Memoriam Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900
   date: 2 June 2023
   source: Marion Hamilton
   accession_number: 
@@ -51,40 +51,41 @@
 - item_id: media_006
   item_type: image
   item_location: /assets/images/media_006.jpg # path or src/url
-  title: Fung Kei Liu at Canton Christian College
-  creator: Yihan Liu, photographer
-  description: photo
-  date: 9 June 2023
-  source: Yihan Liu
+  title: Liu Fung Kei at Canton Christian College
+  creator: Unknown
+  description: A photo of Liu Fung Kei and another woman standing on stairs in front of a gate at Canton Christian College
+  date: c. 1910s
+  source: Bryn Mawr Special Collections
   accession_number: 
 
 - item_id: media_007
   item_type: image
   item_location: /assets/images/media_007.jpg # path or src/url
   title: Yuet Wah school
-  creator: Yihan Liu, photographer
-  description: photo
-  date: 9 June 2023
-  source: Yihan Liu
+  creator: Unknown
+  description: A landscape photo of the Yuet Wah School
+  date: c. 1920s
+  source: Bryn Mawr College Special Collections
   accession_number: 
 
 - item_id: media_008
   item_type: image
   item_location: /assets/images/media_008.png 
-  title: Mary Morris Obit
-  creator: philadelphia inquirer
-  description: obituary 
+  title: Mary Morris' Obituary
+  creator: The Philadelphia Inquirer
+  description: Obituary in The Philadelpia Inquirer for Mary Morris, founder of the Japanese Scholarship at Bryn Mawr College
   date: 
-  source: philadelphia inquirer
+  source: The Philadelphia Inquirer
   accession_number: 
+  transcription: true
 
 - item_id: media_009
   item_type: yt-video
   item_location: <iframe src="https://www.youtube-nocookie.com/embed/NlvRvsDUkdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   title: Ringing the bell at Chion-in Temple
   creator: duncantakeru
-  description: video of monks ringing a bonsho bell
-  date: 4 Jan 2012
+  description: Video of monks ringing a bonsho bell at the Chion-in Temple in Japan
+  date: 4 January 2012
   source: YouTube
   accession_number: 
   
@@ -93,17 +94,330 @@
   item_location: https://ichef.bbci.co.uk/images/ic/1200x675/p01grdfw.jpg 
   title: Buddhist Temple Bells
   creator: BBC Radio
-  description: monk ringing a bonsho bell
-  date: 14 july 2014
+  description: A monk ringing a bonsho bell
+  date: 14 July 2014
   source: BBC news
   accession_number:
 
 - item_id: media_011
   item_type: image
   item_location: /assets/images/media_011.jpg # path or src/url
-  title: Fung Kei Liu, 1922 yearbook
-  creator: Yihan Liu, photographer
-  description: photo
-  date: 9 June 2023
-  source: Yihan Liu
+  title: Liu Fung Kei, 1922 yearbook
+  creator: Unknown
+  description: Liu Fung Kei's (1922) yearbook photo. She stands outside on Bryn Mawr's campus
+  date: 1922
+  source: Bryn Mawr Special Collections
+  accession_number: PA_Liu_Fung_Kei_001
+
+- item_id: media_012
+  item_type: image
+  item_location: /assets/images/media_012.png
+  title: Egyptian Faience Ushabti (Funerary Sculpture)
+  creator: unknown
+  description: Funeral sculpture from Egypt that used to be in the Deanery. The statue is a mummy depicted standing and is made of faience (glazed quartz)
+  date: 664 BCE - 525 BCE
+  source: Tri-Arte online collection
+  accession_number: F.164
+
+- item_id: media_013
+  item_type: image
+  item_location: https://triarte.brynmawr.edu/Media/Previews/W.314_BMC_pr_2.png
+  title: Fu-dog Figurine
+  creator: unknown
+  description: A bronze Fu-dog (guardian lion) of Chinese or Japanese origin. The statue is facing forward with its mouth open. 
+  date: 1 January 1935
+  source: Tri-Arte online collection
+  accession_number: W.314
+
+- item_id: media_014
+  item_type: image
+  item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg/440px-Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg
+  title: The Rising Tide of Color by Lothrop Stoddard
+  creator: Lothrop Stoddard
+  description: Image of the cover of The Rising Tide of Color by Lothrop Stoddard. It is black and red with silhouettes of stereotypical/racist images of BIPOC people marching across the globe
+  date: April 1920
+  source: Wikipedia
   accession_number: 
+
+- item_id: media_015
+  item_type: image
+  item_location: /assets/images/media_015.jpg # path or src/url
+  title: Helen Chapin's business card, with her Chinese name at the center
+  creator: unknown
+  description: The pronunciation of Chapin's Chinese name is similar 
+  source: Archive 12H Chapin, Bryn Mawr College 
+  accession_number: 
+
+- item_id: media_016
+  item_type: image
+  item_location: /assets/images/media_016.jpg # path or src/url
+  title: Helen Chapin's diary
+  creator: unknown
+  description:
+  source: Archive 12H Chapin, Bryn Mawr College 
+  accession_number: 
+  
+- item_id: media_017
+  item_type: image
+  item_location: /assets/images/media_017.jpeg
+  title: Elsie Campbell Sinclair Hodge Bench
+  creator: Yihan Liu
+  date: 6 June 2023
+  description: Photo of the Elsie Sinclair Hodge Bench. The inscription on the bench reads "Elsie Campbell Sinclair Hodge A.B. 1897 Born December 1874 Died in the massacre of Christians at Paotingfu China June 1900"
+  source: Yihan Liu
+  accession_number:
+
+- item_id: media_018
+  item_type: image
+  item_location: /assets/images/media_018.jpg
+  title: Elsie Sinclair Hodge
+  creator: unknown
+  date: 1897
+  description: A formal photo of Elsie Sinclair Hodge right after graduation
+  source: Bryn Mawr Special Collections
+  accession_number:
+
+- item_id: media_019
+  item_type: image
+  item_location: /assets/images/media_019.jpg
+  title: The Seattle Post-Intelligencer, July 22 1900
+  creator: The Seattle Post-Intelligencer
+  date: 22 July 1900
+  description: A scanned copy of one page from the Seattle Post newspaper. The page shows a story detailing the Hodge's death in Baoding, China along with a large sketch of all the foreign missionaries killed in Baoding, including Elsie
+  source: Newspapers.com
+  accession_number:
+  transcription: true
+
+- item_id: media_020
+  item_type: image
+  item_location: /assets/images/media_020.jpg
+  title: The Boston Globe, July 31 1900
+  creator: The Boston Globe
+  date: 31 July 1900
+  description: A scanned copy of one page from the Boston Globe newspaper. The page shows a sketch of Elsie Sinclair Hodge dressed in a cap in gown, likely taken right after her graduation. 
+  source: Newspapers.com
+  accession_number:
+  transcription: true
+
+- item_id: media_021
+  item_type: image
+  item_location: /assets/images/media_021.jpg
+  title: The Evening Gazette, September 13 1900
+  creator: The Evening Gazette
+  date: 13 September 1900
+  description: A scanned copy of one page from the Evening Gazette. Two sections are highlighted in yellow, which pretain to the death of Elsie Sinclair Hodge
+  source: Newspapers.com
+  accession_number:
+  transcription: true
+
+- item_id: media_022
+  item_type: image
+  item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Keep_this_Horror_From_Your_Home._Invest_10_Percent_in_War_Bonds_Back_Up_our_Battleskies%5E_-_NARA_-_534105.tif/lossy-page1-756px-Keep_this_Horror_From_Your_Home._Invest_10_Percent_in_War_Bonds_Back_Up_our_Battleskies%5E_-_NARA_-_534105.tif.jpg?20110821224953
+  title: Keep the Horror from Your Home
+  creator: unknown
+  date: 1942 
+  description: An anti-japanese WWII propaganda photo shows a cartoonish version of a Japanese man holding a white woman. The poster reads 'Keep this horror from your home, invest 10% in war bonds, back up our battleskies'
+  source: Wikimedia commons
+  accession_number:
+
+- item_id: media_024
+  item_type: image
+  item_location: /assets/images/media_024.jpg
+  title: Taft Garden 
+  creator: unknown
+  date: unknown
+  description: An image of a Taft garden. In foreground a fountain with four angles can be seen. Behind are steps which have two Chinese stone lions sitting on either side of the stone wall
+  source: Bryn Mawr special collections
+  accession_number: PAB_deanery_011_01
+
+- item_id: media_025
+  item_type: image
+  item_location: /assets/images/media_025.jpg
+  title: Chinese stone guardian lion front view
+  creator: unknown
+  date: unknown
+  description: Front view of a Chinese stone guardian lion with a small cub under the right paw.The guardian lion was in Taft Garden at Bryn Mawr College
+  source: Bryn Mawr Special Collections
+  accession_number: PAB_Deanery_245_01
+  
+- item_id: media_026
+  item_type: image
+  item_location: /assets/images/media_026.jpg
+  title: Chinese stone guardian lion back view
+  creator: unknown
+  date: unknown
+  description: Back side view of a Chinese stone guardian lion from Taft Garden at Bryn Mawr College
+  source: Bryn Mawr Special Collections
+  accession_number: PAB_Deanery_244_01
+
+- item_id: media_027
+  item_type: image
+  item_location: /assets/images/media_027.jpg
+  title: Chinthe statue Burmese Guardian Lion
+  creator: unknown, Burmese
+  date: 19th - 20th century
+  description: A highly stylized statue of a sitting lion made of wood and glass from Myanmar
+  source: Philadelphia Museum of Art
+  accession_number: 2003-222-2
+
+- item_id: media_028
+  item_type: image
+  item_location: /assets/images/media_028.jpg
+  title: Deanery Stone Guardian Lions Annotated
+  creator: Grace Foresman
+  date: 6 June 2023
+  description: Photo of stone guardian lions on steps of Deanery guardian with a red circle around both lions. Left lion labeled male and right lion labeled female 
+  source: Bryn Mawr special collections 
+  accession_number: 
+  
+- item_id: media_029
+  item_type: image
+  item_location: https://collectionapi.metmuseum.org/api/collection/v1/iiif/53190/2070924/main-image
+  title: Japanese Guardian Lion Komainu 
+  creator: unknown
+  date: mid 13th century
+  description: A highly stylized statue of a sitting lion from Japan made of cypress
+  source: the Metropolitan Museum of Art
+  accession_number: 2015.300.257a,b
+
+- item_id: media_030
+  item_type: image
+  item_location: /assets/images/media_030.jpg
+  title: A. A. Vantine & Company's Wonderbook 'Oh, Fair (?) Japan'
+  creator: A. A. Vantine & Company
+  date: c. 1920s
+  description: A poem written about a romanticized view of Japan. Around the poem are sketches of Asian objects, and a label that says 'two views of Japan'
+  source: Internet Archive
+  accession_number:
+  transcription: true
+
+- item_id: media_031
+  item_type: image
+  item_location: /assets/images/media_031.jpg
+  title: A. A. Vantine & Company's Wonderbook 'Oh, Fair (?) Japan'
+  creator: A. A. Vantine & Company
+  date: c. 1920s
+  description: A poem written about Japan that is very stereotypical. Around the text there are sketches of Japanese flowers and an inscription that reads 'two views of Japan'
+  source: Internet Archive
+  accession_number:
+  transcription: true
+
+- item_id: media_032
+  item_type: image
+  item_location: https://uploads6.wikiart.org/images/jean-leon-gerome/the-hookah-lighter.jpg!Large.jpg
+  title: The Hookah Lighter 
+  creator: Jean Leon Gerome 
+  date: c. 1898
+  description: A painting depicting five naked women bathing in an 'oriental' style bath, likely to replicate a harem. The woman in the middle sits by the side of the pool using a hookah
+  source: WikiArt
+  accession_number: 
+
+- item_id: media_033
+  item_type: image
+  item_location: /assets/images/media_033.jpg # path or src/url
+  title: Michi Kawai's Photo
+  creator: unknown
+  date:
+  description:
+  source: Bryn Mawr College Special Collection
+  accession_number: 
+
+- item_id: media_034
+  item_type: image
+  item_location: /assets/images/media_034.jpg
+  title: M. Carey Thomas' Trip to Japan
+  creator: M. Carey Thomas
+  date:
+  description: Thomas writes to her family describing her deep disdain and hatred towards Japanese people. 
+  source: Bryn Mawr Special Collections, M. Carey Thomas Personal Papers reel 33
+  accession_number: 
+
+- item_id: media_035
+  item_type: image
+  item_location: https://triarte.brynmawr.edu/Media/images/Chapin_Helen_China.jpg
+  title: Photograph of Helen Chapin in China with her bike
+  creator: unknown
+  date:
+  description: Black and white photograph of Helen Chapin with her bike during her travel across China
+  source: Bryn Mawr Special Collections
+  accession_number:
+
+- item_id: media_036
+  item_type: image
+  item_location: /assets/images/media_036.png
+  title: Letter from Liu Fung Kei to Catherine Cadbury
+  creator: Liu Fung Kei
+  date:
+  description: The beginning of a letter from Liu Fung Kei written to Catherine Cadbury on January 23, 1928
+  source: Haverford College & Quaker Special Collections
+  accession_number: MC1192_29_5_LetterLiuFungKei19280123
+
+- item_id: media_037
+  item_type: image
+  item_location: /assets/images/media_037.jpg
+  title: WBBM Interns and Post-Bac Advisor
+  creator: Allison Mills
+  date:
+  description: Photo of Grace Foresman, Yihan Liu, and Marion Hamilton
+  source: Allison Mills
+  accession_number: 
+
+- item_id: media_038
+  item_type: image
+  item_location: /assets/images/media_038.png
+  title: Hoshino Ai and Classmates
+  creator: unknown
+  date: 1912
+  description: Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class
+  source: Bryn Mawr Special Collections
+  accession_number: PAE_CPOS_022_01
+
+- item_id: media_039
+  item_type: image
+  item_location: https://upload.wikimedia.org/wikipedia/commons/0/05/German_quaker_in_friedensthal.jpg
+  title: German Quakers in Friedensthal
+  creator: unknown
+  date:
+  description: Ink on paper drawing of Quaker men, women, and children standing outside a meetinghouse in Germany
+  source: Wikimedia Commons
+  accession_number:
+
+- item_id: media_040
+  item_type: image
+  item_location: /assets/images/media_040.png
+  title: Detail Image of Screen 1
+  creator: Yihan Liu
+  date:
+  description: Detail photo of the screen highlighting the name of the workshop that made it, HIPQUA
+  source: August 4 2023
+  accession_number:
+
+- item_id: media_041
+  item_type: image
+  item_location: /assets/images/media_041.png
+  title: Detail Image of Screen 2
+  creator: Yihan Liu
+  date: August 4 2023
+  description: Detail photo of the screen highlighting the ritual tools which represent the eight immortals in Daoism. Five tools are circled
+  source: 
+  accession_number:
+
+- item_id: media_042
+  item_type: image
+  item_location: /assets/images/media_042.png
+  title: Detail Image of Screen 3
+  creator: Yihan Liu
+  date: August 4 2023
+  description: Detail photo of the screen highlighting the bats and butterflies. Two butterflies, a bat, and a flower are circled. 
+  source: 
+  accession_number:
+
+- item_id: media_043
+  item_type: image
+  item_location: /assets/images/media_043.jpg
+  title: Screen in the Fong Reading Room, Carpenter Library
+  creator: Hip Qua Workshop (screen), Yihan Liu (photographer)
+  date: August 4 2023
+  description: Photo of the Chinese screen displayed in the Fong Reading Room in Carpenter Library. The screen is black with gold painting
+  source: 
+  accession_number:

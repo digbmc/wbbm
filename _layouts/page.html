@@ -12,7 +12,7 @@ layout: default
             {% if page.key_image %}
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
-                    <figure class="figure col-8">
+                    <figure class="figure col-8 text-center">
                         <img src="{{ page.key_image.url }}" class="figure-img img-fluid" alt="{{ page.key_image.alt }}">
                         <figcaption class="figure-caption text-right bg-dark">{{ page.key_image.caption }}</figcaption>
                     </figure>
@@ -39,7 +39,7 @@ layout: default
 <footer>
     <section class="footer container p-3">
         <div class="row justify-content-between">
-            <div class="col text-start"><a href="{{ site.baseurl }}">Who Built Bryn Mawr?</a></div>
+            <div class="col text-start"><a href="{{ site.baseurl }}/">Who Built Bryn Mawr?</a></div>
             <div class="w-100 d-block d-md-none"></div>
             <div class="col text-start text-md-end"><a href="https://www.brynmawr.edu/">Bryn Mawr College</a>, 2023</div>
         </div>
