@@ -1,10 +1,14 @@
 ---
 layout: post
 phase: P4
-title: Why Japan and China? Quaker Missionaries in Japan
+title: Why Japan and China? Quaker Missionaries in East Asia
 author: Marion Hamilton
 description: Why were the first BIPOC students at Bryn Mawr Japanese and Chinese? It is a complicated, multifaceted question, but part of the answer lies in Quaker Christian's desire to proselytize to Japan and China.
 public: true
+key_image: # do not write anything in this line
+    url: https://upload.wikimedia.org/wikipedia/commons/0/05/German_quaker_in_friedensthal.jpg
+    alt: ink on paper drawing of Quakers near a meetinghouse. 
+    caption: Quakers
 ---
 The first BIPOC students at Bryn Mawr were Japanese and Chinese students. There were Japanese and Chinese Scholarship funds established relatively early in the college’s history. One question that often comes up is, quite simply, why were a small number of Chinese and Japanese students accepted at Bryn Mawr while other BIPOC students were excluded?  
 
