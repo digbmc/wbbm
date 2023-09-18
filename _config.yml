@@ -3,7 +3,7 @@
 title: Who Built Bryn Mawr?
 
 url: https://wbbm.digitalprojects.brynmawr.edu # https://wbbm.digitalprojects.brynmawr.edu or http://digbmc.github.io
-baseurl: /dev-2023 # /dev-2023 or /wbbm
+baseurl: # /dev-2023 or /wbbm
 
 permalink: pretty
 

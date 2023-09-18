@@ -6,7 +6,7 @@ tag: Disoriented
 author: Grace Foresman
 description: It is well known that Thomas held many prejudice beliefs against non-Western people and cultures; however, I aim to directly discuss her strong support of Eugenics and great disdain for Asian people despite working with Tsuda Umeko to create the Japanese Scholarship program at Bryn Mawr. 
 key_image:
-    url: /wbbm/assets/images/media_034.jpg
+    url: /assets/images/media_034.jpg
     alt: Scan of a page from M. Carey Thomas' letters to her family from her trip to Japan 
     caption: M. Carey Thomas writes about her deep disdain and hatred towards Japanese people and their culture. 
 public: true 

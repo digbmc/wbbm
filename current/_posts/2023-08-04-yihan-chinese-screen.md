@@ -6,7 +6,7 @@ tag: Disoriented
 author: Yihan Liu
 description: In the Fong Reading Room of Carpenter Library there is a Chinese screen on display. It's detailed and extremely beautiful but, until now, has gone unresearched and undescribed. Read on to learn about the origins of this screen. 
 key_image:
-    url: /wbbm/assets/images/media_043.jpg
+    url: /assets/images/media_043.jpg
     alt: Photo of the Chinese screen displayed in the Fong Reading Room in Carpenter Library. The screen is black with gold painting
     caption: Screen in the Fong Reading Room, Carpenter Library
 public: true 

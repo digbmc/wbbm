@@ -6,7 +6,7 @@ phase: P4 # P4 is the indicator for the current phase
 author: Yihan Liu
 description: Liu Fung Kei was the first Chinese student to attend Bryn Mawr under the Chinese Scholarship. Who was she, and what did she do before and after Bryn Mawr?
 key_image: # do not write anything in this line
-    url: /wbbm/assets/images/media_036.png
+    url: /assets/images/media_036.png
     alt: 
     caption: Letter from Liu Fung Kei to Catherine Cadbury 
 ---

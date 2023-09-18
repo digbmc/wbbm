@@ -6,7 +6,7 @@ phase: P4 # P4 is the indicator for the current phase
 author: Yihan Liu
 description: Learn how the Japanese Scholarship was founded and a bit about the first students to receive it. 
 key_image:
-    url: /wbbm/assets/images/media_038.png
+    url: /assets/images/media_038.png
     alt: Black and white photo of Hoshino Ai standing on the steps of Taylor Hall with other students. All students are dressed in white, and the photo appears to be candid, with students talking and looking away from the camera. Hoshino Ai is alone with a neutral expression, at the top of the image.
     caption: Hoshino Ai (1912) on the steps of Taylor Hall
 ---
