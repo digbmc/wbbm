@@ -1,3 +1,6 @@
+
+
+
 body {
     font-family: $main-font;
     color: $text-color;
@@ -6,12 +9,20 @@ body {
 }
 
 a {
-color: $link-color;
-text-decoration: none;
+    color: $link-color;
+    text-decoration: none;
+}
+
+.P4 a {
+    color: $P4-link-color;
 }
 
 a:hover {
     color: $link-color-hover;
+}
+
+.P4 a:hover {
+    color: $P4-link-color-hover;
 }
 
 h1 {
@@ -63,9 +74,19 @@ h1 {
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+.P4 .link-button {
+    color: #1D67E5;
+    background-color: white;
+}
+
 .link-button:hover {
     color: black; /* purple: #7C2BA1 */
     background-color: $link-color-hover; /* purple: #E7D4F2 */
+}
+
+.P4 .link-button:hover {
+    color: white; /* purple: #7C2BA1 */
+    background-color: #1D67E5; /* purple: #E7D4F2 */
 }
 
 /* ----- WBBM Home Page ----- */
