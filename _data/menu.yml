@@ -1,8 +1,8 @@
 - phase: P4
   navigation:
-    - title: About
-      url: /2023-2026/about/
+    - title: Disoriented
+      url: /current/disoriented/
     - title: Blog
-      url: /2023-2026/blog/
+      url: /current/blog/
     - title: Team
-      url: /2023-2026/team/
+      url: /current/team/

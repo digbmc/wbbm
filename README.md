@@ -16,7 +16,8 @@ To add a blog post, create a new file in the _posts directory with the name YYYY
 ```yaml
 ---
 layout: post
-phase: P4 # P4 is the indicator for the 2023-2026 phase
+tag: # A tag for the current year/subphase (e.g. "Disoriented" for the Summer 2023 subphase)
+phase: P4 # P4 is the indicator for the current phase
 title:
 author:
 description:
@@ -30,15 +31,17 @@ public: true
 ```
 After you have copied this code into your new file, fill out all of the missing information in the header, including the title, author, and description of the blog post. If you would like an image to appear at the top of the blog post and as its thumbnail in the list of blog posts, add the url, alt text (for image accessibility), and a caption in the corresponding lines in the header. If you do not want to add an image, you can leave those lines as they are or delete them (including the “key_image” line). 
 
+The "tag" line is very important. Make sure you add the tag corresponding to the post's year/subphase (e.g. "Disoriented" for the Summer 2023 subphase). If you are creating a new tag, you must add it to the tag-order.yml file in the _data folder. The order of the tags in this file determines the order in which the tag sections will appear on the blog page. If you do not add a tag to your post or you do not add the new tag to tag-order.yml, the post will not appear on the blog page.
+
 Once you have filled out the information in the header, add the text content of your blog post after the three dashes (---) that close the header. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 If your post is still a draft or not ready to be made public, change `public: true` to `public: false`. Once you push your changes to your remote branch, open a pull request to main in GitHub, and the pull request is merged, you will still be able to navigate to your blog post by typing its url into your browser's address bar, but the post will not appear on the list of posts on the site.
 
-The url for a blog post consists of the site's base url (currently https://digbmc.github.io/wbbm/) plus /blog/YYYY/MM/DD/name/, where the date and name come from the post's file name. For example, the blog post that generates from the 2023-05-01-sample-post.md file has the url https://digbmc.github.io/wbbm/blog/2023/05/01/sample-post/.
+The url for a blog post consists of the site's base url (currently https://digbmc.github.io/wbbm/) plus /current/blog/YYYY/MM/DD/name/, where the date and name come from the post's file name.
 
 ### To add a page
 
-To create a new page, you will have to create a new file in the site repository. For a page associated with the main WBBM site, create the new file in the site's root directory. For a page associated with a specific phase, create a new file in the corresponding folder. For now, the folder for the current phase is called "2023-2026".
+To create a new page, you will have to create a new file in the site repository. For a page associated with the main WBBM site, create the new file in the site's root directory. For a page associated with a specific phase, create a new file in the corresponding folder. For now, the folder for the current phase is called "current".
 
 The file should have YAML front matter similar to the following, which is from the current phase's "About" page:
 ```yaml
@@ -48,15 +51,15 @@ layout: page
 phase: P4
 ---
 ```
-You can copy this front matter into your new file and update the values as needed. The `layout` must be set to `page`. The identifier for the current phase (2023-2026) is `P4`. All pages and posts associated with the current phase should have `phase: P4` in their YAML front matter.
+You can copy this front matter into your new file and update the values as needed. The `layout` must be set to `page`. The identifier for the current phase (current) is `P4`. All pages and posts associated with the current phase should have `phase: P4` in their YAML front matter.
 
 #### Permalinks
 
-The permalink for the new page will depend on the location of its file in the site repository. If the file is in the root directory, the page's permalink will be `/filename/`, where "filename" is the name of the file minus its file extension. If the file is in another folder, the permalink will be `/folder/filename/`, where "folder" is the name of the folder that houses the file. For example, the permalink for the current phase's "About" page, which is generated from the about.md file in the "2023-2026" folder, is `/2023-2026/about/`.
+The permalink for the new page will depend on the location of its file in the site repository. If the file is in the root directory, the page's permalink will be `/filename/`, where "filename" is the name of the file minus its file extension. If the file is in another folder, the permalink will be `/folder/filename/`, where "folder" is the name of the folder that houses the file. For example, the permalink for the current phase's "About" page, which is generated from the about.md file in the "current" folder, is `/current/about/`.
 
 You will need the permalink to add the new page to the site's navigation bar and to create other links to the page. Instructions for editing the nav bar can be found below.
 
-In some cases, you may need to override the permalink automatically generated for a page. To do this, you must add a line to the page's YAML front matter beginning with `permalink: `. To see an example of this, you can look at the landing.md file in the "2023-2026" folder. The automatically generated permalink for this page would be `/2023-2026/landing/`, but the front matter sets the permalink as `/2023-2026/`.
+In some cases, you may need to override the permalink automatically generated for a page. To do this, you must add a line to the page's YAML front matter beginning with `permalink: `. To see an example of this, you can look at the landing.md file in the "current" folder. The automatically generated permalink for this page would be `/current/landing/`, but the front matter sets the permalink as `/current/`.
 
 ### To add media to the site's collection
 
@@ -145,11 +148,11 @@ The menu.yml file is written in YAML and consists of a list that looks something
 - phase: P4
   navigation:
     - title: About
-      url: /2023-2026/about/
+      url: /current/about/
     - title: Blog
-      url: /2023-2026/blog/
+      url: /current/blog/
     - title: Team
-      url: /2023-2026/team/
+      url: /current/team/
 ```
 Each item in this list has two keys: `phase` and `navigation`. The value of the `phase` key should be set to the identifier for the phase that the nav bar will be used for. The value of the `navigation` key is the list of items you want to appear in the nav bar. Each of these list items has two keys: `title` and `url`.
 
