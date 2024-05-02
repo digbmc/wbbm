@@ -461,3 +461,13 @@
   description: A small shoe for a bound foot. Part of Chapin's colelction donated to the college.
   source:
   accession_number: TN.180
+
+- item_id: media_049=8
+  item_type: image
+  item_location: /assets/images/media_048.png
+  title: Buddha Statue 
+  creator: 
+  date: Early 20th century
+  description: Buddha statue from the Deanery
+  source:
+  accession_number: 2007.3.16
