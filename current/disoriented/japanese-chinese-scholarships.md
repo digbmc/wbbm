@@ -13,7 +13,7 @@ By 1916, other colleges had begun admitting Chinese students, spurring Bryn Mawr
 
 ## Scholarships for Whom?
 
-    “Acquaintance and friendship with modern Chinese girls should give more reality to the study of their ancient arts and should add greatly to the variety and interest of campus life.... It should have something of the color of adventure, of reaching out into new regions of interest.” - Lucy Martin Donnelly ​
+> “Acquaintance and friendship with modern Chinese girls should give more reality to the study of their ancient arts and should add greatly to the variety and interest of campus life.... It should have something of the color of adventure, of reaching out into new regions of interest.” - Lucy Martin Donnelly ​
 
 Lucy Martin Donnelly's characterization of the Chinese Scholarship emphasized its value to white students, rather than to the Chinese students themselves. Although she graduated in the year prior to the scholarship's formation, Helen Burwell Chapin (Class of 1914, BA 1915) is the type of student the Committee hoped the Chinese scholarship would benefit. ​
 
@@ -29,9 +29,14 @@ Upon her death, Chapin gave her rich collections of books and art to Bryn Mawr C
 
 During Chapin's first visit to China in 1925, a Buddhist monk gave her this transcription of a Buddhist poem from the Song Dynasty. The transcription contains her Chinese first name (彬華) and signals his recognition of her sincere academic interest in Buddhism, poetry, and art. During her second trip to China on a research fellowship through Swarthmore College, Chapin was invited by the Palace Museum in Beijing to help identify several Buddhist statues. 
 
+
+
+
 ### The Opium Pipe
 
 {% include media.html item_id="media_046" align="left" %}
+
+
 
 This small pipe is designed for smoking opium. Even though opium pipes are associated with East Asian cultures, opium only entered these countries due to Western influence. Britain attempted to economically colonize China by selling opium and making China dependent on trade. In the US, as anti-Chinese sentiment rose, the stereotype of Chinese workers smoking opium and being lazy spread. Collecting this pipe echoes the Western imperialism in East Asia. ​
 
