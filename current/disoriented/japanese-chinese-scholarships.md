@@ -19,8 +19,24 @@ Lucy Martin Donnelly's characterization of the Chinese Scholarship emphasized it
 
 Following graduation, Chapin worked as a stenographer in the Oriental Art department of the Museum of Fine Arts, Boston, where she developed the enthusiasm for East Asian culture that would become her life-long devotion. She traveled extensively through Asia, studying East Asian languages and culture, and eventually earning a Ph.D. with a thesis on a pair of swords. She became a research analyst in Chinese and Japanese for the U.S. Department of Justice, and later the Arts and Monuments Specialist for the U.S. Army in Korea. ​
 
-{% include media.html item_id="media_046" align="left" %}
-
 Upon her death, Chapin gave her rich collections of books and art to Bryn Mawr College. These materials reflect her deep knowledge of East Asian cultures, even as they include several items that misrepresent East Asian as antiquated, primitive, and exotic to Western eyes. 
 
-{% include media.html item_id="media_045" align="center" %}
+## Chapin's Collection
+
+### Clerical Script
+
+{% include media.html item_id="media_045" align="left" %}
+
+During Chapin's first visit to China in 1925, a Buddhist monk gave her this transcription of a Buddhist poem from the Song Dynasty. The transcription contains her Chinese first name (彬華) and signals his recognition of her sincere academic interest in Buddhism, poetry, and art. During her second trip to China on a research fellowship through Swarthmore College, Chapin was invited by the Palace Museum in Beijing to help identify several Buddhist statues. 
+
+### The Opium Pipe
+
+{% include media.html item_id="media_046" align="left" %}
+
+This small pipe is designed for smoking opium. Even though opium pipes are associated with East Asian cultures, opium only entered these countries due to Western influence. Britain attempted to economically colonize China by selling opium and making China dependent on trade. In the US, as anti-Chinese sentiment rose, the stereotype of Chinese workers smoking opium and being lazy spread. Collecting this pipe echoes the Western imperialism in East Asia. ​
+
+### Shoes for bound feet
+
+{% include media.html item_id="media_047" align="left" %}
+
+Although the practice of binding women's feet ended by the 20th century, Americans continued to be fascinated by the practice, which they deemed exotic and strange. Multiple Chinese women with bound feet were brought to America and put on display in public to be gawked at. Most famously, the first Chinese woman to come to America, Afong Moy, was taken from China in 1834 and exhibited in a fake Chinese salon with posters headlined “The Chinese lady with astonishing little feet." Chapin's collection of such objects may have participated in this spectacle.​
