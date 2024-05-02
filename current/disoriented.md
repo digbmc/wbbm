@@ -11,7 +11,16 @@ While there are gaps in the College Archive about the actual lived experience of
 <section class="container py-3">
     <div class="row">
         <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/blog#Disoriented' | relative_url}}">Go to <em>Disoriented</em> blog posts</a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/japanese-chinese-scholarships' | relative_url}}">Japanese and Chinese Scholarships</a>
+        </div>
+        <div class="link-container">
+            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients' | relative_url}}">Scholarship Recipients</a>
+        </div>
+        <div class="link-container">
+            <a class="link-button mx-1" href="{{ '/current/disoriented/orientalism-at-deanery' | relative_url}}">Orientalism at the Deanery</a>
+        </div>
+        <div class="link-container">
+            <a class="link-button mx-1" href="{{ '/current/disoriented/yellowface-on-campus' | relative_url}}">Yellowface on Campus</a>
         </div>
     </div>
 </section>

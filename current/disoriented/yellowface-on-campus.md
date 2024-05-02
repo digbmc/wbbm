@@ -1,5 +1,5 @@
 ---
-title: "Disoriented Part 1"
+title: "Yellowface on Campus"
 layout: page
 phase: P4
 ---
