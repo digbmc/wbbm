@@ -27,7 +27,9 @@ Upon her death, Chapin gave her rich collections of books and art to Bryn Mawr C
 
 {% include media.html item_id="media_045" align="left" %}
 
-During Chapin's first visit to China in 1925, a Buddhist monk gave her this transcription of a Buddhist poem from the Song Dynasty. The transcription contains her Chinese first name (彬華) and signals his recognition of her sincere academic interest in Buddhism, poetry, and art. During her second trip to China on a research fellowship through Swarthmore College, Chapin was invited by the Palace Museum in Beijing to help identify several Buddhist statues. 
+During Chapin's first visit to China in 1925, a Buddhist monk gave her this transcription of a Buddhist poem from the Song Dynasty. The transcription contains her Chinese first name (彬華) and signals his recognition of her sincere academic interest in Buddhism, poetry, and art. During her second trip to China on a research fellowship through Swarthmore College, Chapin was invited by the Palace Museum in Beijing to help identify several Buddhist statues.  
+
+
 
 
 
@@ -35,8 +37,6 @@ During Chapin's first visit to China in 1925, a Buddhist monk gave her this tran
 ### The Opium Pipe
 
 {% include media.html item_id="media_046" align="left" %}
-
-
 
 This small pipe is designed for smoking opium. Even though opium pipes are associated with East Asian cultures, opium only entered these countries due to Western influence. Britain attempted to economically colonize China by selling opium and making China dependent on trade. In the US, as anti-Chinese sentiment rose, the stereotype of Chinese workers smoking opium and being lazy spread. Collecting this pipe echoes the Western imperialism in East Asia. ​
 
