@@ -16,6 +16,8 @@ This plant stand for the Deanery, likely purchased by M. Carey Thomas, came from
 
 ### Buddha Statue 
 
+{% include media.html item_id="media_048" align="left" %}
+
 This Buddha statue was one of many that decorated the Deanery. It shows a variation of the dhyana mudra, where the thumb and pointer fingers curl in towards each other to make two circles. This variation of the gesture distinguishes the Buddha statue as an Amitabha Buddha also known as the Buddha of Eternal Life. Though Thomas had several Buddha statues in her home, her letters and speeches indicated that she did not respect Buddhism as a religious practice. Attitudes like Thomas's prevailed across the US, with wealthy, white Americans often seeking to purchase mystic, exotic objects without further education – reducing non-Christian religions into a commodity to satiate American consumerism. ​
 
 ### The Deanery Garden (Taft Garden)
