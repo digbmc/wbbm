@@ -3,6 +3,8 @@ title: "Scholarship Recipients"
 layout: page
 phase: P4
 ---
+*Note: The scholarship recipients' names are all written surname given name to honor the traditional structure of Chinese and Japanese names*
+
 
 ## Michi Matsuda 
 1895-1899
@@ -44,7 +46,7 @@ In 1922, Fujita wrote an article in the College News asking her fellow students 
 
 Liu Fung Kei was the first Chinese Scholarship student. Her two older sisters attended Columbia University, and both became educators. In 1921, Liu hosted a fundraiser for the Chinese famine, which. The College News marketed as a chance to try “strange Chinese food” with a “Chinese stunt” performance afterward. The article was placed directly below a report on the anti-Japanese immigration debate held the previous week by Bryn Mawr students. After Bryn Mawr, Liu began teaching and founded the Yuet Wah School in China.  
 
-## Yen, Theodora C. ​
+## Yen Theodora C. ​
 1922-1923​
 
 Theodora Yen's uncle was appointed Chief Advisor for the president of China in 1923. She left for unknown reasons. 
