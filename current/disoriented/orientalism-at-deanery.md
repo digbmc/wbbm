@@ -13,6 +13,13 @@ Thomas' collection of Asian art revealed a larger system of Orientalism. White E
 
 ### A. A. Vantine Plant Stand 
 
+{% include media.html item_id="media_049" align="left" %}
+
+{% include media.html item_id="media_050" align="right" %}
+
+<br />
+<br />
+
 This plant stand for the Deanery, likely purchased by M. Carey Thomas, came from A. A. Vantine's, a New York City department store that sold Asian-inspired furniture to a middle or upper class American clientele. The text and images used in Vantine's ads marketed Asia as unthreatening and ripe for Western consumption. The stand's carved teakwood base features bat (蝙蝠 biān fú) motifs, which in Chinese sounds similar to the word for happiness (幸福 xìng fú). Such details, however, were ignored by Western consumers. A. A. Vantine’s made their fortune by selling objects like this plant stand as exotic and luxurious – while disdaining the actual people and cultures who created these pieces. ​
 
 ### Buddha Statue 
@@ -20,6 +27,12 @@ This plant stand for the Deanery, likely purchased by M. Carey Thomas, came from
 {% include media.html item_id="media_048" align="left" %}
 
 This Buddha statue was one of many that decorated the Deanery. It shows a variation of the dhyana mudra, where the thumb and pointer fingers curl in towards each other to make two circles. This variation of the gesture distinguishes the Buddha statue as an Amitabha Buddha also known as the Buddha of Eternal Life. Though Thomas had several Buddha statues in her home, her letters and speeches indicated that she did not respect Buddhism as a religious practice. Attitudes like Thomas's prevailed across the US, with wealthy, white Americans often seeking to purchase mystic, exotic objects without further education – reducing non-Christian religions into a commodity to satiate American consumerism. ​
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /> 
 
 ### The Deanery Garden (Taft Garden)
 

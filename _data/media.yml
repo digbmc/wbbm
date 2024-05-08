@@ -471,3 +471,23 @@
   description: Buddha statue from the Deanery
   source:
   accession_number: 2007.3.16 
+
+- item_id: media_049
+  item_type: image
+  item_location: /assets/images/media_049.png
+  title: Plant Stand
+  creator: A. A. Vantine & Co.
+  date: 
+  description: Teakwood plant stand from A. A. Vantine that Thomas used to decorate the Deanery
+  source:
+  accession_number: F.211
+
+- item_id: media_050
+  item_type: image
+  item_location: /assets/images/media_050.jpg
+  title: A. A. Vantine 1917 Catalogue Page
+  creator: A. A. Vantine & Co. 
+  date: 1917
+  description: Catalogue page showing different Asian-inspired plant stands. 
+  source: Internet Archive 
+  accession_number: 
