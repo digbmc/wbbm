@@ -28,10 +28,15 @@ This plant stand for the Deanery, likely purchased by M. Carey Thomas, came from
 {% include media.html item_id="media_048" align="left" %}
 
 This Buddha statue was one of many that decorated the Deanery. It shows a variation of the dhyana mudra, where the thumb and pointer fingers curl in towards each other to make two circles. This variation of the gesture distinguishes the Buddha statue as an Amitabha Buddha also known as the Buddha of Eternal Life. Though Thomas had several Buddha statues in her home, her letters and speeches indicated that she did not respect Buddhism as a religious practice. Attitudes like Thomas's prevailed across the US, with wealthy, white Americans often seeking to purchase mystic, exotic objects without further education – reducing non-Christian religions into a commodity to satiate American consumerism. ​
+
 <br />
 <br />
 <br />
 <br />
+<br />
+<br /> 
+<br /> 
+<br /> 
 <br />
 <br /> 
 
@@ -40,6 +45,18 @@ This Buddha statue was one of many that decorated the Deanery. It shows a variat
 {% include media.html item_id="media_051" align="left" %}
 
 Thomas went to great lengths to fill her personal garden (now Taft garden) with an eclectic collection of Asian and Middle Eastern objects. On a 1915 trip to Beijing, Thomas brought back a pair of two stone lions that were claimed to be over 1000 years old. The stone statues were placed facing inward, instead of the conventional outward direction. Around the garden, there were also several Japanese stools, like the one seen here, which were common in American homes attempting to recreate an Asian aesthetic. ​
+
+<br />
+<br /> 
+<br /> 
+<br /> 
+<br />
+<br />
+<br />
+<br />
+<br /> 
+<br /> 
+<br /> 
 
 ## M. Carey Thomas Abroad 
 
