@@ -37,8 +37,6 @@ This Buddha statue was one of many that decorated the Deanery. It shows a variat
 <br /> 
 <br /> 
 <br /> 
-<br />
-<br /> 
 
 ### The Deanery Garden (Taft Garden)
 
@@ -64,5 +62,4 @@ Although Thomas decorated the Deanery with art from around the world, she remain
 
 > "It is not only our duty to try to give a good heredity to our children but also to try to control the heredity of our nation and of our race. Nothing else in the world seems to me quite so important as this." M. Carey Thomas ​
 
-[add image here]
-​
+​{% include media.html item_id="media_014" align="center" %}
