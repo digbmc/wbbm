@@ -10,5 +10,5 @@ Student plays, important to early campus culture, reflected prevailing social no
 
 Production photographs show students dressed in costumes and makeup meant to mimic a stereotypical East Asian appearance. When performing The Chinese Lantern, students painted the set with fake Chinese characters and hung lanterns, with blessings written in kanji—upside down. Even with Japanese Scholarship students on campus, stereotypes prevailed, and white students felt comfortable ridiculing Asian people and cultures by performing these plays.
 
-{% include media.html item_id="media_053" align="left" %}
+{% include media.html item_id="media_052" align="center" %}
 
