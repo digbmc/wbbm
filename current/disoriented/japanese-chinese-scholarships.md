@@ -22,6 +22,7 @@ Following graduation, Chapin worked as a stenographer in the Oriental Art depart
 Upon her death, Chapin gave her rich collections of books and art to Bryn Mawr College. These materials reflect her deep knowledge of East Asian cultures, even as they include several items that misrepresent East Asian as antiquated, primitive, and exotic to Western eyes. 
 
 ## Chapin's Collection
+---
 
 ### Clerical Script
 
