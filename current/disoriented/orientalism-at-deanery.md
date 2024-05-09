@@ -40,7 +40,7 @@ This Buddha statue was one of many that decorated the Deanery. It shows a variat
 
 ### The Deanery Garden (Taft Garden)
 
-{% include media.html item_id="media_051" align="left" %}
+{% include media.html item_id="media_051" align="right" %}
 
 Thomas went to great lengths to fill her personal garden (now Taft garden) with an eclectic collection of Asian and Middle Eastern objects. On a 1915 trip to Beijing, Thomas brought back a pair of two stone lions that were claimed to be over 1000 years old. The stone statues were placed facing inward, instead of the conventional outward direction. Around the garden, there were also several Japanese stools, like the one seen here, which were common in American homes attempting to recreate an Asian aesthetic. ​
 
@@ -49,6 +49,12 @@ Thomas went to great lengths to fill her personal garden (now Taft garden) with 
 <br /> 
 <br /> 
 <br />
+<br />
+<br />
+<br />
+<br /> 
+<br /> 
+<br /> 
 <br />
 <br />
 <br />
