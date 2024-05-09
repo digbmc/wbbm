@@ -19,6 +19,7 @@ Thomas' collection of Asian art revealed a larger system of Orientalism. White E
 
 <br />
 <br />
+<br />
 
 This plant stand for the Deanery, likely purchased by M. Carey Thomas, came from A. A. Vantine's, a New York City department store that sold Asian-inspired furniture to a middle or upper class American clientele. The text and images used in Vantine's ads marketed Asia as unthreatening and ripe for Western consumption. The stand's carved teakwood base features bat (蝙蝠 biān fú) motifs, which in Chinese sounds similar to the word for happiness (幸福 xìng fú). Such details, however, were ignored by Western consumers. A. A. Vantine’s made their fortune by selling objects like this plant stand as exotic and luxurious – while disdaining the actual people and cultures who created these pieces. ​
 
@@ -36,6 +37,8 @@ This Buddha statue was one of many that decorated the Deanery. It shows a variat
 
 ### The Deanery Garden (Taft Garden)
 
+{% include media.html item_id="media_051" align="left" %}
+
 Thomas went to great lengths to fill her personal garden (now Taft garden) with an eclectic collection of Asian and Middle Eastern objects. On a 1915 trip to Beijing, Thomas brought back a pair of two stone lions that were claimed to be over 1000 years old. The stone statues were placed facing inward, instead of the conventional outward direction. Around the garden, there were also several Japanese stools, like the one seen here, which were common in American homes attempting to recreate an Asian aesthetic. ​
 
 ## M. Carey Thomas Abroad 
@@ -43,4 +46,6 @@ Thomas went to great lengths to fill her personal garden (now Taft garden) with 
 Although Thomas decorated the Deanery with art from around the world, she remained intensely hateful towards non-Western cultures. In a 1922 letter to family from Bombay, Thomas discussed her avid support of Lothrop Stoddard, prominent American eugenicist, KKK member, and, later, Nazi. She recommended her family read The Rising Tide of Color (1920) and Revolt Against Civilization (1922). The books advocated for strict, selective immigration and eugenics practices to preserve white racial purity.​
 
 > "It is not only our duty to try to give a good heredity to our children but also to try to control the heredity of our nation and of our race. Nothing else in the world seems to me quite so important as this." M. Carey Thomas ​
+
+[add image here]
 ​
