@@ -56,6 +56,7 @@ Thomas went to great lengths to fill her personal garden (now Taft garden) with 
 <br /> 
 <br /> 
 <br />
+<br /> 
 
 ## M. Carey Thomas Abroad 
 
