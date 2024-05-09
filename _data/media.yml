@@ -522,12 +522,12 @@
   source: Bryn Mawr Special Collections
   accession_number: 
 
-- item_id:  
-  item_type: 
-  item_location: 
-  title:
-  creator: 
-  date: 
-  description:  
-  source:
+- item_id: media_054
+  item_type: image
+  item_location: /assets/images/media_054.jpg
+  title: The Revolt Against Civilization
+  creator: Lothrop Stoddard
+  date: 1922
+  description: Book cover
+  source: Internet Archive
   accession_number:  
