@@ -8,7 +8,7 @@ This exhibition explores the early history of Japanese and Chinese students at B
 
 <div class="card bg-white text-dark float-end" style="width: 16rem; margin: .5rem 0 .5rem .5rem;">
     <div class="card-body">
-        <h5 class="card-title fw-bolder">Orientalism</h5>
+        <h5 class="card-title fw-bolder" style="color: #1D67E5;">Orientalism</h5>
         <p class="card-text fs-6">The depiction of Asia, the Middle East, and North Africa in a stereotypical manner, portraying these cultures as exotic, foreign, and primitive in comparison to Europe, which perpetuates white supremacy by placing the West as the norm to compare all other cultures.</p>
     </div>
 </div>
