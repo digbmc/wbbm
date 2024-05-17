@@ -10,13 +10,6 @@ While there are gaps in the College Archive about the actual lived experience of
 
 **Orientalism**: The depiction of Asia, the Middle East, and North Africa in a stereotypical manner, portraying these cultures as exotic, foreign, and primitive in comparison to Europe, which perpetuates white supremacy by placing the West as the norm to compare all other cultures. 
 
-## Chinese Porcelain in the West
-
-{% include media.html item_id="media_044" align="center" %}
-
-By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipped from Canton (now Guangzhou), the ceramics became known in English as “Canton Ware.” The porcelain was highly praised for its translucence and unique blue glaze designs. In Western countries, owning Chinese porcelain was a sign of wealth and prestige, which likely motivated Thomas' collecting of it.  As Chinese porcelain became popular, Chinese artists catered their designs toward European audiences by incorporating Western motifs. In the present day, Canton ware is more likely to be found in a white American household than a Chinese one. ​
-
-
 <div class="card text-bg-dark">
     <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Chapin during her travels in China.">
     <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
