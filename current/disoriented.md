@@ -18,8 +18,8 @@ By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipp
 
 
 <div class="card text-bg-dark">
+    <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Chapin during her travels in China.">
     <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
-        <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Chapin during her travels in China.">
         <div class="card-img-overlay">
             <h2 class="card-title">Japanese and Chinese Scholarships</h2>
         </div>
@@ -43,7 +43,7 @@ By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipp
 </div>
 <div class="card text-bg-dark">
     <a href="{{ '/current/disoriented/yellowface-on-campus/' | relative_url}}">
-        <img src="{{ "/assets/images/media_053.png" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
+        <img src="{{ "/assets/images/media_053.jpg" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
         <div class="card-img-overlay">
             <h2 class="card-title">Yellowface on Campus</h2>
         </div>
