@@ -10,28 +10,36 @@ While there are gaps in the College Archive about the actual lived experience of
 
 **Orientalism**: The depiction of Asia, the Middle East, and North Africa in a stereotypical manner, portraying these cultures as exotic, foreign, and primitive in comparison to Europe, which perpetuates white supremacy by placing the West as the norm to compare all other cultures. 
 
+## Chinese Porcelain in the West
 
-
-{% include media.html item_id="media_044" align="left" %}
-
-**Chinese Porcelain in the West**
+{% include media.html item_id="media_044" align="center" %}
 
 By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipped from Canton (now Guangzhou), the ceramics became known in English as “Canton Ware.” The porcelain was highly praised for its translucence and unique blue glaze designs. In Western countries, owning Chinese porcelain was a sign of wealth and prestige, which likely motivated Thomas' collecting of it.  As Chinese porcelain became popular, Chinese artists catered their designs toward European audiences by incorporating Western motifs. In the present day, Canton ware is more likely to be found in a white American household than a Chinese one. ​
 
 
-<section class="container py-3">
-    <div class="row">
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/japanese-chinese-scholarships' | relative_url}}">Japanese and Chinese Scholarships</a>
-        </div>
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients' | relative_url}}">Scholarship Recipients</a>
-        </div>
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/orientalism-at-deanery' | relative_url}}">Orientalism at the Deanery</a>
-        </div>
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/yellowface-on-campus' | relative_url}}">Yellowface on Campus</a>
-        </div>
+<div class="row row-cols-1 row-cols-md-2 g-4">
+    <div class="col">
+        <img src="{{ /assets/images/media_045.png | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Burwell Chapin during her travels in China.">
+        <a class="card-img-overlay" href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
+            <h5 class="card-title">Japanese and Chinese Scholarships</h5>
+        </a>
     </div>
-</section>
+    <div class="col">
+        <img src="{{ /assets/images/media_038.png | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
+        <a class="card-img-overlay" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">
+            <h5 class="card-title">Scholarship Recipients</h5>
+        </a>
+    </div>
+    <div class="col">
+        <img src="{{ /assets/images/media_048.png | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
+        <a class="card-img-overlay" href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">
+            <h5 class="card-title">Orientalism at the Deanery</h5>
+        </a>
+    </div>
+    <div class="col">
+        <img src="{{ /assets/images/media_053.jpg | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
+        <a class="card-img-overlay" href="{{ '/current/disoriented/yellowface-on-campus/' | relative_url}}">
+            <h5 class="card-title">Yellowface on Campus</h5>
+        </a>
+    </div>
+</div>

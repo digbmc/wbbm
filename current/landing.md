@@ -26,9 +26,4 @@ permalink: /current/ # permalink for phase landing page must be set in front mat
             <a class="link-button mx-1" href="{{ '/current/disoriented/' | relative_url}}"><em>Disoriented: The First Asian Students, 1893-1924</em></a>
         </div>
     </div>
-    <div class="row">
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/blog/' | relative_url}}">Read the Blog</a>
-        </div>
-    </div>
 </section>
