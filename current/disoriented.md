@@ -17,45 +17,35 @@ While there are gaps in the College Archive about the actual lived experience of
 By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipped from Canton (now Guangzhou), the ceramics became known in English as “Canton Ware.” The porcelain was highly praised for its translucence and unique blue glaze designs. In Western countries, owning Chinese porcelain was a sign of wealth and prestige, which likely motivated Thomas' collecting of it.  As Chinese porcelain became popular, Chinese artists catered their designs toward European audiences by incorporating Western motifs. In the present day, Canton ware is more likely to be found in a white American household than a Chinese one. ​
 
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-    <div class="col">
-        <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
-            <div class="card">
-                <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Burwell Chapin during her travels in China.">
-                <div class="card-img-overlay">
-                    <h5 class="card-title">Japanese and Chinese Scholarships</h5>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col">
-        <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
-            <div class="card">
-                <img src="{{ "/assets/images/media_038.png" | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
-                <div class="card-img-overlay" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">
-                    <h5 class="card-title">Scholarship Recipients</h5>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col">
-        <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
-            <div class="card">
-                <img src="{{ "/assets/images/media_048.png" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
-                <div class="card-img-overlay" href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">
-                    <h5 class="card-title">Orientalism at the Deanery</h5>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col">
-        <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
-            <div class="card">
-                <img src="{{ "/assets/images/media_053.jpg" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
-                <div class="card-img-overlay" href="{{ '/current/disoriented/yellowface-on-campus/' | relative_url}}">
-                    <h5 class="card-title">Yellowface on Campus</h5>
-                </div>
-            </div>
-        </a>
-    </div>
+<div class="card text-bg-dark">
+    <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
+        <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Chapin during her travels in China.">
+        <div class="card-img-overlay">
+            <h5 class="card-title">Japanese and Chinese Scholarships</h5>
+        </div>
+    </a>
+</div>
+<div class="card text-bg-dark">
+    <a href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">
+        <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
+        <div class="card-img-overlay">
+            <h5 class="card-title">Scholarship Recipients</h5>
+        </div>
+    </a>
+</div>
+<div class="card text-bg-dark">
+    <a href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">
+        <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
+        <div class="card-img-overlay">
+            <h5 class="card-title">Orientalism at the Deanery</h5>
+        </div>
+    </a>
+</div>
+<div class="card text-bg-dark">
+    <a href="{{ '/current/disoriented/yellowface-on-campus/' | relative_url}}">
+        <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
+        <div class="card-img-overlay">
+            <h5 class="card-title">Yellowface on Campus</h5>
+        </div>
+    </a>
 </div>
