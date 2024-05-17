@@ -19,7 +19,7 @@ By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipp
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col">
-        <img src="{{ /assets/images/media_045.png | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Burwell Chapin during her travels in China.">
+        <img src="/assets/images/media_045.png" class="card-img" alt="A transcription of a poem gifted to Helen Burwell Chapin during her travels in China.">
         <a class="card-img-overlay" href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
             <h5 class="card-title">Japanese and Chinese Scholarships</h5>
         </a>
