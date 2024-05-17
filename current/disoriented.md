@@ -6,10 +6,10 @@ phase: P4
 
 This exhibition explores the early history of Japanese and Chinese students at Bryn Mawr, a history colored by prevailing stereotypes about East Asian people that were circulating on Bryn Mawr’s campus, Philadelphia, and the country at large. At the turn of the 20th century, Bryn Mawr began accepting Chinese and Japanese students through designated scholarship programs. But were these programs actually intended to benefit Asian students? What would their experiences have been like?​
 
-<div class="card float-end" style="width: 18rem;">
+<div class="card bg-white text-dark float-end" style="width: 16rem; margin: .5rem 0 .5rem .5rem;">
     <div class="card-body">
-        <h5 class="card-title">Orientalism</h5>
-        <p class="card-text">The depiction of Asia, the Middle East, and North Africa in a stereotypical manner, portraying these cultures as exotic, foreign, and primitive in comparison to Europe, which perpetuates white supremacy by placing the West as the norm to compare all other cultures.</p>
+        <h5 class="card-title fw-bolder">Orientalism</h5>
+        <p class="card-text fs-6">The depiction of Asia, the Middle East, and North Africa in a stereotypical manner, portraying these cultures as exotic, foreign, and primitive in comparison to Europe, which perpetuates white supremacy by placing the West as the norm to compare all other cultures.</p>
     </div>
 </div>
 
