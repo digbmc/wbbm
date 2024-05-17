@@ -26,24 +26,24 @@ By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipp
     </a>
 </div>
 <div class="card text-bg-dark">
+    <img src="{{ "/assets/images/media_038.png" | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
     <a href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">
-        <img src="{{ "/assets/images/media_038.png" | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
         <div class="card-img-overlay">
             <h2 class="card-title">Scholarship Recipients</h2>
         </div>
     </a>
 </div>
 <div class="card text-bg-dark">
+    <img src="{{ "/assets/images/media_048.png" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
     <a href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">
-        <img src="{{ "/assets/images/media_048.png" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
         <div class="card-img-overlay">
             <h2 class="card-title">Orientalism at the Deanery</h2>
         </div>
     </a>
 </div>
 <div class="card text-bg-dark">
+    <img src="{{ "/assets/images/media_053.jpg" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
     <a href="{{ '/current/disoriented/yellowface-on-campus/' | relative_url}}">
-        <img src="{{ "/assets/images/media_053.jpg" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
         <div class="card-img-overlay">
             <h2 class="card-title">Yellowface on Campus</h2>
         </div>
