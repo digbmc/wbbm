@@ -19,25 +19,25 @@ By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipp
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col">
-        <img src="/assets/images/media_045.png" class="card-img" alt="A transcription of a poem gifted to Helen Burwell Chapin during her travels in China.">
+        <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Burwell Chapin during her travels in China.">
         <a class="card-img-overlay" href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
             <h5 class="card-title">Japanese and Chinese Scholarships</h5>
         </a>
     </div>
     <div class="col">
-        <img src="{{ /assets/images/media_038.png | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
+        <img src="{{ "/assets/images/media_038.png" | relative_url }}" class="card-img" alt="Black and white photo of Hoshino Ai in front of Taylor Hall with other members of her class">
         <a class="card-img-overlay" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">
             <h5 class="card-title">Scholarship Recipients</h5>
         </a>
     </div>
     <div class="col">
-        <img src="{{ /assets/images/media_048.png | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
+        <img src="{{ "/assets/images/media_048.png" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
         <a class="card-img-overlay" href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">
             <h5 class="card-title">Orientalism at the Deanery</h5>
         </a>
     </div>
     <div class="col">
-        <img src="{{ /assets/images/media_053.jpg | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
+        <img src="{{ "/assets/images/media_053.jpg" | relative_url }}" class="card-img" alt="Playbook from Bryn Mawr's Chinese Lantern production">
         <a class="card-img-overlay" href="{{ '/current/disoriented/yellowface-on-campus/' | relative_url}}">
             <h5 class="card-title">Yellowface on Campus</h5>
         </a>
