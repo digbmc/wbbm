@@ -43,7 +43,7 @@ This exhibition explores the early history of Japanese and Chinese students at B
 While there are gaps in the College Archive about the actual lived experience of the early East Asian students, this exhibition aims to imagine those experiences through historical context both on the local and national scale. Asian students arrived on a campus decorated with Orientalist Asian motifs and to an administrative and student body that harbored anti-Asian sentiments. By sharing the eugenicist and racist speeches of M. Carey Thomas, as well as student plays promoting negative stereotypes of Japanese and Chinese people, this exhibition serves as an important reminder that anti-Asian racism exists around us, visibly and invisibly, both in the past and present.​
 
 <div class="card wide-card text-bg-dark">
-    <img src="{{ "/assets/images/media_045.png" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Chapin during her travels in China.">
+    <img src="{{ "/assets/images/media_045.jpg" | relative_url }}" class="card-img" alt="A transcription of a poem gifted to Helen Chapin during her travels in China.">
     <a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">
         <div class="card-img-overlay">
             <h2 class="card-title">Japanese and Chinese Scholarships</h2>
@@ -59,7 +59,7 @@ While there are gaps in the College Archive about the actual lived experience of
     </a>
 </div>
 <div class="card wide-card text-bg-dark">
-    <img src="{{ "/assets/images/media_048.png" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
+    <img src="{{ "/assets/images/media_048.jpg" | relative_url }}" class="card-img" alt="Buddha statue from the Deanery">
     <a href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">
         <div class="card-img-overlay">
             <h2 class="card-title">Orientalism at the Deanery</h2>
