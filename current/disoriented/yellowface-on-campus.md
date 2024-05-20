@@ -15,10 +15,8 @@ Production photographs show students dressed in costumes and makeup meant to mim
 <section class="container py-3">
     <div class="row">
         <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Return to Orientalism at the Deanery</em></a>
-        </div>
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Return to *Disoriented* Home</em></a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">Return to Orientalism at the Deanery</a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/' | relative_url}}">Return to <em>Disoriented</em> Home</a>
         </div>
     </div>
 </section>

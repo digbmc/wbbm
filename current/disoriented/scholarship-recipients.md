@@ -59,10 +59,10 @@ Attended Bryn Mawr as a graduate student.
 <section class="container py-3">
     <div class="row">
         <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Return to Japanese and Chinese Scholarships</em></a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">Return to Japanese and Chinese Scholarships</a>
         </div>
         <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Continue to Orientalism at the Deanery</em></a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">Continue to Orientalism at the Deanery</a>
         </div>
     </div>
 </section>

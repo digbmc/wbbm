@@ -45,10 +45,10 @@ Although the practice of binding women's feet ended by the 20th century, America
 <section class="container py-3">
     <div class="row">
         <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Return to *Disoriented* Home</em></a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/' | relative_url}}">Return to <em>Disoriented</em> Home</a>
         </div>
         <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Continue to Scholarship Recipients</em></a>
+            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">Continue to Scholarship Recipients</a>
         </div>
     </div>
 </section>
