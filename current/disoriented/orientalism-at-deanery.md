@@ -48,6 +48,9 @@ Although Thomas decorated the Deanery with art from around the world, she remain
 
 ​{% include media.html item_id="media_054" align="right" %}
 
+<br />
+<br />
+
 <section class="container py-3">
     <div class="row">
         <div class="link-container">
