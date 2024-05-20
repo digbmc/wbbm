@@ -4,6 +4,33 @@ layout: page
 phase: P4
 ---
 
+<div id="carouselInstallationPhotos" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ "assets\images\installation\Who-Built-Bryn-Mawr_0003.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ "assets\images\installation\Who-Built-Bryn-Mawr_0002.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ "assets\images\installation\Who-Built-Bryn-Mawr_0001.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
 This exhibition explores the early history of Japanese and Chinese students at Bryn Mawr, a history colored by prevailing stereotypes about East Asian people that were circulating on Bryn Mawr’s campus, Philadelphia, and the country at large. At the turn of the 20th century, Bryn Mawr began accepting Chinese and Japanese students through designated scholarship programs. But were these programs actually intended to benefit Asian students? What would their experiences have been like?​
 
 <div class="card bg-white text-dark float-end" style="width: 16rem; margin: .5rem 0 .5rem .5rem;">
