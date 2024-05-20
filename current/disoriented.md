@@ -3,7 +3,9 @@ title: "Disoriented: The First Asian Students, 1893-1924"
 layout: page
 phase: P4
 ---
-
+<script>
+    const carousel = new bootstrap.Carousel('#carouselInstallationPhotos')
+</script>
 <div id="carouselInstallationPhotos" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
