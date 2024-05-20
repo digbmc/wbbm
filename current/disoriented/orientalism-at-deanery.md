@@ -47,3 +47,14 @@ Although Thomas decorated the Deanery with art from around the world, she remain
 ​{% include media.html item_id="media_014" align="left" %}
 
 ​{% include media.html item_id="media_054" align="right" %}
+
+<section class="container py-3">
+    <div class="row">
+        <div class="link-container">
+            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Return to Scholarship Recipients</em></a>
+        </div>
+        <div class="link-container">
+            <a class="link-button mx-1" href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}"><em>Continue to Yellowface on Campus</em></a>
+        </div>
+    </div>
+</section>
