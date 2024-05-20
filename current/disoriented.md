@@ -3,7 +3,7 @@ title: "Disoriented: The First Asian Students, 1893-1924"
 layout: page
 phase: P4
 ---
-
+<!--
 <div id="carouselInstallationPhotos" class="carousel slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -30,6 +30,7 @@ phase: P4
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+-->
 
 This exhibition explores the early history of Japanese and Chinese students at Bryn Mawr, a history colored by prevailing stereotypes about East Asian people that were circulating on Bryn Mawr’s campus, Philadelphia, and the country at large. At the turn of the 20th century, Bryn Mawr began accepting Chinese and Japanese students through designated scholarship programs. But were these programs actually intended to benefit Asian students? What would their experiences have been like?​
 
