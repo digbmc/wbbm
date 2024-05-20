@@ -56,13 +56,9 @@ Theodora Yen's uncle was appointed Chief Advisor for the president of China in 1
 
 Attended Bryn Mawr as a graduate student. 
 
-<section class="container py-3">
-    <div class="row">
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">Return to Japanese and Chinese Scholarships</a>
-        </div>
-        <div class="link-container">
-            <a class="link-button mx-1" href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">Continue to Orientalism at the Deanery</a>
-        </div>
-    </div>
-</section>
+
+<ul class="bottom-nav">
+<li style="float:left;"><a href="{{ '/current/disoriented/japanese-chinese-scholarships/' | relative_url}}">Return to Japanese and Chinese Scholarships</a></li>
+
+<li style="float:right;"><a href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">Continue to Orientalism at the Deanery</a></li>
+</ul>
