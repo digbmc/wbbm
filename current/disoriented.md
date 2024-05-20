@@ -12,13 +12,13 @@ phase: P4
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ "assets\images\installation\Who-Built-Bryn-Mawr_0003.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
+      <img src="{{ "assets/images/installation/Who-Built-Bryn-Mawr_0003.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
     </div>
     <div class="carousel-item">
-      <img src="{{ "assets\images\installation\Who-Built-Bryn-Mawr_0002.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
+      <img src="{{ "assets/images/installation/Who-Built-Bryn-Mawr_0002.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
     </div>
     <div class="carousel-item">
-      <img src="{{ "assets\images\installation\Who-Built-Bryn-Mawr_0001.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
+      <img src="{{ "assets/images/installation/Who-Built-Bryn-Mawr_0001.jpg" | relative_url }}" class="d-block w-100" alt="A photograph of the Disoriented installation in Special Collections">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselInstallationPhotos" data-bs-slide="prev">
