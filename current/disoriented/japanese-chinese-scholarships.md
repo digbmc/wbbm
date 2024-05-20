@@ -13,7 +13,7 @@ By 1916, other colleges had begun admitting Chinese students, spurring Bryn Mawr
 
 ### Scholarships for Whom?
 
-> “Acquaintance and friendship with modern Chinese girls should give more reality to the study of their ancient arts and should add greatly to the variety and interest of campus life.... It should have something of the color of adventure, of reaching out into new regions of interest.” - Lucy Martin Donnelly ​
+> *“Acquaintance and friendship with modern Chinese girls should give more reality to the study of their ancient arts and should add greatly to the variety and interest of campus life.... It should have something of the color of adventure, of reaching out into new regions of interest.”* — Lucy Martin Donnelly ​
 
 Lucy Martin Donnelly's characterization of the Chinese Scholarship emphasized its value to white students, rather than to the Chinese students themselves. Although she graduated in the year prior to the scholarship's formation, Helen Burwell Chapin (Class of 1914, BA 1915) is the type of student the Committee hoped the Chinese scholarship would benefit. ​
 

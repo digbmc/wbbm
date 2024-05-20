@@ -42,11 +42,11 @@ By the 16th century, Chinese merchants were exporting porcelain to Europe. Shipp
 
 Although Thomas decorated the Deanery with art from around the world, she remained intensely hateful towards non-Western cultures. In a 1922 letter to family from Bombay, Thomas discussed her avid support of Lothrop Stoddard, prominent American eugenicist, KKK member, and, later, Nazi. She recommended her family read The Rising Tide of Color (1920) and Revolt Against Civilization (1922). The books advocated for strict, selective immigration and eugenics practices to preserve white racial purity.​
 
-> "It is not only our duty to try to give a good heredity to our children but also to try to control the heredity of our nation and of our race. Nothing else in the world seems to me quite so important as this." M. Carey Thomas ​
+> *"It is not only our duty to try to give a good heredity to our children but also to try to control the heredity of our nation and of our race. Nothing else in the world seems to me quite so important as this."* — M. Carey Thomas ​
 
-​{% include media.html item_id="media_014" align="left" %}
+​{% include media.html item_id="media_014" align="center" %}
 
-​{% include media.html item_id="media_054" align="right" %}
+​{% include media.html item_id="media_054" align="center" %}
 
 ---
 
