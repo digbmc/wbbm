@@ -212,4 +212,8 @@ ul.bottom-nav {
     list-style-type: none;
     display: inline;
     margin-bottom: 1rem;
+
+    li {
+        margin-bottom: 1rem;
+    }
 }
