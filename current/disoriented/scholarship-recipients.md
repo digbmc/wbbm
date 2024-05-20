@@ -3,7 +3,8 @@ title: "Scholarship Recipients"
 layout: page
 phase: P4
 ---
-*Note: The scholarship recipients' names are all written surname given name to honor the traditional structure of Chinese and Japanese names*
+
+*Note: The scholarship recipients’ names are written with their surnames preceding their given names to honor the traditional structure of Chinese and Japanese names.*
 
 
 ## Michi Matsuda 
