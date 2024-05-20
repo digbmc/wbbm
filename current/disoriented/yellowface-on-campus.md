@@ -12,9 +12,10 @@ Production photographs show students dressed in costumes and makeup meant to mim
 
 {% include media.html item_id="media_052" align="center" %}
 
+---
 
 <ul class="bottom-nav">
 <li style="float:left;"><a href="{{ '/current/disoriented/orientalism-at-deanery/' | relative_url}}">Return to Orientalism at the Deanery</a></li>
 
-<li style="float:right;"><a  href="{{ '/current/disoriented/' | relative_url}}">Return to <em>Disoriented</em> Home</a></li>
+<li style="float:right;"><a  href="{{ '/current/disoriented/' | relative_url}}">Return to <em>Disoriented</em> home</a></li>
 </ul>

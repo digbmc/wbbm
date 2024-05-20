@@ -48,6 +48,7 @@ Although Thomas decorated the Deanery with art from around the world, she remain
 
 ​{% include media.html item_id="media_054" align="right" %}
 
+---
 
 <ul class="bottom-nav">
 <li style="float:left;"><a href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">Return to Scholarship Recipients</a></li>

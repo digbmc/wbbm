@@ -42,8 +42,10 @@ This small pipe is designed for smoking opium. Even though opium pipes are assoc
 
 Although the practice of binding women's feet ended by the 20th century, Americans continued to be fascinated by the practice, which they deemed exotic and strange. Multiple Chinese women with bound feet were brought to America and put on display in public to be gawked at. Most famously, the first Chinese woman to come to America, Afong Moy, was taken from China in 1834 and exhibited in a fake Chinese salon with posters headlined “The Chinese lady with astonishing little feet." Chapin's collection of such objects may have participated in this spectacle.​
 
+---
+
 <ul class="bottom-nav">
-<li style="float:left;"><a href="{{ '/current/disoriented/' | relative_url}}">Return to <em>Disoriented</em> Home</a></li>
+<li style="float:left;"><a href="{{ '/current/disoriented/' | relative_url}}">Return to <em>Disoriented</em> home</a></li>
 
 <li style="float:right;"><a href="{{ '/current/disoriented/scholarship-recipients/' | relative_url}}">Continue to Scholarship Recipients</a></li>
 </ul>
