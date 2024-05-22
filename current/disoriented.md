@@ -29,8 +29,6 @@ gallery:
     class: carousel-item
 ---
 
----
-
 <!--
 <div id="carouselInstallationPhotos" class="carousel slide">
   <div class="carousel-indicators">
