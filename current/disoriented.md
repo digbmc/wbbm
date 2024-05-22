@@ -2,7 +2,35 @@
 title: "Disoriented: The First Asian Students, 1893-1924"
 layout: page
 phase: P4
+gallery:
+  - path: assets/images/installation/Who-Built-Bryn-Mawr_0003.jpg
+    alt: "A photograph of the Disoriented installation in Special Collections"
+    caption:
+    class: carousel-item active
+
+  - path: assets/images/installation/Who-Built-Bryn-Mawr_0002.jpg
+    alt: "A photograph of the Disoriented installation in Special Collections"
+    caption:
+    class: carousel-item
+
+  - path: assets/images/installation/Who-Built-Bryn-Mawr_0004.jpg
+    alt: "A photograph of the Disoriented installation in Special Collections"
+    caption:
+    class: carousel-item
+    
+  - path: assets/images/installation/Who-Built-Bryn-Mawr_0006.jpg
+    alt: "A photograph of the Disoriented installation in Special Collections"
+    caption:
+    class: carousel-item
+
+  - path: assets/images/installation/Who-Built-Bryn-Mawr_0008.jpg
+    alt: "A photograph of the Disoriented installation in Special Collections"
+    caption:
+    class: carousel-item
 ---
+
+---
+
 <!--
 <div id="carouselInstallationPhotos" class="carousel slide">
   <div class="carousel-indicators">
@@ -31,6 +59,8 @@ phase: P4
   </button>
 </div>
 -->
+
+{% include carousel.html %}
 
 This exhibition explores the early history of Japanese and Chinese students at Bryn Mawr, a history colored by prevailing stereotypes about East Asian people that were circulating on Bryn Mawr’s campus, Philadelphia, and the country at large. At the turn of the 20th century, Bryn Mawr began accepting Chinese and Japanese students through designated scholarship programs. But were these programs actually intended to benefit Asian students? What would their experiences have been like?​
 

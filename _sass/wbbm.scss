@@ -222,3 +222,42 @@ ul.bottom-nav {
 blockquote {
     font-size: larger;
 }
+
+
+/* ----- Carousel ----- */
+
+.carousel {
+    margin-bottom: 1.5em;
+  }
+
+  .carousel-control-next, .carousel-control-prev {
+    background-color: transparent !important;
+  }
+
+  .carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+    left: 0;
+    margin: 0 !important;
+  }
+
+  .carousel-item {
+    img {
+      margin: 0;
+    }
+  }
+
+  .carousel-caption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.499);
+    text-align: center;
+    display: block !important;
