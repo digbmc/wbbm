@@ -2,7 +2,7 @@
 title: "Disoriented: The First Asian Students, 1893-1924"
 layout: page
 phase: P4
-gallery:
+carousel:
   - path: assets/images/installation/Who-Built-Bryn-Mawr_0003.jpg
     alt: "A photograph of the Disoriented installation in Special Collections"
     caption:
