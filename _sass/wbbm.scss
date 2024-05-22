@@ -228,6 +228,7 @@ blockquote {
 
 .carousel {
     margin-bottom: 1.5em;
+    background-color: black;
   }
 
   .carousel-control-next, .carousel-control-prev {
@@ -245,6 +246,9 @@ blockquote {
   .carousel-item {
     img {
       margin: 0;
+      max-height: 20rem;
+      object-fit: cover;
+      object-position: 50% 50%;
     }
   }
 

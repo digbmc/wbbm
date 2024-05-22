@@ -39,7 +39,7 @@
           src="{{ item.path | relative_url }}" 
           alt="{{ item.alt }}"
         />
-        {% if item.caption != "" %}
+        {% if item.caption %}
         <div class="carousel-caption d-none d-md-block">
           <p style="margin:.75rem">{{ item.caption }}</p>
         </div>
