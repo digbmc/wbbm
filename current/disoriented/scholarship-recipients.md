@@ -7,12 +7,12 @@ phase: P4
 *Note: The scholarship recipients’ names are written with their surnames preceding their given names to honor the traditional structure of Chinese and Japanese names.*
 
 
-## Michi Matsuda 
-1895-1899
+## Matsuda Michi
+1895-1899 (undergraduate), 1908-1910 (graduate)
 
-Born in Kyoto, Japan in 1868, Matsuda received Bryn Mawr's first Japanese scholarship in 1893. Prior to arriving to campus, she traveled to Seattle to give a talk at a local church on Japanese culture, which the local newspaper reported as "entertainment." The year Matsuda graduated, the Philadelphia Inquirer ran an article called "Fair Japs Pour Tea," describing Matsuda and Kawai's local tea demonstration. The newspapers revealed that Japanese women were regarded as little more than amusement for
+Born in Kyoto, Matsuda received Bryn Mawr's first scholarship for Japanese women. Matsuda's attempts to share her culture were derided by the American press. Seattle papers reduced her lecture on Japanese culture as "entertainment," and The Philadelphia Inquirer described her demonstration of a tea ceremony with Kawai Michi as "Fair Japs Pour Tea."
 
-## Michi Kawai​
+## Kawai Michi
 1900-1904​
 
 Upon first meeting, Kawai failed to recognize M. Carey Thomas and bluntly asked who she was. ​
