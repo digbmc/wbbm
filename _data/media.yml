@@ -131,7 +131,7 @@
 
 - item_id: media_014
   item_type: image
-  item_location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg/440px-Dust_jacket%2C_first_edition_of_The_Rising_Tide_of_Color_Against_White_World-Supremacy.jpg
+  item_location: /assets/images/media_014.jpg
   title: The Rising Tide of Color by Lothrop Stoddard
   creator: Lothrop Stoddard
   description: Image of the cover of The Rising Tide of Color by Lothrop Stoddard. It is black and red with silhouettes of stereotypical/racist images of BIPOC people marching across the globe
@@ -144,7 +144,7 @@
   item_location: /assets/images/media_015.jpg # path or src/url
   title: Helen Chapin's business card, with her Chinese name at the center
   creator: unknown
-  description: The pronunciation of Chapin's Chinese name is similar 
+  description: The pronunciation of Helen Chapin's Chinese name is similar 
   source: Archive 12H Chapin, Bryn Mawr College 
   accession_number: 
 
@@ -267,7 +267,7 @@
   creator: Grace Foresman
   date: 6 June 2023
   description: Photo of stone guardian lions on steps of Deanery guardian with a red circle around both lions. Left lion labeled male and right lion labeled female 
-  source: Bryn Mawr special collections 
+  source: Bryn Mawr Special Collections 
   accession_number: 
   
 - item_id: media_029
@@ -421,3 +421,113 @@
   description: Photo of the Chinese screen displayed in the Fong Reading Room in Carpenter Library. The screen is black with gold painting
   source: 
   accession_number:
+
+- item_id: media_044
+  item_type: image
+  item_location: /assets/images/media_044.jpg
+  title: Canton Ware
+  creator: Bryn Mawr Special Collections
+  date: 1935
+  description: Photo of a 20th century Caton ware plate. The ceramic plate is white with dark blue detailing depicting a trees and a fence. 
+  source: Bryn Mawr Special Collections
+  accession_number: W.406  
+
+- item_id: media_045
+  item_type: image
+  item_location: /assets/images/media_045.jpg
+  title: Clerical Script Calligraphy on Vermillion Silver-flecked Paper
+  creator: Shi Yandao
+  date: 1925
+  description: A transcription of a Chinese poem gifted to Helen Chapin. 
+  source: Bryn Mawr Special Collections
+  accession_number: 2011.27.45 
+
+- item_id: media_046
+  item_type: image
+  item_location: /assets/images/media_046.jpg
+  title: Opium Pipe
+  creator: 
+  date: 19th century - early 20th century
+  description: A small opium pipe from Helen Chapin's collection donated to the college. 
+  source: Bryn Mawr Special Collections
+  accession_number: TN.168  
+
+- item_id: media_047
+  item_type: image
+  item_location: /assets/images/media_047.jpg
+  title: Shoe for Lady's Bound Foot
+  creator: Bryn Mawr Special Collections
+  date: Late 19th century - early 20th century
+  description: A small shoe for a bound foot. Part of Helen Chapin's colelction donated to the college.
+  source:
+  accession_number: TN.180
+
+- item_id: media_048
+  item_type: image
+  item_location: /assets/images/media_048.jpg
+  title: Buddha Statue 
+  creator: Bryn Mawr Special Collections
+  date: Early 20th century
+  description: Buddha statue from the Deanery
+  source:
+  accession_number: 2007.3.16 
+
+- item_id: media_049
+  item_type: image
+  item_location: /assets/images/media_049.jpg
+  title: Plant Stand
+  creator: A. A. Vantine & Co.
+  date: 
+  description: Teakwood plant stand from A. A. Vantine that Thomas used to decorate the Deanery
+  source: Bryn Mawr Special Collections
+  accession_number: F.211
+
+- item_id: media_050
+  item_type: image
+  item_location: /assets/images/media_050.jpg
+  title: A. A. Vantine 1917 Catalogue Page
+  creator: A. A. Vantine & Co. 
+  date: 1917
+  description: Catalogue page showing different Asian-inspired plant stands. 
+  source: Internet Archive 
+  accession_number: 
+
+- item_id: media_051
+  item_type: image
+  item_location: /assets/images/media_051.jpg
+  title: Japanese Garden Seat
+  creator: Unknown
+  date: 
+  description: This ceramic seat was one of many that Thomas usesd to decorate the Deanery garden (Taft Garden)
+  source: Bryn Mawr Special Collections
+  accession_number: Deanery.184
+
+- item_id: media_052
+  item_type: image
+  item_location: /assets/images/media_052.jpg
+  title: Student production of The Mikado
+  creator: 
+  date: 1916
+  description: White Bryn Mawr students dressed up in Japanese attire for the Glee Club's prodcution of The Mikado, a satirical play mocking Japanese people. 
+  source: Bryn Mawr Special Collections
+  accession_number: PAE Plays 3 folder 
+
+- item_id: media_053
+  item_type: image
+  item_location: /assets/images/media_053.jpg
+  title: Playbook from Bryn Mawr's Chinese Lantern production
+  creator: 
+  date: 1915
+  description: The sophomore class put on a production of the Chinese Lantern by Laurence Housman, which mocked Chinese people and culture.  
+  source: Bryn Mawr Special Collections
+  accession_number: 
+
+- item_id: media_054
+  item_type: image
+  item_location: /assets/images/media_054.jpg
+  title: The Revolt Against Civilization
+  creator: Lothrop Stoddard
+  date: 1922
+  description: Book cover
+  source: Internet Archive
+  accession_number:  

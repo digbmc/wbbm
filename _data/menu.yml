@@ -2,7 +2,5 @@
   navigation:
     - title: Disoriented
       url: /current/disoriented/
-    - title: Blog
-      url: /current/blog/
     - title: Team
       url: /current/team/
