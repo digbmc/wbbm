@@ -1,6 +1,6 @@
 # Who Built Bryn Mawr?
-
-- A bootstrap jekyll theme based on work by Aaron Frey
+Dev site: [https://digbmc.github.io/wbbm/](https://digbmc.github.io/wbbm/)
+Prod site: [https://wbbm.digitalprojects.brynmawr.edu/current/](https://wbbm.digitalprojects.brynmawr.edu/)
 
 ## To do:
 - [ ] Create nice display for images and metadata 
@@ -168,3 +168,5 @@ To add an item to a phase's nav bar, add an item its `navigation` list. Here is 
 Be careful with your indentation, as it is significant in YAML. Use spaces instead of tabs to replicate the list structure pictured above.
 
 To remove an item from the menu, delete the corresponding `navigation` list item in menu.yml.
+
+*This site was built using a bootstrap jekyll theme based on work by Aaron Frey.*
