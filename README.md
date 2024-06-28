@@ -1,6 +1,6 @@
 # Who Built Bryn Mawr?
 - Dev site: [https://digbmc.github.io/wbbm/](https://digbmc.github.io/wbbm/)
-- Prod site: [https://wbbm.digitalprojects.brynmawr.edu/current/](https://wbbm.digitalprojects.brynmawr.edu/)
+- Prod site: [https://wbbm.digitalprojects.brynmawr.edu/](https://wbbm.digitalprojects.brynmawr.edu/)
 
 ## To do:
 - [ ] Create nice display for images and metadata 
