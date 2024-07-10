@@ -12,7 +12,7 @@
 
 ### To add content to the 2024 section
 
-To add a page to the 2024 section of the site, navigate into **current** > **2024**. In that folder, you will find a file called sample-page.md. Copy the code in that file, then create a new Markdown file in the **2024** folder. Give the file a name related to the title of the page (see other examples of filenames in **current** and/or **disoriented** folders), and make sure it ends in the file extension ".md". In the YAML front matter at the top of the file, change the title to the title of your snew page. Then, replace the sample text below the front matter with the content for the page. Save the file, then edit the 2024 landing page (2024.md) to **add a link to your new page in the list at the bottom of the landing page**.
+To add a page to the 2024 section of the site, navigate into **current** > **2024**. In that folder, you will find a file called sample-page.md. Copy the code in that file, then create a new Markdown file in the **2024** folder. Give the file a name related to the title of the page (see other examples of filenames in **current** and/or **disoriented** folders), and make sure it ends in the file extension ".md". In the YAML front matter at the top of the file, change the title to the title of your new page. Then, replace the sample text below the front matter with the content for the page. Save the file, then edit the 2024 landing page (2024.md) to **add a link to your new page in the list at the bottom of the landing page**.
 
 ### To add a page
 
@@ -28,7 +28,7 @@ phase: P4
 ```
 You can copy this front matter into your new file and update the values as needed. The `layout` must be set to `page`. The identifier for the current phase (current) is `P4`. All pages and posts associated with the current phase should have `phase: P4` in their YAML front matter.
 
-Once you have filled out the information in the header, add the content of your page after the three dashes (---) that close the header. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+Once you have filled out the information in the front matter, add the content of your page starting on a new line below the front matter. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 #### Permalinks
 
