@@ -2,5 +2,7 @@
   navigation:
     - title: Disoriented
       url: /current/disoriented/
+    - title: "2024"
+      url: /current/2024/
     - title: Team
       url: /current/team/

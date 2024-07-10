@@ -3,41 +3,16 @@
 - Prod site: [https://wbbm.digitalprojects.brynmawr.edu/](https://wbbm.digitalprojects.brynmawr.edu/)
 
 ## To do:
-- [ ] Create nice display for images and metadata 
+- [x] Create nice display for images and metadata 
 - [ ] Maybe:
-  - [ ] Make compatible with GH Pages
+  - [x] Make compatible with GH Pages
 
 
 ## Editing instructions
 
-### To add a blog post
+### To add content to the 2024 section
 
-To add a blog post, create a new file in the _posts directory with the name YYYY-MM-DD-name.md, replacing “YYYY-MM-DD” with the date of the post’s creation and “name” with something relevant to the post itself, such as part of its title. Be sure to replace any spaces with a dash (-), as the filename cannot contain whitespace. Then, copy the following YAML header into your new file: 
-```yaml
----
-layout: post
-tag: # A tag for the current year/subphase (e.g. "Disoriented" for the Summer 2023 subphase)
-phase: P4 # P4 is the indicator for the current phase
-title:
-author:
-description:
-key_image: # do not write anything in this line
-    url: 
-    alt: 
-    caption:
-public: true 
----
-
-```
-After you have copied this code into your new file, fill out all of the missing information in the header, including the title, author, and description of the blog post. If you would like an image to appear at the top of the blog post and as its thumbnail in the list of blog posts, add the url, alt text (for image accessibility), and a caption in the corresponding lines in the header. If you do not want to add an image, you can leave those lines as they are or delete them (including the “key_image” line). 
-
-The "tag" line is very important. Make sure you add the tag corresponding to the post's year/subphase (e.g. "Disoriented" for the Summer 2023 subphase). If you are creating a new tag, you must add it to the tag-order.yml file in the _data folder. The order of the tags in this file determines the order in which the tag sections will appear on the blog page. If you do not add a tag to your post or you do not add the new tag to tag-order.yml, the post will not appear on the blog page.
-
-Once you have filled out the information in the header, add the text content of your blog post after the three dashes (---) that close the header. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
-
-If your post is still a draft or not ready to be made public, change `public: true` to `public: false`. Once you push your changes to your remote branch, open a pull request to main in GitHub, and the pull request is merged, you will still be able to navigate to your blog post by typing its url into your browser's address bar, but the post will not appear on the list of posts on the site.
-
-The url for a blog post consists of the site's base url (currently https://digbmc.github.io/wbbm/) plus /current/blog/YYYY/MM/DD/name/, where the date and name come from the post's file name.
+To add a page to the 2024 section of the site, navigate into **current** > **2024**. In that folder, you will find a file called sample-page.md. Copy the code in that file, then create a new Markdown file in the **2024** folder. Give the file a name related to the title of the page (see other examples of filenames in **current** and/or **disoriented** folders), and make sure it ends in the file extension ".md". In the YAML front matter at the top of the file, change the title to the title of your snew page. Then, replace the sample text below the front matter with the content for the page. Save the file, then edit the 2024 landing page (2024.md) to **add a link to your new page in the list at the bottom of the landing page**.
 
 ### To add a page
 
@@ -53,11 +28,11 @@ phase: P4
 ```
 You can copy this front matter into your new file and update the values as needed. The `layout` must be set to `page`. The identifier for the current phase (current) is `P4`. All pages and posts associated with the current phase should have `phase: P4` in their YAML front matter.
 
+Once you have filled out the information in the header, add the content of your page after the three dashes (---) that close the header. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+
 #### Permalinks
 
 The permalink for the new page will depend on the location of its file in the site repository. If the file is in the root directory, the page's permalink will be `/filename/`, where "filename" is the name of the file minus its file extension. If the file is in another folder, the permalink will be `/folder/filename/`, where "folder" is the name of the folder that houses the file. For example, the permalink for the current phase's "About" page, which is generated from the about.md file in the "current" folder, is `/current/about/`.
-
-You will need the permalink to add the new page to the site's navigation bar and to create other links to the page. Instructions for editing the nav bar can be found below.
 
 In some cases, you may need to override the permalink automatically generated for a page. To do this, you must add a line to the page's YAML front matter beginning with `permalink: `. To see an example of this, you can look at the landing.md file in the "current" folder. The automatically generated permalink for this page would be `/current/landing/`, but the front matter sets the permalink as `/current/`.
 
@@ -127,7 +102,7 @@ The title, creator, date, description, source, and accession_number attributes s
 
 Note: Currently, the "description" attribute is also used to add alt text to the images on the site, so be sure to add a description that can function as alt text.
 
-### To add media items to a blog post or other page
+### To add media items to a page or post
 
 To add a media item to a blog post, you will need to call the item from the collection. To do this, you will need the media item's `item_id` from the media.yml file in the site's _data directory.
 
@@ -168,5 +143,34 @@ To add an item to a phase's nav bar, add an item its `navigation` list. Here is 
 Be careful with your indentation, as it is significant in YAML. Use spaces instead of tabs to replicate the list structure pictured above.
 
 To remove an item from the menu, delete the corresponding `navigation` list item in menu.yml.
+
+### To add a blog post
+
+To add a blog post, create a new file in the _posts directory with the name YYYY-MM-DD-name.md, replacing “YYYY-MM-DD” with the date of the post’s creation and “name” with something relevant to the post itself, such as part of its title. Be sure to replace any spaces with a dash (-), as the filename cannot contain whitespace. Then, copy the following YAML header into your new file: 
+```yaml
+---
+layout: post
+tag: # A tag for the current year/subphase (e.g. "Disoriented" for the Summer 2023 subphase)
+phase: P4 # P4 is the indicator for the current phase
+title:
+author:
+description:
+key_image: # do not write anything in this line
+    url: 
+    alt: 
+    caption:
+public: true 
+---
+
+```
+After you have copied this code into your new file, fill out all of the missing information in the header, including the title, author, and description of the blog post. If you would like an image to appear at the top of the blog post and as its thumbnail in the list of blog posts, add the url, alt text (for image accessibility), and a caption in the corresponding lines in the header. If you do not want to add an image, you can leave those lines as they are or delete them (including the “key_image” line). 
+
+The "tag" line is very important. Make sure you add the tag corresponding to the post's year/subphase (e.g. "Disoriented" for the Summer 2023 subphase). If you are creating a new tag, you must add it to the tag-order.yml file in the _data folder. The order of the tags in this file determines the order in which the tag sections will appear on the blog page. If you do not add a tag to your post or you do not add the new tag to tag-order.yml, the post will not appear on the blog page.
+
+Once you have filled out the information in the header, add the text content of your blog post after the three dashes (---) that close the header. You can format the text using Markdown syntax. Feel free to reference this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
+
+If your post is still a draft or not ready to be made public, change `public: true` to `public: false`. Once you push your changes to your remote branch, open a pull request to main in GitHub, and the pull request is merged, you will still be able to navigate to your blog post by typing its url into your browser's address bar, but the post will not appear on the list of posts on the site.
+
+The url for a blog post consists of the site's base url (currently https://digbmc.github.io/wbbm/) plus /current/blog/YYYY/MM/DD/name/, where the date and name come from the post's file name.
 
 *This site was built using a bootstrap jekyll theme based on work by Aaron Frey.*
