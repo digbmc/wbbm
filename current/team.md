@@ -4,29 +4,39 @@ layout: page
 phase: P4
 ---
 
-## 2023
+## 2025 Student Archivists
 
-### Curators
+- Paulina Hạ Phương Phan '28 (she/her)
+- Chloe Jiayi Sun ’28 (she/her)
+
+## 2024 Student Researchers
+
+- Tanya Chen ’25 (she/her)
+- Ariel Zhao ’26 (she/her)
+
+## 2023 Student Curators
 
 - Grace Foresman '25 (she/her)
 - Yihan Liu '24 (she/her)
 
-### Mentors
+## Mentors
 
 - Allison Mills, College Archivist (she/her)
+- Shiamin Kwa, Professor of East Asian Languages and Cultures
+- Bethany Greenho, Processing Archivist for College Histories (she/her)
 - Carrie Robbins, Curator of Art and Artifacts (she/they)
 - Marion Hamilton '23, Curatorial Advisor (any pronouns)
 
-### Digital Advisors and Website Developers
+## Digital Advisors and Website Developers
 
 - Alice McGrath, Senior Digital Scholarship Specialist
-- Cameron Boucher, Digital Scholarship Project Manager
+- Cameron Boucher, Digital Scholarship Project Manager & Educational and Scholarly Technology Assistant
 
-### Exhibit Designer
+## Exhibit Designer
 
 - Nathanael Roesch
 
-### Special Thanks To
+## Special Thanks To
 
 - Monique Scott
 - Alicia Walker
@@ -37,5 +47,3 @@ phase: P4
 - Marianne Weldon
 - The American Chinese Museum
 - Jesse Smith
-
-
